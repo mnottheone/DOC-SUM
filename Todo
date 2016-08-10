@@ -26,3 +26,5 @@ TODO LIST:
 4. Training Module  : train model using dataset with RMSProp ( alpha = 0.01, decay = 0.9, momentum = 0.9 ), vary alpha 
 
 5. Evaluation module
+
+6. Schedule Sampling
