@@ -1,0 +1,28 @@
+TODO LIST: 
+==========
+
+1. Get articles from data set and prepare it for input 
+  Dataset : https://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html 
+  
+2. Create RNN model 
+  4 LSTM layer , each 600 hidden units , 2 attention models  
+  
+  sentence  = ( w0, w1, w2, ..., wn, eol)
+      
+  {wo embedding + [0 0 .... 0] } --> layer 1 ..... --> layer 4  ---> { attention_0 , context_0 }
+                                      ||                ||
+  {w1 embedding + layer 1(0) }   --> layer 1 ..... --> layer 4   ---> { attention_1 , context_1 }
+                                      ||                ||
+                                      
+  {wt embedding + layer(t-1) }  --> layer 1 .....  --> layer 4   ---> { attention_t , context_t }
+                                       ||                || 
+  {eol embedding + layer(t-1) }  --> layer 1 .....  --> layer 4   ---> { attention_n , context_n }
+  
+  Note : check out attention value calculation 
+  
+3. Bias Intialisation : Bais_w = softmax(log (freq_w))
+   Word_to_embedding : explore embedding features generally used and implement 
+   
+4. Training Module  : train model using dataset with RMSProp ( alpha = 0.01, decay = 0.9, momentum = 0.9 ), vary alpha 
+
+5. Evaluation module
