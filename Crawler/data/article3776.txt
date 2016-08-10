@@ -1,0 +1,11 @@
+Google to deliver faster web pages by Feb 2016 ||||
+ Googles Accelerated Mobile Pages (AMP) project, that aims at loading web pages on mobiles at a faster speed, will reportedly go live in February 2016. The company said the AMP pages, tested on Pinterest, load four times faster and use eight times less data than traditional mobile-optimized pages. Further, platforms like Twitter, LinkedIn and Viber are considering linking to AMP content. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/44063107-0014-0012-1697-000012345678||||
+Google’s Accelerated Mobile Pages (AMP) project, a challenger to Facebook’s recently launched Instant Articles, will go live by February, according to a latest update.
+Google’s AMP project will see these special pages load in a matter of seconds on mobile search. The Google team will include analytic tools in the AMP pages.
+The search giant has gotten the support of comScore, Adobe Analytics, Parse.ly, Chartbeat, Nielsen, ClickTale and Google Analytics. Google says the preliminary testing from publishers and analytics companies will start in late December.
+Additionally Twitter will also start experimenting to link to AMP content by early 2016 as will LinkedIn. Google’s AMP pages have been tested by Pinterest, and according to the company, these pages load “four times faster and use eight times less data than traditional mobile-optimized pages.”  Google is also targeting messaging apps like LINE, Viber, and Tango to link to AMP content.
+On the advertising front, Google plans to load “faster ads, ads that can resize, and have support for viewability” for AMP pages.
+For websites that have subscription content, Google says that “design draft for metered paywall and subscription access” is currently being reviewed.
+Google says more new publishers have come on board to express their intention to support AMP next year.

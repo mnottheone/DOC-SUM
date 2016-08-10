@@ -1,0 +1,10 @@
+Govt warned against hacking attempts from China ||||
+ The Government's cyber cell has warned all the departments against China-based hacking attempts to break into computers used for official purposes. The matter came to light after 'unusual activity' was sighted on a computer in the Administrative Reforms' department. The hackers have reportedly "approached" 33 computers in various ministries, including the Home and External Affairs ministries. ||||
+ PTI ||||
+ https://full-story.newsinshorts.com/v1/article/bd923859-de74-4b8a-b888-15d8d94fa7db-1||||
+New Delhi, Jun 16 (PTI) The cyber cell of the government has asked all the departments to maintain a strict watch on the computers used for official purposes as China-based hackers were making desperate attempts to break into the system run by the National Informatics Centre (NIC).
+The matter came to light after 'unusual activity' was sighted on the official computer of a Deputy Secretary in the Department of Administrative Reforms and Public Grievances following which the machine was formatted.
+During a random analysis of the same machine recently, it was found that there was yet another attempt to open the system of the officer from an Internet Protocol (IP) address which was located in China, official sources said.
+The hacker was using another official account based out of Kolkata to hack into the system which is being maintained and monitored by NIC, government's Information and Communication Technology infrastructure provider.
+The cyber experts analysed Urchin Tracking Module (UTM) for nearly a week and found that 33 official computers-- six of Ministry of External Affairs, three each of ITBP and Master Earth Station, two each at NIC-Cell at Nirman Bhawan and Department of Personnel and Training and one in the Home Ministry besides others, were being "approached" by Chinese hackers.
+UTM is a simple code that one can attach to a customer's URL in order to track a source, medium, campaign name or if someone is trying to hack the machine.

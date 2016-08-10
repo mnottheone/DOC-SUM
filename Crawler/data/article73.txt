@@ -1,0 +1,12 @@
+Maharashtra govt to open 51 cyber labs on Aug 15 ||||
+ The Maharashtra government will open 51 cyber laboratories on August 15 this year, Additional Chief Secretary (Home) KP Bakshi said on Thursday. The new laboratories will cover 34 districts across the state. Notably, Maharashtra has seen a rise of 142.1% from 2013 to 2015 in the registration of cyber crime cases, according to the Crime in India Report 2015. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/174b6764-9285-4cde-a327-00c92aede28f-1||||
+The Maharashtra government will open 51 cyber laboratories across the state on August 15, Additional Chief Secretary (Home) K P Bakshi said at a cyber security conference organised by the Securities and Exchange Board of India (Sebi) in Mumbai Thursday.
+“With the help of Centre for Development of Advance Computing, railway board, Cert-In, and the department of telecom, we have now been able to identify the system integrator, which is a government agency, and a bandwidth provider, also a government agency,” he added.
+The new cyber labs will cover 34 districts, and involve seven IGs, nine police commissionerates and the headquarters.
+The state has seen a steep rise of 142.1% in registration of cyber crimes cases, from 907 in 2013 to 2,195 in 2015, the Crime in India Report 2015 says. While Maharashtra has recorded the highest number of cyber crimes in the country, its conviction rate is the poorest. Only five out of the 4,981 cases registered in the last three years resulted in conviction.
+Bakshi also said that the state is working to form CERT-Maharahstra, along the lines of the Indian Computer Emergency Response Team (CERT-In). CERT-In is a national information technology security organisation. The government has engaged experts from Defence Research and Development Organization (DRDO), the Army and the Navy to set up CERT-Maharashtra.
+“Our main aim is to make sure that the speed at which we establish this is faster than the speed at which adversaries are trying to attack us. I am sure we will be able to set up CERT-Maharashtra by March 2017,” said Bakshi.
+It will be managed by an independent autonomous body comprised by renowned cyber experts and some government officials, including the chief secretary of Maharashtra.”This autonomous body will be in place by December,” said Bakshi.
+Bakshi also asked all the financial institutions to formally or informally register their security division with the cyber cell of the Maharashtra Police, for better assistance in case of cyber attacks and data theft.

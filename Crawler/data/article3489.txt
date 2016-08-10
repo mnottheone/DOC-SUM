@@ -1,0 +1,8 @@
+Microsoft launches Selfie app on iOS ||||
+ Microsoft has launched its Selfie app on iOS that lets users edit selfies with the help of features like noise reduction and colour balance. The app supports 13 photo filters and also allows users to compare the edited image with the original one. It "takes age, gender, skin tone, lighting, and many variables into account" and applies different models automatically. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/60597408-0011-0012-4286-000012345678||||
+Microsoft has come up with a New Year’s gift for iOS users in the form of  their Selfie app. Microsoft Selfie enhances the photo quality by taking into account various factors such as lighting, colour balance and skin tone. The company has not yet made any official announcements about when the app will be rolled out for Android users.
+MUSAT READ: Snapseed to Retrica: Top photo-editing apps for that perfect picture 
+Microsoft Selfie app comes with 13 photo filters and other features like automatic exposure, noise reduction and intelligent enhancement. It also considers user’s gender, age etc in order to bring out the best selfies. Users can either click pictures with filters from the device’s rear or front camera; or choose an existing photo from storage. The app is compatible with iOS 8.0 and above.
+Earlier in the year, we saw how Redmond-based giant used machine learning technology to detect user’s age when it launched ‘How-old.net”. The Microsoft site allowed users upload an image and the site then guessed their age, based on the picture.

@@ -1,0 +1,26 @@
+Microsoft posts $3.1 bn profit in June quarter ||||
+ Microsoft on Tuesday reported a net income of $3.1 billion for the quarter ended June, as against the loss of $3.2 billion in the year-ago period. However, its revenue dipped to $20.6 billion from $22.2 billion on a year-on-year basis. Further, the tech firm closed its fiscal year with a 38% rise in its net income to $16.8 billion. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/34b75f5d-4b95-4740-9898-8b2b7c4b51b0-1||||
+Sharp growth in its commercial cloud computing business helped lift Microsoft Corp's (MSFT.O) quarterly revenue above Wall Street's expectations, sending the technology company's shares up more than 4 percent in after-hours trading. 
+The new and growing cloud business - essentially selling computing services and storage in its data centers to corporate customers - is one of the priorities for Chief Executive Satya Nadella, who took the helm of the world's largest software company in early 2014
+Nadella has refocused the company on cloud and mobile in the face of stagnation in its traditional PC-based Windows business.
+"Only two companies are setting the tone of enterprise computing, Microsoft Azure and Amazon AWS," said Trip Chowdhry, managing director of Global Equities Research, referring to Amazon.com Inc's (AMZN.O) web services unit. 
+"These are the only two initiators in the whole enterprise space that are going to see growth in excess of 80 percent year-over-year for at least two or three years.”
+Microsoft's revenue in what it calls its "intelligent cloud" businesses, which includes the Azure cloud platform and server software, rose 7 percent to $6.7 billion.
+Revenue for Azure - which customers can use to host their website, apps or data - grew 102 percent, but Microsoft did not say what the actual revenue figure was.
+That makes an annual "run rate" of $12.1 billion for cloud-related revenue, up sharply from over $8 billion a year ago. Microsoft calculates run rate by multiplying revenue in the final month of the quarter for its cloud businesses by 12.
+Despite the surge in revenue, Microsoft is still struggling to increase profit in the capital-intensive cloud business. It said operating profit in its intelligent cloud businesses fell 17 percent to $2.19 billion in the quarter. 
+Microsoft said the drop was mainly due to higher research, development, sales and marketing costs, as it makes investments and acquisitions to "drive cloud sales capacity and innovation."  
+
+COMING OUT OF DIP  
+Overall, Microsoft posted revenue for its fiscal fourth quarter ended June 30, adjusted for some one-time items, of $22.6 billion, up 2 percent from a year ago. That beat Wall Street's average forecast of $22.1 billion.  
+It reported net income of $3.1 billion, or 39 cents per share, compared with a loss of $3.2 billion, or 40 cents per share, a year earlier. In the year-ago quarter it took a $7.5 billion charge to write down the value of its purchase of Nokia's handset business. 
+Excluding one-time items in the latest quarter, Microsoft reported earnings of 69 cents per share. That was ahead of analysts' average forecast of 58 cents. 
+Sanford Bernstein analyst Mark Moerdler said Microsoft is finally making headway shifting Microsoft Office software clients onto subscription-based cloud services. Office consumer products and cloud services were up 19 percent and Office 365 increased subscribers to 23.1 million during the quarter.
+"People looked at Office as a product that was going to be in decline," said Moerdler. "We saw a dip, last quarter we came out of that dip, and now we're accelerating out of the dip."
+Nadella, who announced the company's largest-ever deal last month, striking a deal to pay $26.2 billion for LinkedIn Corp (LNKD.N), has staked Microsoft's future on mobile and the cloud. 
+So far his plan has been well received by investors. Microsoft shares are up 64 percent since his predecessor as CEO Steve Ballmer announced his plan to retire, in August 2013. The S&P 500 is up 31 percent in the same time. 
+Microsoft shares were up 4.35 percent at $55.40 in extended trading on Tuesday.
+
+ (Reporting by Rishika Sadam and Narottam Medhora in Bengaluru; Editing by Saumyadeb Chakrabarty and Bill Rigby)

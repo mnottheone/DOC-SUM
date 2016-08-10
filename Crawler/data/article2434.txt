@@ -1,0 +1,25 @@
+Heatwave killed 4,204 in last four years ||||
+ In the past four years, 4,204 people have died due to a heatwave, Minister of State for Earth Sciences, YS Chowdary informed the Lok Sabha on Wednesday. He said that 1,433 people died due to a heatwave in 2013, 549 in 2014, and 2,135 in 2015. Meanwhile, the heatwave claimed 87 lives till March this year. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/a8fa66f5-946f-48a1-b338-1f7527d4226a-1||||
+Heatwave has claimed over 4,000 lives in the last four years, with 87 people succumbing to heatwave this year until March, the government said on Wednesday.
+In a written response to a question in Lok Sabha asked by over nine MPs, Y S Chowdary, Minister of State for Earth Sciences, said in the last four years, 4,204 people have died due to heatwave.
+In 2013, 1,433 people died due to heatwave of which 1,393 were from undivided Andhra Pradesh. In 2014, the figure dipped to 549, but rose to 2,135 in 2015, with Andhra Pradesh recording over 1,422 deaths, followed by 584 in Telangana.
+
+
+Share This Article
+
+
+
+Related Article This is how ISRO is mapping the heatwave in South India Seven more heat deaths in Telangana, Odisha; 5 perish in Assam storm Heatwave in Pakistan kills over 1,200, army called in to deal with situation Heat wave continues, death toll in Andhra, Telangana crosses 1,900 Heat wave continues to lash India; death toll rises to 368Killer heatwave sweeps across Orissa,worst in 11 years
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Until March 2016, the intense heatwave has claimed the lives of 87 people, with Telangana topping the list with 56 deaths, followed by 19 in Odisha. Andhra Pradesh has recorded 8 eight deaths, while Maharashtra, Tamil Nadu, Karnataka and Kerala have one casualty each due to heatwave.
+“During the 2016 hot weather season (April to June), warmer than normal temperatures are expected in all meteorological sub-divisions of the country. Seasonal (April-June) average temperatures over northwest India are expected to be above normal by 1 degree Celsius.
+“Above normal heatwave conditions are very likely over central and northwest India during 2016 hot weather season,” the minister said.
+WATCH INDIAN EXPRESS VIDEOS HERE

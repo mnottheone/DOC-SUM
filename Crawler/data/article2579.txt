@@ -1,0 +1,14 @@
+Google launches Chromecast devices in India ||||
+ Google on Wednesday launched its latest Chromecast and Chromecast Audio devices in India at 3,399. Chromecast is a device that allows streaming media on television while Chromecast Audio allows streaming music on speakers, both of which can be controlled through a mobile or web application. The company is also offering free six-month Saavn Pro and HOOQ subscriptions with the devices. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/59337924-0013-0004-1136-000012345678||||
+Google has officially launched the new Chromecast and Chromecast Audio devices in India. The Chromecast and Chromecast Audio were initially launched at Google’s Nexus event in October.
+Google Chromecast announced today is the second generation product that casts audio or video to a TV. Google Chromecast now supports dual-band WiFi for better streaming of content.
+Google says its focus is on gaming and it believes gaming is the biggest part of entertainment experience. Google has released gaming api for Chromecast allowing developers to add cast feature.
+Read: Google Chromecast Express Review: The big screen advantage
+Google has also redesigned its Cast app for catching on latest trending content. Google will also enable deeper personalisation in the future updates for better content streaming.
+The most useful feature is the Get apps app inside Cast app which helps to find contents easily. It delivers latest app recommendations and offers. The focus for Google is on news apps and entertainment apps.
+Also Read: Google introduces two new Chromecasts, will cost $35 each 
+Google has also announced Chromecast Audio dongle for music streaming. Wynk and Saavn are the initial music streaming players supporting Google Cast. Chromecast Audio connects to any speaker via aux input. It also supports RCA input for expanded connectivity option.
+Google has priced both the devices at Rs 3,399 and will be available from Flipkart, Snapdeal, Paytm, Reliance Digital and Croma Retail.
+Watch all our video reviews 

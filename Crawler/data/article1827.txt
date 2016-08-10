@@ -1,0 +1,18 @@
+Wristband measures alcohol levels via sweat ||||
+ San Francisco-based electronics company BACtrack, has created a wristband named 'Skyn' which can measure blood alcohol levels in a human body via sweat on the skin. The device has won $200,000 in prize in a United States government competition for alcohol monitoring devices. The app-connected device also vibrates the smartphone to remind users to slow down drinking. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/9edcb408-cc49-4927-8721-badec03b6d86-1||||
+SAN FRANCISCO A San Francisco-based company has won a U.S. government-sponsored competition with an alcohol monitoring devices that can be worn on the wrist, the latest milestone in the development of wearable technologies that monitor and diagnose medical conditions.
+BACtrack, a privately held medical device maker, took the $200,000 top prize in the National Institutes of Health (NIH) Wearable Biosensor Challenge on Thursday with its wristband monitor, which measures blood alcohol levels via sweat on the skin.
+The product, dubbed BACtrack Skyn, has not yet been submitted to the Food and Drug Administration for marketing approval.
+Dr. George Koob, head of the NIH's National Institute on Alcohol Abuse and Alcoholism, said he expected the device to be a valuable resource for alcohol research community.
+“It can help doctors accurately measure a patient’s drinking history, and not just depend on the most recent tests," Koob said. "This can help a lot with the treatment.”
+Medical, law enforcement and transportation officials have long sought better technology for detection of blood alcohol levels. Traditional portable breath alcohol testers (PBTs) are unwieldy and can cost over $1,000, and they don't provide ongoing monitoring of alcohol levels.
+“The blood alcohol monitoring devices used in legal and medical circles are big and bulky, like a ball and chain for the ones using it,” said Keith Nothacker, president of BACtrack. “We wanted to make something people would want to wear."
+The device in its current form will not, however, be a substitute for breathalyzers or blood tests used by law enforcement, because the device does not provide real-time blood-alcohol levels. 
+Nothacker said it takes about 45 minutes for ethanol to be transmitted through the skin, and that the device is designed to provide a recent history of alcohol use.
+BACtrack has been experimenting with consumer-centric alcohol testing for several years. In 2013, it introduced the BACtrack Mobile Breathalyzer, which syncs with a smartphone to track blood alcohol content.
+BACtrack beat seven other smaller companies to win the NIH competition. Milo, a Santa Barbara based technology startup, won the $100,000 second-place prize for its design of a wearable alcohol content tracker that also uses a skin sensor and  communicates with a smartphone using wireless technology.
+(Corrects third paragraph to show that the product has not been submitted to regulators for approval, not that it is awaiting approval and is expected to be on the market by year-end. And corrects ninth paragraph to say it takes about 45 minutes for ethanol to be transmitted through the skin, not for it to show up in the blood)
+
+ (Reporting by Mir Ubaid; Editing by Jonathan Weber and Cynthia Osterman)

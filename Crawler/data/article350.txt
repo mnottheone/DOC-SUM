@@ -1,0 +1,17 @@
+IBM announces projects to fight Zika ||||
+ IBM recently announced it would provide its technology and resources to help track the spread of Zika. It is collaborating with the New York-based Cary Institute of Ecosystem Studies to devise algorithms that can determine which primates are the virus carriers. It also runs the 'OpenZika project' for screening millions of chemical compounds to identify candidates to combat the virus. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/5826f531-da1c-4172-93e1-6a93f6b39490-1||||
+International Business Machines Corp said on Wednesday it would provide its technology and resources to help track the spread of the Zika virus.
+Oswaldo Cruz Foundation (Fiocruz), a leading research institution affiliated with the Brazilian Ministry of Health, plans to use IBM's technology to analyze information from official data about human travel patterns to anecdotal observations recorded on social media.
+Global health officials are racing to better understand the Zika virus, which has caused a major outbreak that began in Brazil last year and has spread to many countries in the Americas. 
+IBM also said it plans to donate a one-year subscription feed of highly local, daily rainfall, average temperature and relative humidity data to the U.S. Fund for United Nations Children's Emergency Fund (UNICEF).
+Rainfall, temperature and humidity play key roles in the development of the Aedes aegypti mosquito, which carries Zika as well as dengue, chikungunya and Yellow Fever.
+IBM is also collaborating with the New York-based Cary Institute of Ecosystem Studies to collect and mine biological and ecological data to help devise algorithms that can determine which primates are carriers for the virus.
+IBM also runs the 'OpenZika project' on the company's World Community Grid, a crowd-sourced supercomputer. 
+The initiative allows scientists in the United States and  Brazil to screen millions of chemical compounds to identify candidates to combat the virus. 
+More than a dozen small biotech firms and other organizations are developing vaccines against Zika, which is linked to birth defects and neurological disorders, although most work is at a nascent stage. 
+Google, a unit of Alphabet Inc, said in March it was working with UNICEF to analyze data in an effort to map and anticipate the spread of the virus.   
+
+
+ (Reporting by Natalie Grover in Bengaluru; Editing by Sriraj Kalluvila)

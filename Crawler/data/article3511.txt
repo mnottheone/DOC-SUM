@@ -1,0 +1,11 @@
+Samsung launches new chip for health wearables ||||
+ Samsung on Tuesday launched a new chip called 'Bio-Processor' focused at wearable health devices. According to Samsung, it is the first chip that is able to collect multiple health measurements including heart rate, body temperature, fat and process them. The company is also set to launch a new device in January 2016 that will be powered by the new chip. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/68177590-0009-0012-4105-000012345678||||
+Tech giant Samsung Electronics Co Ltd said on Tuesday it has started selling a new processor aimed at health-focused wearable products, seeking to tap into a fast-growing market.
+The new Bio-processor chip is the first that can take multiple measurements – including body fat, skin temperature and heart rate – as well as process the information collected by itself, Samsung said in a statement.
+To help clients accelerate product development using the chip, the firm said it has developed “reference platform” products such as a wrist band to demonstrate the chip’s capabilities.
+Watch our video reviews 
+The step comes amid a push by tech firms to develop and sell wearable products – such as smartwatches – that offer a variety of health-related features including data collection and monitoring.
+Some firms are seeking to launch sophisticated products capable of detecting and monitoring more serious diseases to tap in to a market that Soreon Research says could be worth more than $41 billion in 2020.
+Samsung began mass production of the new chips in December. It said the processor will power a new device to be launched in the first half of 2016, but declined to elaborate on the maker of the device.

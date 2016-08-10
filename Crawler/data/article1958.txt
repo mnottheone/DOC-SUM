@@ -1,0 +1,28 @@
+NGT sends notice over green pigment on Taj Mahal ||||
+ Acting on a petition, the National Green Tribunal on Monday issued notices to the Environment Ministry and UP government regarding dark green pigmentation on Taj Mahal's exterior. The pigmentation was caused due to 'attacks' by insects which breed rapidly due to the dumping of wastes in Yamuna, the petition claimed. The staining can reduce the tourist footfall, it further said. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/93781e30-59ab-4dff-9822-ce2d14f314ce-1||||
+Dark green pigment on Taj Mahal’s white marble exterior has caught the attention of the National Green Tribunal (NGT). A petition filed by environmental activist D K Joshi drew the bench’s attention to stagnation of water in the Yamuna, which has led to breeding of Geoldichironomus, an insect that reproduces rapidly and is an indicator of water quality and pollution.
+“Attacks” by the insects on the monument are believed to be the cause of the pigment, according to a preliminary report filed by School of Entomology, St. John’s College, Agra.
+The NGT has now issued notices to Ministry of Environment and Forests, Uttar Pradesh government, Uttar Pradesh Pollution Control Board and the State Environment Impact Assessment Authority and sought their responses on the steps being taken to curtail the adverse impact on the UNESCO world heritage site.
+
+
+Share This Article
+
+
+
+Related Article Uttar Pradesh making millions from Taj Mahal yet unable to protect it, says NGT NGT notice to centre, TTZ inactions on pollution affecting Taj Mahal NGT notice to Delhi, UP over poor air quality near Kaushambi Hardlook Yamuna pollution: Delhi High Court, green tribunal eye on water pollution NGT orders inquiry into felling of 4,000 trees in Taj Eco Zone Green tribunal bans illegal slaughterhouses in Uttar Pradesh
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+According to the report, high concentration of phosphorus in the water and underlying sediments of the water enhance the reproductive productivity of the insect that can lay more than a thousand eggs at a time.
+The report further states that besides staining the wall, the insects can adversely impact tourist footfall.
+The report also states that the insect repellent that the authorities are reportedly using should not be used on the walls of the monument.
+According to the petition, the reason behind the insects’ “explosive breeding” is dumping of municipal solid waste in the Yamuna, leading to water stagnation.
+WATCH INDIAN EXPRESS VIDEOS HERE
+The petition also refers to a study conducted by Archaeological Survey of India.
+An ASI official said, “Our report points out the issue to the state government and the reason for excess breeding is also known. It is now up to the authorities concerned to take necessary steps.”

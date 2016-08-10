@@ -1,0 +1,29 @@
+Pathankot case: NIA writes to MEA for Pak visit ||||
+ The National Investigation Agency (NIA) has written to the External Affairs Ministry to forward its first formal request to Pakistan for a reciprocal visit, to further investigate the Pathankot attack. The NIA said it did not receive any response from Pakistan to a letter seeking judicial assistance, although the Pakistan Joint Investigation Team, which visited India earlier, assured action. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/2e6a25f1-62a3-4cf7-b86e-8d13017b2af9-1||||
+With no reply yet to the Letters Rogatory sent to Islamabad on the Pathankot airbase attack case, the National Investigation Agency (NIA) has sent its first “formal request” for a visit to Pakistan to carry forward its investigation into the terror case.
+Sources have told The Indian Express that the NIA has sent a letter to the Ministry of External Affairs (MEA) which will forward it to authorities in Pakistan.
+The NIA, sources said, wants to record statements, among others, of Jaish-e-Mohammed chief Maulana Masood Azhar, his brother Abdul Rauf, and Shahid Latif and Kashif Jaan, the alleged handlers of the terrorists who struck Pathankot.
+A joint investigation team (JIT) from Pakistan, including an ISI officer, had visited India from March 27-31 to conduct its own probe into the attack. They held meetings with NIA officers in New Delhi and were also allowed access to the Pathankot airbase. India, in turn, has been pressing Pakistan to allow a reciprocal visit by the NIA.
+
+
+Share This Article
+
+
+
+Related Article Pathankot attack: Fresh Red Corner notice against JeM head Masood Azhar, brother Pathankot attack probe: NIA to send fresh LRs to Pakistan Pathankot probe: India to request Pakistan for NIA access ‘Probe team agrees Pathankot terrorists came from Pakistan’ Pathankot attack probe: Pakistan's JIT to hold meetings with NIA officers today Pathankot attack probe: Pak investigators leave for India
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+“We have been seeking reciprocity from Pakistan on the Pathankot probe. While the issue of a reciprocal visit by the NIA to Pakistan was discussed during Foreign Secretary-level talks on the sidelines of the Heart of Asia conference, we are now sending the first formal request seeking a visit to Pakistan. A letter is being sent to the Ministry of External Affairs for further communication to Pakistan,” an NIA officer said.
+Last month, Minister of State for Home Affairs Haribhai Parthibhai Chaudhary informed Rajya Sabha that the Pakistan JIT had been informed that a team from the NIA would like to visit Pakistan to carry out investigation there in the Pathankot attack case.
+“The interaction with the JIT was held in accordance with Terms of Reference mutually agreed on the basis of reciprocity,” Chaudhary said. According to him, the Pakistan JIT assured full cooperation and promised to execute the Letters Rogatory received by them. “The government is in touch with the relevant Pakistani authorities in the matter,” he said.
+Letters Rogatory is a formal request from a court to a foreign court for some type of judicial assistance. But in a statement on April 7, Pakistan High Commissioner Abdul Basit said “the investigation (into the Pathankot attack) was not about reciprocity”. He said “cooperation” was key to the investigation, not “reciprocity”.
+WATCH INDIAN EXPRESS VIDEOS HERE
+After Basit’s comments, the Ministry of External Affairs said, “We have seen comments by the Pakistani High Commissioner on the visit of the JIT team to investigate the terrorist attack on the Pathankot airbase that have reference to reciprocity.”
+“The Ministry would like to clarify that on March 26, before the visit of the JIT, the Indian High Commission formally conveyed to the Pakistani Foreign Ministry that the terms of reference are broadly agreed to with the proviso that these would be on the basis of reciprocity and followed in accordance with extant legal provisions. Subsequently, the JIT visited from March 27 to April 1,” the MEA said.

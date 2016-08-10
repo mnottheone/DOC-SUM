@@ -1,0 +1,50 @@
+Pathankot: Forensic reports deny 2 terrorists ||||
+ Forensic reports have failed to confirm the government's claims that the charred material recovered from the Pathankot Airbase were the remains of two unidentified terrorists, The Indian Express has reported. According to experts, the reports only show that the remains contain male DNA, but give no indication of the number of individuals the genetic material came from. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/b683198c-5da8-446d-9853-9c47a7b12ae5-1||||
+Forensic reports have failed to corroborate government claims that charred material recovered from the Indian Air Force base in Pathankot were the remains of two unidentified terrorists, an investigation by The Indian Express has revealed. The reports of the tests by the Central Forensic Science Laboratory (CFSL) in Chandigarh were exclusively obtained by this newspaper and assessed by Indian and international experts.
+READ | How science can make bones and ashes speak
+The reports, experts say, only show that there is male DNA in the remains — but give no indication of how many individuals the genetic material came from, nor that it came from two distinct males. The charred remains, tests showed, inexplicably contained genetic material from multiple individuals.
+WATCH VIDEO | Pathankot Attack: How Many Terrorists Were There?
+
+In contrast, Home Minister Rajnath Singh had told Parliament in March that the CFSL report, which is yet to be made public, established that the charred material found in the Airmen’s Billet building were the remains of two terrorists claimed to have been killed by the National Security Guard (NSG). These were in addition to four others killed outside an abandoned scrapyard near the base perimeter.
+The CFSL report, Singh said, “makes it clear that those inside the building were two terrorists”. The laboratory, he said, had “come to the conclusion that traces of two human beings were found in the remains collected from Pathankot airbase”.
+
+
+Share This Article
+
+
+
+Related Article Pathankot Attack: Indian Express' Investigation Pathankot Attack: How Many Terrorists Were There? How science can make bones and ashes speak Pathankot probe: Six terrorists or four? NIA will send  charred remains for re-test Rajnath Singh: Forensic report confirms 6 terrorists hit Pathankot airbase Forensics can’t find human remains: Only 4 Pathankot attackers confirmed
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+These claims, said Allan Jamieson, Director of the Glasgow-based Forensic Institute and one of the world’s leading experts on DNA forensics, “are just preposterous” going by the CFSL report which, he said, does not tell us “anything about the people other than their gender”.
+The National Investigation Agency (NIA) had ordered tests on the charred remains after failing to recover any weapons, explosives or fragments of munitions from inside the Airmen’s Billet.
+The debate over the charred remains comes in the midst of a battle by India to secure access for the NIA to suspects in Pakistan. The NIA remains skeptical that six terrorists were involved in the attack, and has sought information from Pakistan only on the four identified attackers.
+The CFSL tests established that the charred remains contain male genetic markers — but failed to get results for eight other genetic elements needed to assemble a distinct genetic fingerprint. These eight tests all showed the presence of mixed alleles — in other words, genetic material from multiple individuals.
+The report does not explain how samples taken from different parts of separate charred masses all contained this mixed genetic material — an omission Jamieson described as “very curious”.
+The report only states that “the burnt mass material belongs to human male”. There is no reference anywhere in the report to support the claim that the burnt masses came from individuals killed in the course of a fire engagement. The report does not even identify which parts of the human body the burnt masses came from.
+WATCH VIDEO | Pathankot Attack: Indian Express’ Investigation
+
+The CFSL report also does not include a record of what alleles were found in which samples. “The report should normally have recorded these things carefully,” said K Thangaraj, a senior scientist at the Centre for Cellular and Molecular Biology in Hyderabad. “This would enable investigators to know if the charred material is from two, three, or N number of people, and check for the sources of the contamination.”
+“It is entirely unclear why there should be mixed profiles,” Jamieson said, “and curious why the results show only the gender results when reports normally include the DNA types at all of the tested areas.”
+Put simply, this means that CFSL Chandigarh’s findings are of little use for the purpose of investigation.
+Even if families of the two alleged terrorists were, in the future, to be identified, there would be no way to match them against the genetic material recovered from the Airmen’s Billet.
+The four men, whose bodies were found, were identified as Nasir Hussain of Vehari — the man known to have made several calls home as the assault was underway — along with Hafiz Abu Bakar of Gujranwala, Umar Farooq of Sanghar and Abdul Qayum of Sukkur.
+Information on mixed alleles isn’t the only data missing from the report, experts pointed out. The report states that the STR profile (short tandem profile in which genetic codes from a pre-specified part of the gene is used to identify the genetic fingerprint) was obtained from “genetic material isolated from highly carbonized tissue and bone material due to high temperature effect”.
+The report is silent, though, on the precise kind of tissue the DNA was extracted from — an important issue for experts seeking to assess the reliability of the CFSL findings. “We need to know exactly what the genetic material came from to be able to evaluate what the results mean,” Jamieson said.
+The reason is simple: DNA degrades at very high temperatures, making it harder to recover for forensic use.
+In 2008, scientist Nicole von Wurmb-Schwark and her co-authors at the Institute for Legal Medicine in Kiel, Germany — using the same equipment as the CFSL does — found tests on cremated remains were highly unreliable. Their summary: “STR typing of cremation remains has to be considered unreliable and not suitable for forensic purpose.”
+The independent experts who appraised CFSL Chandigarh’s findings also pointed to several other obvious anomalies.
+For example, the lab’s report notes that the samples it was given included “black colour burnt cloth pieces”. It isn’t clear, though, how cloth could have survived a fire that carbonized human tissue and bone.
+Even more important, there has been no effort to explain why no traces of weapons and explosives — or even fragments suggesting they had once been present — surfaced during seven rounds of searches of the Airmen’s Billet conducted by the NIA. “In at least one of the rounds,” a senior NIA officer says, “we literally went through the debris with a sieve, and drew a blank.”
+The NIA has not shared CFSL’s results with Pakistani investigators, and has sought information only on the four terrorists clearly identified in the course of the investigation.
+The NIA has also decided not to pursue the origins of the charred material further, saying it is not material to the Pathankot investigation. Top NIA officials say they wish to avoid an unnecessary confrontation with the NSG’s Special Action Group — an organisation which, though staffed by the Indian Army, reports to the Ministry of Home Affairs.
+Asha Dhir, Acting Director of CFSL, Chandigarh, did not respond to an email and text messages seeking comment on the questions raised by experts who appraised the reports for The Indian Express.
+The NIA also declined to discuss the forensic evidence, saying it would submit the CFSL’s reports in court while filing charges in the case.
+The Ministry of Home Affairs, which controls both the CFSL and NIA, also did not respond to a detailed questionnaire for a response on the problems that experts noted in the Pathankot forensic report.

@@ -1,0 +1,44 @@
+AIADMK releases manifesto; Promises WiFi, phones ||||
+ Tamil Nadu Chief Minister Jayalalithaa on Thursday released AIADMK's manifesto for the upcoming Assembly election, scheduled on May 16. In the manifesto, AIADMK promised several freebies, including free mobile phones for all ration card holders, free laptops for class 10th and 12th students, 100 units of free electricity every two months and free wi-fi at public places. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/429f961f-a371-4a67-a9e7-b3a471e4fd7c-1||||
+Hundred units of free power for households every two months, 50 per cent subsidy for women to buy scooters, free laptops with Internet for students in Class 11 and Class 12, eight grams of gold for women getting married, free cellphones for all ration-card holders, Rs 18,000 as maternity assistance, maternity leave for nine months and Rs 40,000 crore in loans for farmers from 2016-2021.
+With statewide opinion polls suggesting a swing against the ruling AIADMK government, Chief Minister J Jayalalithaa on Thursday unveiled a string of freebies, particularly targeting women and economically weaker sections, in her party’s manifesto for the Tamil Nadu assembly elections on May 16.
+Referring to the successful schemes launched by her government, including the popular Amma canteens, Jayalalithaa told a massive gathering of over a lakh in Erode’s Perundurai: “A mother knows the need of her children. You will be getting many more schemes and services during my government.”
+
+
+Share This Article
+
+
+
+Related Article Jayalalithaa bucks anti-incumbency trend, writing on wall at her huge rallies The Jayalalithaa model works: Power to the people and freebies for the poor A little bit more: How Jayalalithaa's freebies compare to what she's offered before Voters indifferent: Tamil Nadu is facing a different election this time In Tamil Nadu, no change in tradition of people voting for the winnable partyFreebie war: Jaya showers voters with laptops,free rice
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Appealing to voters to bring her party back to power and suggesting that it would signal the “arrival of spring”, Jayalalithaa said, “I am made of people and I am for the people.”
+The AIADMK manifesto, which was released almost two weeks after the main rival DMK rolled out its poll promises, was prepared by a 14-member team. Its release date had to be postponed with Jayalalithaa consulting a number of experts before finalising the draft.
+Apart from extending maternity leave from six to nine months, the AIADMK manifesto also said that women would be trained in driving vehicles, with subsidies to be provided for buying autorickshaws. It also includes a hike in assistance to Rs 50,000 for fishermen and their families.
+Experts said that key promises such as free cellphones, maternity schemes, hike in gold assistance by four grams, free power and a breakfast scheme for all primary school students may trigger a swing in favour of her party in rural areas.
+But they also questioned the free power scheme at a time when the state-run Tamil Nadu Generation and Distribution Corporation Limited (TNGEDCO) is running at a debt of Rs 80,000 crore.
+Targeting households and women, Jayalalithaa promised to fix the price of state-backed Aavin milk at Rs 25 per litre. The manifesto also said that 20 per cent land will be reserved for SC/ST entrepreneurs in Small and Medium Enterprise (SME) industrial parks.
+The other key promises include: An Amma master health check-up plan, health check-up centres for women with subsidised rates, uninterrupted power supply, an Amma banking card for the poor to avail of state services, revised salaries for government employees as per the Seventh Pay Commission, retention of the old pension scheme for government employees, revised housing loans of up to Rs 40 lakh for government employees, education loans for unemployed students, and Rs 1 lakh assistance for temples.
+The manifesto proposes an exclusive policy for granite mining, Rs 500 gift coupons for ration-card holders during the Pongal festival, 10 lakh houses under various schemes and free WiFi in public places.
+The manifesto also promises to take measures to increase the maximum water level — from 142 feet to 152 feet — of the Mullaperiyar Dam, which is a lifeline for farmers in the Vaigai basin bordering Kerala and is the subject of a long-running dispute with the neighbouring state.
+Suresh Babu, a senior professor in IIT-Madras who specialises in policy and economy, said there was “an element of surprise” in the AIADMK list. “But you can’t give an overdose of promises and freebies to people when your focus is not on the productive sectors of the economy,” he said.
+Key points from AIADMK manifesto:
+1. 100 unit free electricity to every household
+2. Employment for one from every family
+3. Monetary assistance for fishermen to be hiked to Rs 5000
+4. Free laptops for class 11 and class 12 students with free internet connection
+5. Working women to get 50 per cent subsidy for buying scooters
+6. Amma – Financial assistance to pregnant ladies will be raised to Rs 18000. The manifesto also promises nine months maternity leave.
+7. Under free meals scheme all children will be provided morning breakfast
+8. Old pension scheme for Govt employees to continue, Housing loan for government employees to be raised to Rs.40 lakh
+9. One sovereign gold (8 gm) as marriage assistance
+10. Aavin milk price at Rs 25 per litre
+11. Education loans of unemployed youth to be paid by the government
+WATCH INDIAN EXPRESS VIDEOS HERE

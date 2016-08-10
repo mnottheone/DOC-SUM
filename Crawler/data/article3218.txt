@@ -1,0 +1,30 @@
+RBI, not MUDRA bank to regulate MFIs: Govt ||||
+ The government on Monday said the Micro Units Development and Refinance Agency (MUDRA) Bank would not regulate Micro Finance Institutions (MFI) as proposed by the Finance Ministry earlier. Reserve Bank of India will continue to regulate the MFIs registered as Non Banking Finance Companies. MUDRA scheme was set up to refinance loans upto 10 lakh to non-corporate small borrowers. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/03061773-0007-0001-6958-000012345678||||
+Clarifying its stand on regulation of microfinance companies, the government has said that the Reserve Bank of India would continue to regulate MFIs registered as non-banking finance companies (NBFCs) with the central bank. MFIs will not be regulated by the Micro Units Development and Refinance Agency (MUDRA) Bank, as proposed by the finance ministry earlier.
+“MUDRA Bank will regulate banks only for the purpose of MUDRA loaning. MUDRA Bank will not be the regulator of the micro finance institutions. We already have the RBI as a regulator for the MFIs registered as the non banking finance companies,” Department of Financial Services Secretary Anjuly Chib Duggal said.
+The proposed Bank will also oversee the Rs 3,000 crore Credit Guarantee Fund that the government has approved last week to facilitate the MUDRA scheme. The Fund will provide insurance against default on MUDRA loans to the maximum extent of 50%, thereby helping reduce risk taken by banks and financial institutions.
+In a statement on March 1, 2015, a day after the Budget, the finance ministry had said that the MUDRA Bank will regulate
+all MFIs.
+
+
+Share This Article
+
+
+
+Related Article Disbursed refinance funds under MUDRA at Rs 1,364 cr till Feb 1st week Rs 8K cr credit guarantee funds for MUDRA, Stand Up India 30 crore landless people to get jobs once land bill is passed, says Finance Minister Arun Jaitley MUDRA to provide loans up to Rs 10 lakhs to small businesses FinMin considers clubbing MFI & MUDRA Bank BillsUnused priority sector lending funds to be diverted to MUDRA Bank
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+“This (MUDRA) Bank would be responsible for regulating and refinancing all Micro-finance Institutions (MFI) which are in the business of lending to micro/small business entities engaged in manufacturing, trading and services activities,” the finance ministry had said.
+The MUDRA Bank would primarily be responsible for laying down policy guidelines for micro/small enterprise financing business, registration of MFI entities, regulation of MFI entities, accreditation /rating of MFI entities, the finance ministry had said.
+MUDRA Ltd currently operates as an NBFC registered with the RBI. The government was expected to come out with a legislation to empower MUDRA to regulate MFIs. While the government has last week approved conversion of MUDRA Ltd into MUDRA-SIDBI Bank, it is now clear that the Bank will not regulate MFIs registered with RBI.
+Prime Minister Narendra Modi launched the MUDRA Scheme on April 8, 2015. The scheme refinances collateral-free loans of up to Rs 10 lakh given by lending institutions to non-corporate small borrowers, for income-generating activities in the non-farm segment.
+Banks and MFIs can draw refinance under the Scheme after becoming member lending institutions of MUDRA, which given these institutions another avenue to raise funds from.
+As on January 1, 2016, MUDRA loans amounting to Rs 71,312 crore have been disbursed to 1.73 crore borrowers by the banks and MFIs. The government has refinanced loans to the tune of Rs 2,000 crore under the MUDRA scheme as on January 1.
+The MUDRA scheme provides refinance for three types of loans given by lending institutions – Shiatsu loans are up to Rs 50,000, Kishor loans are between Rs 50,001 and Rs 5 lakh and Tarun loans of Rs 5-10 lakhs.

@@ -1,0 +1,17 @@
+Delhi govt relaunches PoochhO post odd-even plan ||||
+ In view of the odd-even vehicle rule applicable from January 1, AAP-led Delhi government on Friday re-launched the PoochhO app to enable ease of availing taxis and auto-rickshaws in the national capital. Delhi's Transport Minister Gopal Rai said that the app allows commuters to book rides of nearby autos and taxis belonging to drivers who have registered on the app. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/07578701-0008-0012-1755-000012345678||||
+The Delhi government Friday launched the PoochO driver app to augment taxi and auto-rickshaw services in the capital, in view of the odd-even number scheme which is set to begin on January 1.
+Launching the app, Transport Minister Gopal Rai said it will enable auto-rickshaw and taxi drivers who have GPS in their vehicles to connect to a common server. Commuters can then book them through their smartphones. Drivers have to register themselves by sending a text message to a dedicated number, after which they will be connected to the server.
+The government will start a 10-day registration campaign. Drivers will receive three text messages from the server to register themselves with the app before December 22. “We will launch two separate apps — one for drivers and one for commuters. They can send their details to 9958694311 to register,” said Rai. The minister added that a dedicated app for commuters will be launched on December 22 — which is also the third ‘car-free’ day. It is being organised in East Delhi’s Laxmi Nagar.
+While the app for drivers will be available only on Android, the app for commuters will be available on Android and iOS platforms.
+The minister also said taxis, e-rickshaw and auto-rickshaws will form queues at various junctions across the city to make their services more accessible to commuters.
+How the app will function
+For drivers
+1. Register by sending a text to 99586694311 to connect to common server
+2. Text must read as follows: APP (space) vehicle number/last four digits of engine chassis
+3. Driver receives message through a special ring tone, which he can accept or reject
+For commuters
+Option 1: Directly call the number of an auto-rickshaw or taxi in the vicinity, available on the app
+Option 2: Register details of journey, and get a call from the nearest auto or taxi

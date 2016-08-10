@@ -1,0 +1,18 @@
+Google seeks patent for drone delivery tech ||||
+ Google filed a patent on Tuesday for a drone 'delivery receptacle' that can store packages securely for delivery at different locations. The receptacle guides drones for delivery by connecting them in the air using infrared beacons. The project's leader had earlier said drones can start delivering packages by 2017 after the US Federal Aviation Administration finalises regulations for drones. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/93809302-0011-0001-8419-000012345678||||
+SAN FRANCISCO Google's secretive drone delivery project could include a component designed to store packages securely.
+A patent filed Tuesday in the United States by the company, a unit of Alphabet Inc, describes a "delivery receptacle" designed to take packages from an "aerial delivery device" for deposit to a secure location. 
+The receptacle would use infrared beacons to connect with drones in the air and then guide them for delivery. 
+The delivery receptacle would then take the package to a safe location such as a garage, according to the patent. The patent did not provide any details on the nature of the delivery receptacle.
+A spokesman for the company's Google X research arm declined comment.   
+The filing provides a glimpse into a plan Google has been exploring since 2012. The project's leader, Dave Vos, said last November it could start delivering packages by 2017.
+Dubbed 'Project Wing', the initiative was announced in August 2014 with a YouTube video showing a field test conducted in Australia. In the United States, the company has conducted testing with NASA's AMES Research Center.   
+Alphabet and Amazon.com Inc are among a growing number of companies that are trying to make package delivery by drones a reality. But drone deliveries are not expected to take flight until after the Federal Aviation Administration publishes final rules for commercial drone operations, expected this year.
+An FAA task force on drones has initiated a system requiring anyone who owns drones heavier than half a pound and lighter than 55 pounds to register before flying outdoors. By early January, 181,061 drones were registered.  
+Vos, who is co-chair of the task force, said during a Consumer Electronics Show workshop earlier this month that existing regulations are sufficient to allow the operation of drones. 
+"I would advocate strongly that the need for additional regulation is very, very small. That in fact, if you allow people to do things and replicate what manned aviation pilots in this airspace do it already works," he said. 
+"We don't need new regulation, we need to just be allowed to go do it," Vos said. 
+
+ (Editing by Stephen R. Trousdale and Kenneth Maxwell)

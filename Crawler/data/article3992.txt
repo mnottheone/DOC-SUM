@@ -1,0 +1,12 @@
+LiFi about 100 times faster than WiFi: Report ||||
+ An experimental testing of LiFi internet has reportedly proved that it can send up to 1GB data per second, about 100 times faster compared to the WiFi. Discovered by Professor Harald Haas of the University of Edinburgh in 2011, Lifi uses light to broadcast information via air. In next 3-4 years, Lifi can be launched commercially, the report added. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/19081259-0010-0011-9883-000012345678||||
+The pilot testing of LiFi, an alternative technology to WiFi, has proved that it can send data at up to 1GBps, according to a report in The Telegraph UK. This is almost 100 times faster than the present WiFi technology.
+So what exactly is LiFi? It uses light to beam information via air. The technology was first discovered by Professor Harald Haas in 2011 of the University of Edinburgh.  “While LiFi may not completely replace WiFi, the technologies could be used in parallel to create more efficient networks,” IBTimes UK reported. 
+The report also said that the technology could be rolled out for people in another three to four years, according to Velmenni CEO Deepak Solanki.
+Professor Haas had talked about the idea on TED talks in 2011, which has seen 1.7 million views on YouTube.
+“All we need to do is fit a small microchip to every potential illumination device and this would then combine two basic functionalities: illumination and wireless data transmission,” Haas told IBTimes UK. “In the future we will not only have 14 billion light bulbs, we may have 14 billion Li-Fis deployed worldwide for a cleaner, greener and even brighter future,” he added.
+Haas is not the only one working LiFi related technology. Researchers at Oxford University have been working on the same as well. An earlier report in Telegraph points out that the one challenge to LiFi is transmitting the data, because there is no ‘guide path’ for the light, which causes problems of receiving the signal.
+To know more about this technology, you can read a scientific paper on the same here.
+Watch Professor Harald Haas’s Ted Talk video 

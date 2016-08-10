@@ -1,0 +1,38 @@
+Govt distributed only 2k crore MUDRA loans ||||
+ According to the Indian Express, only 2,000 crore worth loans were refinanced by the government under the Micro Units Development Refinance Agency (MUDRA) scheme and not 71,312 crore as announced earlier. Loans worth 69,312 crore, disbursed by microfinance institutions, were reclassified as MUDRA loans. The MUDRA scheme aims to provide financial support to non-corporate small business sectors. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/76194151-0005-0001-5966-000012345678||||
+On January 7, the Government announced: “MUDRA (Micro Units Development Refinance Agency) loans amounting to Rs 71,312 crore have been disbursed to 1.73 crore borrowers as on 1st January, 2016.” A closer look at these numbers reveals the government refinanced loans of only Rs 2,000 crore under the MUDRA Scheme — the rest Rs 69,312 crore are loans disbursed by microfinance institutions (MFI) and banks which have now been renamed as MUDRA loans.
+The scheme’s intent is to refinance collateral-free loans of up to Rs 10 lakh given by lending institutions to non-corporate small borrowers, for income-generating activities in the non-farm segment. The results, though, look magnified by merely rebranding microfinance loans and micro credit from banks as the MUDRA loans.
+MUDRA Ltd admits this on its website: “All loans sanctioned on or after April 08, 2015 (when the Scheme was launched) upto a loan size of Rs 10 lakh for non farm income generating activities will be branded as PMMY (Pradhan Mantri MUDRA Yojana) loans”. Prime Minister Narendra Modi launched the MUDRA Scheme on April 8, 2015.
+In an interview to The Indian Express, Department of Financial Services Secretary Anjuly Chib Duggal confirmed the numbers: “The total disbursement of (roughly) Rs 72,000 crore under the MUDRA scheme is done largely by micro finance institutions and banks. Of this, about Rs 2,000 crore has been refinanced by the government under the MUDRA scheme.”
+
+
+Share This Article
+
+
+
+Related Article Mumbai: District-level panels to spread awareness on Mudra scheme Disbursed refinance funds under MUDRA at Rs 1,364 cr till Feb 1st week PM Modi launches 'Stand up India', distributes 5,100 e-rickshaws MUDRA not to regulate micro finance institutions: Govt Rs 8K cr credit guarantee funds for MUDRA, Stand Up India MUDRA Yojana to get a push from PM Modi
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Loans under the scheme have been bracketed in three categories: Shishu loans are up to Rs 50,000; Kishor loans are between Rs 50,001 and Rs 5 lakh; and Tarun loans of Rs 5-10 lakh. Shishu accounts for the majority (40 per cent) of the loans disbursed. Kishor and Tarun account for 37 per cent and 23 per cent of the total disbursed amount, respectively.
+Since MFIs are leading players in these loan segments, the government has so far refinanced loans mainly of micro finance institutions.
+The top six institutions that received refinance under the MUDRA Scheme are: Hyderabad-based SKS Microfinace Ltd (that got refinance of Rs 100 crore); Bangalore-based Ujjivan Financial Services P. Ltd (Rs 100 crore); Chennai-based Equitas Microfinance Pvt Ltd (Rs 75 crore); Delhi-based Satin Credicare Network Ltd (Rs 35 crore); Chennai-based Madura Microfinance Ltd (Rs 35 crore) and Guwahati-based RGVN (NE) Microfinance Ltd (Rs 30 crore).
+Banks and MFIs can draw refinance under the scheme after becoming member-lending institutions (MLIs) of MUDRA, Secretary Duggal said. “This gives them an additional resource to draw upon,” she said. The government has laid down stiff criteria for becoming an MLI.
+In the financial year 2014-15, the aggregate gross loan portfolio of MFIs grew 61% over the previous year to Rs 40,138 crore, as per data from industry body Microfinance Institutions Network (MFIN). Separate data on micro credit provided by banks was not readily available.
+Duggal said the idea of the MUDRA Scheme is to fund the unfunded at reasonable rate and to bring them under the main banking channel. Another objective is weaning away small business borrowers from the traditional high-cost money lenders, Duggal said.
+While all states are beneficiaries of the Scheme, states getting biggest chunk of loans include Karnataka (with MUDRA loan disbursement of Rs 8114 crore), Maharashtra (Rs 6988 crore), Uttar Pradesh (Rs 6547 crore), Tamil Nadu (Rs 6484 crore), Bihar (Rs 4423 crore) and West Bengal (Rs 4086 crore).
+The state-wise disbursement roughly follows lending pattern of MFIs. Andhra Pradesh, which had been a hub of microfinance activities, received disbursement of Rs 3758 crore under the MUDRA scheme, while the new state Telangana got Rs 2284 crore.
+Other states to get significant amount of MUDRA loans include Madhya Pradesh (Rs 3671 crore), Gujarat (Rs 3386 crore), Odisha (Rs 2946 crore), Rajasthan (Rs 2648 crore), Punjab (Rs 2126 crore) and Kerala (Rs 2817 crore).
+The total corpus of MUDRA Ltd is Rs 20,000 crore to be spread over four years, and the agency has received first tranche of Rs 5,000 crore from the Reserve Bank of India. Finance Minister Arun Jaitley said last Wednesday that the government expects MUDRA loans disbursement to touch Rs 1.22 lakh crore by March 2016.
+In a report released last week, rating agency ICRA said the overall size of microfinance sector was Rs 1.1 lakh crore as on September 30, 2015. Much of these would qualify to be called MUDRA loans as well. The MUDRA Scheme does not provide any interest subsidy or waiver, but still turns out to be cheaper for the non-corporate small business borrowers.
+“MUDRA borrowers can withdraw money daily as per their needs through RuPay debit cards. Interest is charged on reducing balance basis. So for borrowers, the interest rate turns out to be much cheaper than that on loan taken from money lenders,” Duggal said.
+Shishu loans support small businesses like a vegetable vendor, a beauty parlour, a hair salon, or a rickshaw puller.
+Kishor and Tarun loan help slightly bigger businesses such as toilet soap manufacturing unit, banana fiber extraction and weaving, production of paper cups or paper napkins, dairy products, pickle units, pappad manufacturing and so on.
+Banks provide a composite loan for both working capital and term loan requirement under the MUDRA Scheme.
+To make the MUDRA scheme more attractive, the government last week announced setting up of a Rs 3000-crore Credit Guarantee Fund for these loans. This will provide insurance against default on MUDRA loans to the maximum extent of 50%.

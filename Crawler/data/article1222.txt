@@ -1,0 +1,12 @@
+IBM researchers find new way to recycle e-waste ||||
+ IBM researchers have discovered a one-step recycling process to help convert old smartphones and CDs into non-toxic, high-strength plastics that can be used for water purification, fiber optics and medical equipment. The team added a fluoride reactant and heat to old CDs to create this new plastic that showed to have better temperature and chemical resistance than the original substance. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/401ef86c-c4a3-4dfa-ae93-ce26a03b389d-1||||
+Research scientists with IBM have discovered a recycling process to help convert old smartphones and CDs into non-toxic, high-strength plastics.
+According to a press statement by IBM, every year the world generates more than 2.7 million tons of a plastic, known as polycarbonates, to create common household items, such as CDs, baby bottles, eyeglass lenses and smartphones. Over time, polycarbonates decompose and leach BPA, a chemical which potentially damaging effects on the brain.
+Now IBM scientsits from the company’s Almaden lab in San Jose, California, have discovered a new, one-step chemical process that converts polycarbonates into plastics safe for water purification, fiber optics and medical equipment.
+In the study, IBM Researchers added a fluoride reactant and heat to old CDs to create this new plastic. The new plastic has temperature and chemical resistance superior to the original substance.
+“Polycarbonates are common plastics in our society – especially in consumer electronics in the form of LED screens, smartphones and Blu-rays, as well as everyday eyeglass lenses, kitchen utensils and household storage gear,” said Gavin O Jones, PhD, research staff member, IBM Research – Almaden (San Jose, Calif.).
+“We now have a new way of recycling to improve how this prominent substance impacts the world’s health and environment,” he added.
+“While preventing these plastics from entering landfills, we simultaneously recycle the substance into a new type of plastic — safe and strong enough for purifying our water and producing medical equipment,” said Jeanette Garcia, PhD, research staff member, IBM Research. “It’s an environmental win on many fronts.”
+The full research paper, One-step Conversion of Polycarbonates into Value-added Polyaryl ethersulfones, was published in the peer-reviewed journal, Proceedings of the National Academy of Sciences of the United States of America. Read the full paper here.

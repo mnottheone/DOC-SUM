@@ -1,0 +1,27 @@
+I-T Dept to launch project to mine PAN data ||||
+ According to reports, The Income Tax Department is working on a project that will focus on data mining the details available about the country's 22.94 crore PAN holders. The project is intended to keep track of high-value transactions by individuals or entities and expose tax evasion. It is to be implemented in a phased manner between 2016-18. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/23526466-0006-0002-2476-000012345678||||
+Kept closely under wraps, a new project being readied by the Income Tax Department ahead of the upcoming Budget could provide fresh ammunition to the NDA government’s fight against domestic black money. Code named ‘Project Insight’, the scheme is focused on extensive data mining and the processing of the details available about the country’s 22.94 crore PAN (permanent account number) allottees, with the specific intention of monitoring fund flows across identities and accounts. The aim is to generate an actionable audit trail of high value transactions by way of sequenced transaction history of an individual or entity, where a PAN number has been quoted, in any part of the country.
+Project Insight, according to officials involved in the exercise, is to be implemented in a phased manner during the three-year period spanning 2016-18. The upcoming Budget is likely to spell out details of the first phase of this project, which is likely to rank tax assesses based on the chain of transactions and the value undertaken by them on the basis of the quoted PAN number, so that the authorities could focus their efforts on going after the highest value targets first.
+“The project will build on the capacity of the Income Tax Department to access information and apply technology driven-analytical tools to expose evasion, besides improving its ability to detect large cash withdrawals, or large cash transactions that enter the system. Project Insight aims to comprehensively mine the data collated,” an official said.
+
+
+Share This Article
+
+
+
+Related Article IT department identifies 14 lakh non-PAN transactions; to seek details IT dept to issue 7 lakh letters seeking info on high-value deals PAN must for hotel bills, foreign airfare of over Rs 50,000 Real estate the villain,govt proposes ways out in black money white paperPAN to be tool against tax evasion2nd PAN mandatory for Rs 5 lakh and above jewellery purchases
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+The finance ministry had last year floated a tender worth over Rs 150 crore to select a managed service provider for developing a data warehousing and business intelligence back end for implementation of ‘Project Insight’. This involved buying data analytics software and the peripheral infrastructure accompanying it.
+The PAN is the unique identifier which is used by the tax department to link and analyse various transactions relating to the taxpayers and the income tax law mandates quoting of PAN for specified transactions above a threshold including purchase of immovable and movable property, bank deposits and financial assets.
+The Finance Act 1998 made quoting of PAN compulsory for a number of transactions such as opening of bank account and deposit exceeding Rs 50,000. As a result, Section 139A of the Income Tax Act, read with rules 114B and 114C, makes quoting of PAN compulsory for certain transactions. The idea is that these transactions will contain PAN which can then be matched with the declarations made by the taxpayers.
+However, the rules allow for persons not having PAN to file form no. 60 and those having agricultural income to file form no. 61. The CAG 2011 report found widespread misuse of this facility and even companies that are compulsorily required to file returns of income used these forms.
+According to the a March 2015 report of the Tax Research Cell of the National Institute of Public Finance and Policy, a major part of the information remained unutilised and there was no uniform system to process these forms for follow up action. Subsequently, a Task Force on Direct Taxes set up by the finance minister had also reviewed the working of the information collection system of the CBDT and in that connection pointed out certain deficiencies that are pertinent even now.
+In his last Budget, finance minister Arun Jaitley had proposed making quoting of PAN mandatory for all sale and purchase of over Rs. 1 lakh. Thereafter, under pressure from representations from legislators, trade and industry associations, against the proposed mandatory quoting of PAN for sale or purchase in excess of Rs. 1 lakh, on December 16, the Centre had made it mandatory to quote PAN for all transactions in excess of Rs.2 lakh, regardless of the mode of payment, to curb black money.

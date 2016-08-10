@@ -1,0 +1,19 @@
+New solar cell turns CO2 into burnable fuel ||||
+ US-based researchers have engineered a new solar cell that can convert atmospheric carbon dioxide directly into usable hydrocarbon fuel using only sunlight. The team used a new catalyst, named tungsten diselenide, which they claim is 1,000 times faster than noble-metal catalysts and about 20 times cheaper. It is more active and able in breaking carbon dioxides bonds, a researcher said. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/b907ed5c-db26-4d1a-9faa-01e41575a6fa-1||||
+Researchers have developed a potentially game-changing solar cell that essentially does the work of plants — converting atmospheric carbon dioxide into usable hydrocarbon fuel using only sunlight for energy.
+“The new solar cell is not photovoltaic – it’s photosynthetic,” said senior study author Amin Salehi-Khojin from the University of Illinois at Chicago.
+“Instead of producing energy in an unsustainable one-way route from fossil fuels to greenhouse gas, we can now reverse the process and recycle atmospheric carbon into fuel using sunlight,” he added.
+While plants produce fuel in the form of sugar, the artificial leaf delivers syngas, or synthesis gas, a mixture of hydrogen gas and carbon monoxide. Syngas can be burned directly, or converted into diesel or other hydrocarbon fuels.
+The ability to turn CO2 into fuel at a cost comparable to a gallon of gasoline would render fossil fuels obsolete.
+Chemical reactions that convert CO2 into burnable forms of carbon are called reduction reactions, the opposite of oxidation or combustion.
+Engineers have been exploring different catalysts to drive CO2 reduction, but so far such reactions have been inefficient and rely on expensive precious metals such as silver, Salehi-Khojin said.
+“What we needed was a new family of chemicals with extraordinary properties,” he added in a paper published in the journal Science.
+Watch Video: What’s making news 
+The team focused on a family of nano-structured compounds called transition metal dichalcogenides — or TMDCs — as catalysts, pairing them with an unconventional ionic liquid as the electrolyte inside a two-compartment, three-electrode electrochemical cell.
+The best of several catalysts they studied turned out to be nanoflake tungsten diselenide.
+“The new catalyst is more active; more able to break carbon dioxide’s chemical bonds,” said study lead author Mohammad Asadi.
+In fact, the new catalyst is 1,000 times faster than noble-metal catalysts and about 20 times cheaper.
+The technology should be adaptable not only to large-scale use, like solar farms, but also to small-scale applications, Salehi-Khojin said.
+It may prove useful on Mars, whose atmosphere is mostly carbon dioxide, if the planet is also found to have water.

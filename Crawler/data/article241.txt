@@ -1,0 +1,13 @@
+1st phase of SEBI's new enterprise portal live ||||
+ The Securities and Exchange Board of India (SEBI) has initiated the first phase of its new enterprise portal to facilitate accurate and timely circulation of information to internal and external stakeholders. The portal, developed by IT firm Tech Mahindra, provides an e-platform to registered and prospective intermediaries to interact in a secure, transparent, and paperless manner with SEBI. ||||
+ PTI ||||
+ https://full-story.newsinshorts.com/v1/article/fb5b89eb-1374-417a-b9e9-6bf973fb96cf-1||||
+Mumbai, Jul 31 (PTI) Markets regulator Sebi has initiated the first phase of its new enterprise portal to facilitate accurate and timely dissemination of information to the watchdog's internal and external stakeholders.
+The new portal, which would replace the regulator's existing portal in a phased manner, went live on July 29 and is being developed by IT major Tech Mahindra.
+The first phase of the project provides the employees of the Securities and Exchange Board of India (Sebi) and some of its market intermediaries with an interactive portal.
+"Sebi started with development of its portal solution as a digital transformation program to exploit the potential of automation, rationalise its application landscape and simplify its technology infrastructure," Tech Mahindra said in a statement.
+The portal provides an e-Platform to registered and prospective intermediaries to communicate in secure, simplified, transparent and paperless way with Sebi.
+"The portal also provides refreshing UI (user interface) experience and a secure role based access and navigation to its Sebi staff across various departments," Tech Mahindra said.
+"Thus it will enable significant collaborative and efficient communications between Sebi's internal and external stakeholders alike," it added.
+The new portal would help create positive consumer experience as it aligns itself with emerging digital trends, Tech Mahindra, which had begun implementation of the project in December 2014, noted.
+Sebi in early 2014 had invited proposal for supply, installation, design, development and implementation of Enterprise Portal Solution which included business Process Management (BPM), custom applications development, enterprise search engine, business intelligence and analytics, among other necessary IT infrastructure.

@@ -1,0 +1,28 @@
+Delhi, Mumbai airports dispute audit by CAG ||||
+ The Delhi and Mumbai airport operators have disputed the demand of the Airport Authority of India (AAI) for an audit by the Comptroller and Auditor General of India (CAG). If the dispute is not settled within 60 days, the matter could be referred to an arbitration tribunal. AAI had in September demanded an audit of the operators by the CAG. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/85660835-0002-0002-0550-000012345678||||
+GMR-led Delhi International Airport Ltd (DIAL) and GVK-led Mumbai International Airport Ltd (MIAL) have entered into a dispute with their joint venture partner Airports Authority of India (AAI), against the AAI’s demand for an audit of the books of account of the two airport operators by the Comptroller and Auditor General of India (CAG). If the dispute is not settled within 60 days, then the matter can be referred to an arbitration tribunal.
+DIAL as well as MIAL, late last December, invoked the dispute clause available in the Operations Management and Development Agreement (OMDA) that they signed with the state-owned AAI in 2006 to modernise and operate Delhi and Mumbai airports, respectively, according to sources.
+DIAL and MIAL have both contested AAI’s argument that OMDA empowers AAI to appoint CAG as its representative for audit purposes, the sources said.
+
+
+Share This Article
+
+
+
+Related Article CBI to look into ‘irregularities’ in handing over land for IGI airportDIAL PPP pact favoured operatorGMR-led DIAL questions CAG audit,says land sops available to allFaulty joint ventures by DIAL led to Rs 103 cr loss to AAICAG sees DIAL,AAI revenue deal scam?Airport authority's deal with private operator of Delhi airport defective: CAG
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+In September 2015, citing its rights under Article 11.3 of the OMDA, AAI sought to nominate CAG as its representative to audit books of accounts of DIAL and MIAL.
+Article 11.3 of the OMDA says: “The AAI and its representatives shall be permitted to inspect at any reasonable time the books, records and other material kept by or on behalf of the JVC in order to check or audit any information (including the calculation of Revenue) supplied to the AAI under this Agreement.”
+While AAI argued that non-compliance with its request for CAG audit will amount to substantive breach of the OMDA, both DIAL and MIAL maintained they are not under obligation to get their accounts audited by the CAG as per the provisions of OMDA, the sources said. DIAL and MIAL have both invoked the Dispute Clause 15.1.1 of the OMDA against AAI before referring the matter for arbitration, the sources said. This clause allows the parties to enter into a dispute, and if it is not resolved within sixty days, then the parties can refer the matter to an arbitration tribunal comprising three arbitrators under the Arbitration and Conciliation Act, 1996.
+Each party to the arbitration shall appoint one arbitrator and the two arbitrators thus appointed shall choose the third arbitrator, who will act as a presiding arbitrator of the tribunal. The decision(s) of the Arbitral Tribunal shall be final and binding on the parties, as per the OMDA
+In response to detailed queries from The Indian Express, a DIAL spokesperson said “we do not wish to comment on the said matter”. A MIAL spokesperson in a text message said “Sorry no comments. You may go ahead with the article”. Calls, emails and text messages to AAI’s general manager, public relations, were not answered. The Indian Express could not reach AAI Chairman RK Srivastava over phone, and his office said he was out of the country. Emails sent to Srivastava were not answered.
+DIAL is a joint venture led by the GMR group owning 64 per cent stake, AAI having 26 per cent stake and Germany’s Fraport Airport owning 10 per cent. In March 2015, DIAL’s Malaysian partner Malaysia Airport Holdings announced sale of its entire 10 per cent stake to GMR Airports saying a minority shareholding did not give it any “influence” in the joint venture
+MIAL is a joint venture led by a GVK consortium owning 74 per cent stake and AAI having 26 per cent. AAI entered into separate OMDAs with DIAL and MIAL for Delhi and Mumbai airports, respectively, on April 4, 2006, after government invited international competitive bids for modernisation of Indira Gandhi International Airport in Delhi and Chhatrapati Shivaji International Airport in Mumbai.

@@ -1,0 +1,25 @@
+Minorities formed 8.71% govt recruits in 2014-15 ||||
+ According to an RTI reply, minorities constituted 8.71% of the total 1.56 lakh central government recruitments in 2014-15. Further, in 2012-13, the recruitment of minorities constituted 7.37% of the total. Notably, according to Census 2011, the total percentage of minorities in India is over 20%, including Muslims (14.2%), Christians (2.78%), Sikhs (2.08%), Buddhists (0.84%) and Jains (0.45%). ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/48445715-0013-0002-2553-000012345678||||
+MINORITIES constituted 8.71 per cent of central government recruitment in 2014-15 with 13,571 of them obtaining jobs from a total of 1.56 lakh, according to information obtained by The Indian Express under the RTI Act.
+The government has, however, disclosed that it was unable to compile data for recruitment of minorities for 2013-14 because its ministries either did not provide information or delayed the process. In 2012-13, records show, the recruitment of minorities constituted 7.37 per cent of the total.
+Various circulars issued by the Department of Personnel and Training (DoPT), following the Prime Minister’s 15-point programme for the welfare of minorities, show that it “could not furnish complete annual data for the year 2013-14, due to non-furnishing or delayed furnishing of the information by some of the ministries/departments”.
+DoPT records show that various ministries and departments provided the latest data only after repeated reminders — up to eight for certain ministries — between April and December 2015.
+
+
+Share This Article
+
+
+
+Related ArticleFirst time in eight years, state records dip in RTI applicationsGovt plans three  KV-like schools only for minorities Govt trying to expedite Muslim sub-quota within job quota: Rahman Khan10% reserved staff positions in Central government lying vacantGovt directs PSUs to implement minorities' sub-quota in hiring PSUs to enforce minorities' sub-quota
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Apart from Muslims, Christians, Sikhs, Buddhists and Parsis, the DoPT, in a letter dated April 10, 2015, wanted the ministries to include data of Jains this time.
+The annual data, compiled under the PM’s programme launched in 2007, is sent to the Ministry of Minority Affairs. If there is a decline in the recruitment of minorities, the reasons are examined and communicated within the government. The website of the minority affairs ministry only shows data for 2012-13.
+According to the Census, the total percentage of minorities in the country is over 20 per cent, including Muslims (14.2 per cent), Christians (2.78 per cent), Sikhs (2.08), Buddhists (0.84) and Jains (0.45).

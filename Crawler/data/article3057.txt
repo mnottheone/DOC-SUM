@@ -1,0 +1,18 @@
+BlackBerry's 1st Android phone launched in India ||||
+ BlackBerry on Thursday launched its first Android-based smartphone, Priv, in India at 62,999. The security-centric 4G phone notifies users every time an application wants to access data, and does not let users install third-party apps from unverified sources. It features a 5.4-inch display, an 18 MP camera, 3 GB of RAM and is powered by a 1.8 GHz Qualcomm processor. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/75452884-0010-0001-8544-000012345678||||
+BlackBerry Priv, the first smartphone from the company with Android OS, is now officially out in India for Rs 62,999. The BlackBerry Priv will be available from January 30 across all channels.
+The phone will try and appeal to smartphone users who hated the move from the keypad-instilled comfort of their old BlackBerry to an Android or iOS device.
+Here’s the logic behind BlackBerry Priv’s pricing
+BlackBerry Priv, the first Android smartphone from the beleaguered Canadian smartphone maker, is also adding an extra layer of security that will make a lot of CTOs also happy. For instance, it will come with the BlackBerry DTEK, which will scan every single app and the permissions it is taking from the user. Also, it will not let users install third party launchers or apps from unverified sources.
+Priv has the potential to plug a big gap in the Android juggernaut, that of devices with good keypad support for those who don’t love typing on a touchscreen. For those who are not comfortable using a touchscreen, there is still no option other than to pick up a BlackBerry device, which though very secure, might deprive you of some of the pleasures of owning a smartphone.
+
+
+The slide out keyboard offers the same features as the virtual keyboard on other BlackBerry devices. It is also support screen scroll using the keyboard too. Blackberry is also touting the 18MP camera as one of the best in the business.
+Damien Tay, product manager for Blackberry, said the OS is closer to pure Android, but will come with add-ons like an on-demand widget and gestures. The phone will also offer the kind of services BlackBerry users are used to in the form of the Hub and better enterprise features. “We are looking for users who have multiple messaging platforms to cater to,” he added.
+Blackberry’s new India head Narendra Nayak said the idea was to appeal to Android users who are facing a lot of “device fatigue” from devices that are very similar in nature.
+However, the Rs 62,999 pricing will automatically make this a top management phone, one where volumes will be limited.
+The specs all are what you would expect in a flagship these days, but they are also what most Chinese manufacturers are offering in the mid-range. That is what will make it difficult to justify a high price. And this problem is not unique to BlackBerry, but has plagued all top brands in the past few quarters.
+But it has been BlackBerry strategy in recent years to launch a flagship phone first and them come up with more affordable versions of the same. We can hope for more affordable smartphones from this brand in the near future.
+Specs: 5.4-inch WQHD (2560×1440) display with AMOLED resolution, and is powered by a 1.8 GHz hexa-core Qualcomm Snapdragon 808 processor, 3GB RAM and 32GB of internal memory (expandable by up to 2TB). The single SIM 4G phone runs Android Lollipop OS and sports 18MP rear and 2MP front camera with 3,410 mAh battery.

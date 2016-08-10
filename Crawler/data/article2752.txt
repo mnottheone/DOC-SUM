@@ -1,0 +1,23 @@
+BAE Systems, Mahindra partner in Howitzer deal ||||
+ BAE Systems announced today that Mahindra is their India partner to supply 145 M777 Howitzer guns in a deal worth approximately $700 million. Mahindra will be responsible for the "spares, maintenance and ammunition" of the ultra lightweight artillery gun. BAE Systems had earlier proposed to set up an Assembly, Integration & Test facility in India for indigenisation of the Howitzers. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/98146381-0008-0002-1777-000012345678||||
+Defence firm BAE Systems on Wednesday announced Mahindra as its business partner for the $694-million deal for the supply of 145 M777 howitzers to the Indian army.
+“Demonstrating its commitment to prime minister Narendra Modi’s call to Make in India, BAE Systems has down-selected Mahindra as its business partner for the proposed in-country assembly, integration and test (AIT) facility for the M777 Ultra Lightweight Howitzer. India and the US are in discussions for a foreign military sale of 145 M777A2 LW155 howitzers for the Indian Army,” a statement by BAE systems said.
+Last year, BAE developed and submitted a US government-supported proposal offering a higher degree of indigenisation on the M777 weapon system. The highlight of this is the commitment to establish AIT capabilities in India in partnership with a domestic Indian company.
+
+
+Share This Article
+
+
+
+Related Article Defence Ministry nod to buy 145 ultra light Howitzers from US With gun assembly plant, defence gets a ‘Make in India’ project At $885 mn,US to sell 145 state-of-the-art Howitzers to IndiaIndia to buy 145 ultra light howitzers for Army from US25 years after Bofors,Army goes shoppingSingapore firm under cloud,India to buy US howitzers
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Under the foreign military sales route, the US had recently finalised the letter of acceptance which would be sent to India. Even earlier, an LoA was sent to the government pegging the cost of 145 howitzers at $694 million.
+“Mahindra and BAE Systems share the same values and common vision towards Make in India. BAE Systems is one of the largest defence companies globally and we could not have a better partner. M777 will give our defence forces a much needed operational advantage and an access to state of art technology. Mahindra M777 facility will also ensure that the life cycle support is available locally thereby enhancing operational availability of the guns,” SP Shukla, group president, Mahindra Defence & Aerospace, Mahindra Group said.

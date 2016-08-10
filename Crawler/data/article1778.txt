@@ -1,0 +1,11 @@
+Team finds structure of Zika virus helicase ||||
+ Researchers from Tianjin University in China have identified the structure of the Zika virus helicase. The Zika virus helicase is a motor enzyme which is used in an essential step in viral multiplication. This advancement may help target the Zika virus helicase, which in turn might make it possible to stop the viral replication and prevent the disease. ||||
+ ANI ||||
+ https://full-story.newsinshorts.com/v1/article/d1714c9a-f538-4672-a09d-2f4978cb6168-1||||
+Washington D.C, May 21 (ANI): A team of researchers from Tianjin University has solved the structure of the Zika virus helicase, which is a key target for antiviral development.
+The Zika virus can cause microcephaly and other severe birth defects. However, as there are currently no effective vaccines or therapies available to contain ZIKV infection, ZIKV remains a significant challenge to public health.
+All viruses seem to need a helicase for replication. The Zika virus helicase is a motor enzyme which can convert energy from nucleoside triphosphate to unwind double stranded nucleic acids.
+This is an essential step for viral replication. By targeting Zika virus helicase with small-molecule inhibitors, it might be possible to stop viral replication and prevent disease.
+The scientists have successfully obtained an image at 1.8 angstroms of this viral enzyme. An angstrom is one ten-billionth (10-10) of a meter.
+This high-resolution image of the Zika virus key enzyme will help scientists develop drugs to treat the Zika virus disease
+The research is published in Springer's journal Protein & Cell. (ANI)

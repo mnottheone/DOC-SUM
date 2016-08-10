@@ -1,0 +1,15 @@
+Immune cells may reverse chemo-resistance: Study ||||
+ A study by University of Michigan researchers revealed that immune cells can help in reversing the chemotherapy resistance in ovarian cancer. Ovarian cancer is typically treated with cisplatin, a platinum-based chemotherapy. Researchers found that immune T cells, part of the immune system, overrule the function of fibroblasts  cells that block platinum and cisplatin from killing tumor cells. ||||
+ ANI ||||
+ https://full-story.newsinshorts.com/v1/article/f41f98cb-2f71-4971-9068-af67b104cf8e-1||||
+Washington D.C, May 22 (ANI): Immune cells can help reverse chemotherapy resistance in ovarian cancer, according to a recent study.
+These University of Michigan findings suggest a whole different way of thinking about chemotherapy resistance and the potential to harness immunotherapy drugs to treat ovarian cancer.
+"Ovarian cancer is often diagnosed at late stages, so chemotherapy is a key part of treatment. Most patients will respond to it at first, but everybody develops chemoresistance. And that's when ovarian cancer becomes deadly," says study author J. Rebecca Liu.
+"In the past, we've thought the resistance was caused by genetic changes in tumor cells. But we found that's not the whole story," she said.
+Researchers looked at tissue samples from ovarian cancer patients. They separated the cells by type to study the tumor microenvironment in cells and in mice. They also linked their findings back to actual patient outcomes.
+Ovarian cancer is typically treated with cisplatin, a platinum-based chemotherapy. The researchers found that fibroblasts blocked platinum. These cells prevented platinum from accumulating in the tumor and protected tumor cells from being killed off by cisplatin.
+Immune T cells, on the other hand, overruled the protection of the fibroblasts. When researchers added the immune T cells to the fibroblasts, the tumor cells began to die off.
+"T cells are the soldiers of the immune system. We already know that if you have a lot of T cells in a tumor, you have better outcomes. Now we see that the immune system can also impact chemotherapy resistance," says study author Weiping Zou.
+By boosting the immune T cells, the researchers were able to overcome the chemotherapy resistance in mouse models. They used interferon, a type of small protein, to manipulate the pathways involved in cisplatin.
+The researchers suggest that combining chemotherapy with immunotherapy may be effective against ovarian cancer. PD-L1 and PD-1 pathway blockers are FDA-approved treatments in some cancers, although not ovarian cancer.
+The study is reported in Cell. (ANI)

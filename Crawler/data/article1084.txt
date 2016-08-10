@@ -1,0 +1,29 @@
+Infidelity site Ashley Madison faces probe in US ||||
+ Avid Life Media, owner of infidelity dating site Ashley Madison, is now facing an investigation by the US Federal Trade Commission, Chief Executive Rob Segal said in an interview. This comes after personal details of millions of the site's customers were exposed by hackers in 2015. The CEO has further apologised, stating that more could have been spent on security. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/0981f1c1-2a3a-4158-848b-9b8382462f4b-1||||
+TORONTO The parent company of infidelity dating site Ashley Madison, hit by a devastating hack last year, is now the target of a U.S. Federal Trade Commission investigation, the new executives seeking to revive its credibility told Reuters.
+The breach, which exposed the personal details of millions who signed up for the site with the slogan "Life is short. Have an affair," cost Avid Life Media more than a quarter of its revenue, Chief Executive Rob Segal and President James Millership revealed in an interview, the first by any senior executive since the incident.
+"We are profoundly sorry," said Segal, adding that more could perhaps have been spent on security.
+The two executives, hired in April, said the closely held company is spending millions to improve security and looking at payment options that offer more privacy.
+But it faces a mountain of problems, including U.S. and Canadian class action lawsuits filed on behalf of customers whose personal information was posted online, and allegations that it used fake profiles to manipulate some customers. The site's male-to-female user ratio is five to one, the executives said.
+An Ernst & Young report commissioned by Avid and shared with Reuters confirmed that Avid used computer programs, dubbed fembots, that impersonated real women, striking up conversations with paying male customers.
+Avid shut down the fake profiles in the United States, Canada and Australia in 2014 and by late 2015 in the rest of the world, but some U.S. users had message exchanges with foreign fembots until late in 2015, according to the report.
+Another site, JDI Dating, paid $616,165 in redress for similar practices in an October 2014 settlement with the FTC. 
+Avid said it does not know the focus of its FTC investigation. Asked about the fembot messages sent to U.S. customers, Segal said: "That's a part of the ongoing process that we're going through ... it's with the FTC right now."
+The FTC's consumer protection unit investigates cases of deceptive advertising, including instances when consumers are told that their information is secure but then it is handled sloppily.
+Lawrence Walters, a lawyer who represented JDI Dating in the 2014 case, said the FTC will likely look at the hack.
+"The FTC is very focused on this data breach issue at this point," he said. "I'm not surprised that they are continuing to look at, possibly, Ashley Madison."    
+An FTC spokesman declined to comment.    
+
+REINVENTING EXISTING BRAND
+Ashley Madison got plenty of media attention before the hack, with former chief executive Noel Biderman boasting of a $1 billion valuation.
+Segal acknowledged that the company is not worth that much and said Avid still doesn't know how the attack happened or who was responsible.
+It has hired cyber security experts at Deloitte and expects to reach the first level of Payment Card Industry compliance, an industry standard, by September.
+"We had to basically reinvent their security posture," said Robert Masse, who leads Deloitte's incident response team. His team, hired by the company in late September, found simple backdoors in Avid Life's Linux-based servers.
+Avid Life is on track to record roughly $80 million in revenue this year, with margin on earnings before interest, taxation, depreciation and amortization of 35 to 40 percent, said Millership. Its 2015 revenue was $109 million, with a 49 percent margin.
+The executives said the Ashley Madison name would endure, though they are moving some focus away from infidelity.
+"We certainly feel that the Ashley Madison brand can be repositioned," Segal said.
+Millership said they have roughly $50 million to spend on acquisitions or partnerships with like-minded "discreet dating" sites.
+
+ (Additional reporting by Jonathan Stempel in New York and Diane Bartz in Washington; Editing by Sandra Maler and Cynthia Osterman)

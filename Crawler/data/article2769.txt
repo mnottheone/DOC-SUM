@@ -1,0 +1,24 @@
+Make in India Week: Fire security norms flouted ||||
+ After a fire breakout during the Make in India event on February 14, The Indian Express has reported that "serious lapses" were found in fire security norms by the Mumbai Fire Brigade. The officials said that nearly 10 fire safety measures were flouted by the event organisers. Loose LPG cylinders, combustible paint equipment and some "objectionable" material were also found. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/00424618-0005-0002-1599-000012345678||||
+A day after a massive fire burnt down a stage erected by the sea at Girgaum Chowpatty during the Maharashtra Night show on Sunday, sources confirmed to The Indian Express that an inspection carried out by senior fire officials on February 13 had found “serious lapses”.
+While the Mumbai Fire Brigade dashed off notices to event managers Wizcraft and the Confederation of Indian Industry (CII), which is partnering the government in the Make in India Week, to take measures to correct some of the violations, the sources said an initial assessment had now indicated that most of these directives were not complied with.
+The Maharashtra government had organised the cultural event on Sunday.
+
+
+Share This Article
+
+
+
+Related Article Make in India fire case: Mumbai Police registers case against Wizcraft for negligence Maharashtra Night fire: Fire brigade report says organisers ignored safety norms Fire at Make in India event: Mumbai fire dept report blames organisers, event management company Make in India week: Fire audit report made no mention of pyrotechnics What Bombay HC said while refusing permission to hold Maharashtra night: ‘Not necessary to elaborate adverse effects’ Make in India Week event: Fire brigade authority begins inquiry
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+The Mumbai Police commissioner’s office, which had issued permissions for holding the event at the venue under the Bombay Police Act, 1951, and the local assistant municipal commissioner had also been intimated about the breaches. But senior officials confirmed that neither those who were organising the event filed a compliance report as mandatory, nor did the agencies involved in the event insist on getting these done. Even the Mumbai Fire Brigade allowed the show to go on without pressing the matter further.
+Chief Minister Devendra Fadnavis has ordered a probe into the reasons behind the fire. Sources said firemen had confiscated some “objectionable” material from the venue, and had written to Mumbai Police to register an FIR.
+During the February 13 inspection, firemen had found loose LPG cylinders underneath the stage. Combustible paint equipment was also found lying underneath.

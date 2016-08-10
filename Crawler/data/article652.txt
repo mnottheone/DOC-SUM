@@ -1,0 +1,37 @@
+SoftBank to buy UK chip designer ARM for $32 bn ||||
+ SoftBank Group on Monday agreed to acquire UK-based chip designer ARM Holdings in a $32.2 billion all-cash deal, amid attempts to push for the Japanese telecoms group into 'Internet of things'. The takeover of the most valuable tech company listed in London by market value will be the largest acquisition of a European technology business and SoftBank's biggest to date. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/7786bbac-6670-4828-8a3d-e025772f5471-1||||
+TOKYO/LONDON Japan's SoftBank (9984.T) will buy Britain's most valuable technology company ARM (ARM.L) for $32 billion in cash, an audacious attempt to lead the next wave of digital innovation with a chip designer that powers the global mobile phone industry.
+Led by the charismatic Japanese investor, Masayoshi Son, SoftBank swooped on the Apple supplier ARM in the three weeks since Britain voted to leave the European Union, a result which stunned financial markets and has sent sterling down 11 percent against both the dollar and yen.
+While the drop has made British assets much cheaper for foreign investors, the chief of the telecoms and internet group  played down any suggestion that this was an opportunistic deal.
+Son said he had been following ARM for the last 10 years and decided now was the right time to invest in a firm that provides the technology in nearly all smartphones including Apple's (AAPL.O) iPhone and Samsung's (005930.KS) Galaxy. 
+ARM is also poised to play a central role in the tech industry's shift to the 'internet of things' (IoT) - a network of devices, vehicles and building sensors that collect and exchange data - a stated focus for SoftBank founder and CEO Son.
+"ARM will be the center of the Internet of Things, in which everything will be connected," he told reporters. "IoT is going to be the biggest paradigm shift in human history (and) we have always invested at the beginning of every paradigm shift." 
+The ARM deal is one of Japan's biggest overseas ventures and the latest in a parade of Japanese companies seeking growth abroad as the domestic economy stagnates.
+From a British point of view, the capital investment is so big that it covers approaching three months of the country's huge current account deficit, according to Kit Juckes, head of currency strategy at Societe Generale.
+It is SoftBank's largest takeover to date and marks a departure for a group whose tech and telecom portfolio ranges from U.S. carrier Sprint (S.N) to a stake in Chinese e-commerce giant Alibaba (BABA.N) and humanoid robot 'Pepper' - but does not yet include a major presence in the semiconductor industry.    
+The deal will also mark a major change for the 26-year-old British firm based in Cambridge, eastern England, and which touts its independence as a reason why it can work with the rival players in the mobile industry.
+British politicians have objected in recent years to some international takeovers including Pfizer's (PFE.N) failed bid to buy AstraZeneca (AZN.L) and the successful move by Kraft to buy British chocolatier Cadbury.  
+But Son spoke to British Prime Minister Theresa May over the weekend and within minutes of SoftBank announcing the deal on Monday the government released a statement saying it showed Britain remained open for business. 
+Uncertainty surrounding the vote to leave the EU in last month's referendum has raised fears that foreign investment, which is vital for covering the current account deficit, might fall. 
+ARM Chief Executive Simon Segars told Reuters the board had been impressed with SoftBank's promise to increase jobs at ARM, its willingness to engage the British government, and the 43 percent premium the group was willing to pay.
+ARM shares surged 42 percent to 16.90 pounds by 1408 GMT.
+
+"SOFTBANK 2.0"
+"SoftBank's position as an entity outside the semiconductor industry allows ARM to retain its independence and protect existing customer relationships, while commitment to UK investment ensures management buy-in," Jefferies analysts said in a note. "It's difficult to see other suitors at this stage."   
+The acquisition is the first for Son, 58, since he last month rescinded plans to retire - effectively pushing out his heir apparent, former Google (GOOG.O) executive Nikesh Arora.
+Son, whose lucrative early investments include Alibaba, said then that he wanted to "cement SoftBank 2.0", turn around loss-making Sprint (S.N) and "work on a few more crazy ideas".
+Though he has a low profile outside Asia, Son has long been an unconventional visionary in the often closed and clubby world of corporate Japan, turning profits from Japanese telecoms into bets on up-and-coming start-ups.
+Not all have been a success: SoftBank's $22 billion acquisition of a controlling stake in Sprint in 2013 has left the group with hefty debts. But Son said on Monday his decision to move for ARM reflected his confidence that Sprint was close to turning around.    
+SoftBank had interest-bearing debt of 11.9 trillion yen  ($112.6 billion) at end-March, including 4 trillion yen at Sprint, and its net debt currently stands at 3.8 times core earnings.
+SoftBank has raised nearly 2 trillion yen in cash over the last few months through asset disposals, according to Son - including the sale of shares in China's Alibaba, unusual for a group that has rarely exited investments.
+But analysts had expected it to use the cash to reduce debt or give shareholders a windfall by buying back its own shares.
+Instead, Son appears to have leapt on the opportunity to buy ARM at a time when Britain was convulsed by the political and financial fall-out from the vote to leave the EU, which prompted sterling's fall to a 31-year low against the dollar.
+Though ARM has warned on the staffing impact of Brexit, its revenues are largely in dollars, and the weaker pound prompted its shares to climb almost 17 percent since the vote.
+Under the offer on Monday SoftBank said it was committed to keeping top managers, ARM's headquarters and to at least double the employee headcount in Britain.
+Analysts said on Monday that a counterbid was not impossible but also unlikely, as any rival bidder among ARM's customers or Chinese rivals could face regulatory challenges.
+SoftBank shares were not traded on Monday, a market holiday in Tokyo.
+Lazard and Goldman Sachs were the lead financial advisers to ARM while the Raine Group, Robey Warshaw and Mizuho Securities acted as financial advisers to SoftBank. 
+
+ (Additional reporting by Makiko Yamazaki in Tokyo and Paul Sandle, Costas Pitas, Anirban Nag, and Jemima Kelly in London)

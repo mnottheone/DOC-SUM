@@ -1,0 +1,30 @@
+IRS investigates Facebook's Ireland asset sale ||||
+ The US Internal Revenue Service has said that Facebook may have understated the value of the intellectual property it sold to its Ireland subsidiary by "billions of dollars", cutting its tax bill 'unfairly'. This comes after the US Justice Department filed a lawsuit against the social networking site. Facebook, however, denied any wrongdoing stating that it "complies with...rules and regulations". ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/008e6da4-9e6b-4b9b-b513-b17129909eef-1||||
+The U.S. Internal Revenue Service (IRS) said Facebook Inc (FB.O) may have understated the value of intellectual property it transferred to Ireland by "billions of dollars", unfairly cutting its tax bill in the process, according to court papers.
+The U.S. Justice Department filed a lawsuit on Wednesday in federal court in San Francisco seeking to enforce IRS summonses served on Facebook and to force the world's largest social network to produce various documents as part of the probe.
+The tax authority is examining whether Facebook understated its U.S. income by selling rights to an Irish subsidiary too cheaply.
+Doing so could boost taxable profits in Ireland, which has a corporate tax rate of 12.5 percent, and reduce taxable income in the United States which has a rate of at least 35 percent.
+Facebook denied any wrongdoing.
+"Facebook complies with all applicable rules and regulations in the countries where we operate," Anteneh Daniel, a spokesperson for the company, said in a statement.
+The complex tax structuring used by big technology companies such as Google (GOOGL.O) and Amazon (AMZN.O) has prompted governments in recent years to launch a program to rewrite tax rules so that inter-group deals that shift profits into tax havens are no longer possible.
+The lawsuit said that in 2010 Facebook Inc sold the rights to exploit the Facebook platform outside the United States and Canada to Facebook Ireland Holdings.
+The price used for the intangible property was determined by Facebook's tax adviser Ernst & Young (E&Y).
+"The IRS examination team's preliminary positions suggested that the E&Y valuations of the transferred intangibles were understated by billions of dollars," the lawsuit said.
+E&Y was not immediately available for comment.
+
+COMPLEX WEB
+Facebook Ireland Holdings in turn leased the rights to exploit the Facebook platform to its own subsidiary, Facebook Ireland Ltd, in return for a fee, accounts for Facebook Ireland Ltd, filed with the Irish company registry, show. 
+Facebook Ireland Ltd. is Facebook's main international business unit, reaping sales of 4.8 billion euros ($5.3 billion) in 2014, the last year for which accounts are available.
+Facebook Inc in the United States could have licensed its intellectual property directly to Facebook Ireland Ltd but then it would have to report that income in the United States and pay tax there.
+It does have to pay tax on the money it received from intermediary Facebook Ireland Holdings.
+Moreover, if Facebook Ireland Holdings paid less for the rights than it charges Facebook Ireland Ltd., this margin allows profit to be built up in the lower tax jurisdiction.
+U.S. technology companies sometimes don't even have to pay the 12.5 percent Irish corporate tax rate.
+They frequently take advantage of a quirk of Irish tax law which allows companies to designate an Irish registered company as being tax resident elsewhere --  an arrangement tax professionals have termed a "double Irish".
+This involves the rights-holding company being designated as tax resident in a tax haven. However, since the companies concerned are Irish-registered, the transactions don't trigger a U.S. tax bill.
+Facebook declined to say where Facebook Ireland Holdings was tax resident. It is an unlimited company, which means it doesn't have to file accounts so there are no public documents on its status.
+Unlimited companies are unusual structures in Ireland but U.S. multinationals frequently establish these as part of their tax structuring.
+
+
+ (Reporting by Nate Raymond in New York and Tom Bergin in London; Editing by Richard Chang and Keith Weir)

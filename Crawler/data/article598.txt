@@ -1,0 +1,14 @@
+Brazil orders indefinite block on WhatsApp ||||
+ A Brazilian judge on Tuesday ordered phone carriers to block access to Whatsapp, following the company's refusal to comply with a previous court order to reveal user information. Temporary blackouts were ordered against Whatsapp twice since December, but were overturned by higher courts. Whatsapp CEO has posted on Facebook saying, "We are being asked for information we don't have". ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/bca7ad7b-41a1-4ea9-8b87-e33f559be96c-1||||
+SAO PAULO A Brazilian judge briefly blocked Facebook Inc's WhatsApp messaging service on Tuesday for failing to cooperate in a criminal investigation, before the nation's top court overturned the measure in the third such incident since December.
+Federal Supreme Court President Ricardo Lewandowski said in a decision that it seemed "scarcely reasonable or proportional" for a judge in Rio de Janeiro state to have ordered the indefinite suspension of the messaging app until it revealed encrypted messages pertaining to a confidential case.
+Still, the criminal judge left some 100 million Brazilian users without access to the messaging app for hours on Tuesday afternoon, showing the vast and unpredictable discretionary power of Brazil's lower courts.
+WhatsApp stood by its defense that messages sent over the app are not stored on its servers and cannot be turned over to the courts. Co-founder and Chief Executive Jan Koum even took to Facebook to vent his frustration with the recurring legal issues in Brazil.
+"It's shocking that less than two months after Brazilian people and lawmakers loudly rejected blocks of services like Whatsapp, history is repeating itself," he posted.
+The office of Brazil's attorney general reiterated its position that judges who suspend WhatsApp are incorrectly interpreting a 2014 law meant to update the legal framework for the internet.
+Still, that guidance has not stopped judges frustrated with the modern limits of wiretaps in drug-trafficking investigations from going after the service and even briefly jailing a senior Facebook executive in March.
+"As we've said in the past, we cannot share information we don't have access to," said a WhatsApp spokesperson in a public statement.
+
+ (Reporting by Brad Haynes; Additional reporting by Alberto Alerigi Jr and Guillermo Parra-Bernal in Sao Paulo, Rodrigo Viga Gaier in Rio de Janeiro; Editing by Cynthia Osterman and David Gregorio)

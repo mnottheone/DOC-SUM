@@ -1,0 +1,14 @@
+US regulator probes yet another Tesla crash ||||
+ The US regulator is investigating a Tesla Model X car crash that took place on July 1 in Pennsylvania, injuring the driver and a passenger. "We have no reason to believe that Autopilot had anything to do with this accident," said Tesla. The company is facing another probe against a fatal car crash that happened on May 7. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/3e0617bd-4128-44eb-85cc-eea7233c9565-1||||
+The National Highway Traffic Safety Administration (NHTSA) is investigating a July 1 crash in Pennsylvania of a Tesla Model X to determine whether automated functions were in use at the time of the accident, the agency said on Wednesday.
+NHTSA is looking to learn whether Tesla's Autopilot function, a semi-autonomous technology that helps drivers steer and stay in lanes, was at play. NHTSA is currently probing a May 7 fatality of a Tesla Model S driver using Autopilot.
+In a statement, Tesla Motors Inc (TSLA.O) said, "Based on the information we have now, we have no reason to believe that Autopilot had anything to do with this accident."
+Tesla said it had received an automated alert from the car indicating airbags had been deployed, but never received logs containing details about the state of vehicle controls - which would indicate whether Autopilot was on or off. Multiple attempts to reach the car's owner were unsuccessful, Tesla said.
+NHTSA said it was collecting information from state police, Tesla and the driver, Albert Scaglione of Farmington Hills, Michigan.
+NHTSA's disclosure last week of its probe into the May crash in Florida that killed a Model S driver using Autopilot has focused attention on the nascent technology that Tesla has said is still in "beta," or test, mode. 
+While Tesla has said drivers are responsible and their hands should be on the wheel even as the car takes over more control, some industry experts have questioned whether such partially autonomous systems lull drivers into a false sense of security.    
+In the Pennsylvania crash, state police said the Model X struck a turnpike guard rail, then veered across several traffic lanes and into the median, where it landed on its roof in the middle of the roadway. The driver and a passenger were injured, according to the police report.
+
+ (Reporting by Paul Lienert in Detroit, Alexandria Sage in San Francisco; Editing by Marguerita Choy and Chris Reese)

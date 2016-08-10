@@ -1,0 +1,23 @@
+TRAI, FB dispute number of Free Basics responses ||||
+ TRAI (Telecom Regulatory Authority of India) has claimed to have received 1.89 million responses for 'Free Basics', against Facebook's earlier claim of 11 million responses. TRAI purportedly wrote to Facebook, "It appears that you have not been able to convey the message to your users (whose mail ids were with you) in time. Reportedly, Facebook is yet to reply. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/76153658-0012-0001-6396-000012345678||||
+In yet another face-off, Facebook and TRAI are sparring over responses to a consultation paper on differential pricing for data services submitted via the social networking giant’s campaign with the regulator saying only a tenth of responses claimed were actually received.
+Releasing number of responses received through ‘facebookmail.com and @supportfreebasics.in’, TRAI said only 1.89 million had responded. Facebook on January 6 has claimed that more than 11 million people had supported its plan to make parts of the Internet available for free under ‘Free Basics’.
+Facebook’s ‘Free Basics’ gives access to sites such as Wikipedia or AccuWeather, in addition to the social network’s own app, but does not allow access to many services such as YouTube, Gmail, Google or Twitter. TRAI also has expressed its disappointment for Facebook’s inability to reach out to the users who responded via missed calls to support free basics.
+
+
+The regulator had on January 1 raised doubts over Facebook doing enough to reach out to all the respondents and asked if specific questions raised in the consultation paper were asked. Facebook responded to this on January 6.
+TRAI today said that though Facebook had responded on January 6 stating that it had reached out to the users who responded through Facebook, but was unable to contact people who responded via a missed call, as they do not have their email ids.
+“Since there was no clarity on ‘whether Facebook has conveyed TRAI’s message to their users, TRAI has again requested Facebook vide letter dated January 7, 2016 to confirm whether Facebook has communicated TRAI’s message to the users and the manner in which the same was conveyed,” TRAI said. The Authority said Facebook has not responded to the January 7 letter till date.
+Facebook Free Basics vs Net Neutrality: All that has happened so far
+Keen to tap the world’s largest offline population, Facebook is offering Free Basics to provide net connectivity. But critics says it violates the principal of Net Neutrality by offering some services for free, giving them an advantage over competitors. Also, Facebook acts as a gatekeeper for Free Basics, permitting some services, while rejecting others.
+Watch our video series on Net Neutrality 
+In the January 7 letter regarding the users, who responded through missed calls, TRAI said, “As those responses had come through Facebook’s platform, it is expected that you would find ways to communicate TRAI’s message to such users as well. Even if you did not have their emails, you could certainly communicate the message through SMS text or other means.”
+TRAI further said it has not received even a single revised response from any user sending responses for Free Basics till January 7.
+“It appears that you have not been able to convey the message to your users (whose mail ids were with you) in time,” TRAI said in the letter.
+Watch our video of Facebook explaining Free Basics
+TRAI is holding  theconsultation before framing up of recommendations for Net Neutrality rules. The telecom operators too have favoured differential pricing for data services.
+Facebook’s Free Basics, a zero rating platform, allows access to content or application hosted on it for free in partnership with telecom operator.
+A debate on Net Neutrality stirred across the country after Airtel decided to charge separately for Internet-based calls in December 2014 but withdrew it later after people protested. The debate heated up after Airtel launched free Internet platform Airtel Zero and later Facebook also launched its Internet.Org platform, renamed as Free Basics.
+Also see: Net Neutrality debate: TRAI aims to resolve some issues by early 2016

@@ -1,0 +1,10 @@
+Yahoo Messenger launches 'unsend' option ||||
+ Yahoo on Thursday launched a new version of its Messenger that lets users take back text messages and photos sent through the platform. The new Yahoo Messenger is available for mobile, web and Yahoo Mail on both Android and iOS. It also lets users share multiple high-resolution images in one go and supports GIF messages. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/31319860-0012-0012-0778-000012345678||||
+Yahoo Messenger has just launched a new version with a feature every web user has been dying for: the ability to take back messages. In fact, the new messenger, which is now available for mobile, web and on Yahoo Mail, will let you unsend text messages as well as photos.
+WATCH video: Features of the new Yahoo Messenger
+The new messenger is integrated with other Yahoo services like Flickr and Tumblr and one of the USPs is the ability to share as many high-resolution photos as you want in one go. Plus users will be able to like a certain photo send on the messenger.
+Like with the Facebook messenger, users will be able to send GIF messages too tapping into the extensive base animations on Tumbler. In a feature that could be of use in markets like India, there will be a sync protocol for when the network is not reliable. So photos and messages that are shared when there is no network will sync when the connectivity comes back. Austin Shoemaker of Yahoo said the messenger will be among the fastest as it does not take time to sync messages from the server.
+Yahoo will sort contacts based on the most frequently interacted names. However, in response to a question from IndianExpress.com, Shoemaker said the messenger only works with Yahoo accounts and cannot sync third-party messaging platforms like Google Hangouts or Facebook Messenger, which are now more popular. Users will have the ability to sync between multiple Yahoo accounts.
+The messenger is very similar is design language to the new Yahoo Mail app and will be available in 44 languages for web users but limited to English on Android and iOS.

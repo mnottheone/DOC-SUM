@@ -1,0 +1,27 @@
+Google to partner Fiat Chrysler for self-driving ||||
+ Google and Fiat Chrysler have agreed to work together to build a fleet of 100 self-driving minivans. Engineers from the two companies will work together to fit Google's autonomous driving technology into Fiat's Pacifica. The deal marks the first time that Google has worked directly with an automaker to integrate its self-driving system into a passenger vehicle, the companies said. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/eb70205e-7523-4ac8-8f54-2202afcbb768-1||||
+DETROIT/FRANKFURT Alphabet Inc's Google (GOOGL.O) and Fiat Chrysler Automobiles NV (FCHA.MI) (FCAU.N) have agreed to work together to build a fleet of 100 self-driving minivans, marking the first time that a Silicon Valley firm has teamed up with a traditional carmaker to develop an autonomous vehicle.
+Google and Fiat said the deal announced on Tuesday was the first time Google has worked directly with an automaker "to integrate its self-driving system, including its sensors and software, into a passenger vehicle."
+The growing use of computing power in vehicles is paving the way for intelligent, self-driving cars, creating new rivalries and business opportunities for both technology companies and automakers.
+Unlike its rival premium carmakers Daimler (DAIGn.DE), BMW (BMWG.DE) and Volkswagen (VOWG_p.DE) unit Audi, cash-strapped Fiat Chrysler has decided to turn to an industry outsider to develop intelligent, self-driving cars, not having the resources  to do the work alone.
+Fiat Chrysler has a net debt pile of 6.6 billion euros ($7.6 billion) and Chief Executive Sergio Marchionne has been trying unsuccessfully for more than a year to persuade rivals, including GM, to consider a merger to help spread the rising costs of research and development.
+On Tuesday Google and Fiat Chrysler engineers said they will work together to fit Google's autonomous driving technology into the Chrysler Pacifica minivans, working together at a facility in Southeast Michigan, where Fiat Chrysler has its major North American engineering center, the companies said.
+Google has said that it does not want to build self-driving vehicles on its own and has explored alliances with auto companies, but none has been finalized. Working more closely with Fiat Chrysler could help Google refine its systems as a step towards offering them in regular production cars.
+ The deal does not preclude either FCA or Google from cooperating with others, and Google said it is not sharing with Fiat proprietary self-driving technology developed for another prototype vehicle.
+Nonetheless Google said teaming up with Fiat Chrysler helps advance their expertise in the market for self driving cars. 
+“The opportunity to work closely with FCA engineers will accelerate our efforts to develop a fully self-driving car that will make our roads safer and bring everyday destinations within reach for those who cannot drive,” John Krafcik, chief executive of the Google Self-Driving Car Project, said in a statement. 
+Collaborating with Google provides an opportunity for Fiat Chrysler "to partner with one of the world’s leading technology companies to accelerate the pace of innovation in the automotive industry," Marchionne said in a separate statement.
+The Fiat Chrysler vehicles will more than double Google's testing fleet, which currently includes about 70 SUVs acquired from Toyota's (7203.T) Lexus and small prototype cars designed by Google. Google is now testing self-driving vehicles in four U.S. cities.
+
+GOING IT ALONE
+Executives at other automakers, including GM, Ford Motor (F.N), BMW (BMWG.DE) and Daimler (DAIGn.DE), have expressed a wariness about alliances with Alphabet or other technology companies on fears that such a pact would relegate them to being mere low-value 'hardware' suppliers in the long run.
+Rather than allowing aspiring carmakers like Apple (AAPL.O) or Google access to their know-how these companies have opted to invest hundreds of millions in building up their own expertise in the area of software, artificial intelligence, machine learning and sensors.  
+In March General Motors Co (GM.N) agreed to acquire San Francisco self-driving car startup Cruise Automation . Daimler, BMW and Volkswagen AG (VOWG_p.DE) last year bought digital mapping company HERE to accelerate their autonomous driving development. Boston Consulting estimates that the proportion of vehicles with autonomous features is expected to reach 13 percent by 2025, amounting to a market value of roughly $42 billion.
+However, Fiat has made clear that it sees developing autonomous vehicles and digital businesses on its own as too risky in trying to compete.
+The mistake of neglecting the basic business of car manufacturing to venture into new related areas of business, such as car repair shops and communication services, was one Fiat made in the 1990s and should not be repeated, Fiat Chrysler's chairman, John Elkann, said in April.
+By 2030 fully self-driving cars will likely account for just 15 percent of global car sales, meaning non-autonomous vehicles will remain the larger opportunity for Fiat.
+"Boring old carmakers need to figure out how to make this profitable and guard against falling into the 1990 trap of ignoring that business while chasing profits in other parts of the value chain," Elkann said.
+
+ (Additional reporting by Agnieszka Flak in Milan; Editing by Tom Brown, Greg Mahlich)

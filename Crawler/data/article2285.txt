@@ -1,0 +1,27 @@
+I-T dept found 546 with offshore investments ||||
+ The Central Board of Direct Taxes (CBDT) has told the Rajya Sabha that the Income Tax department has identified 546 Indians with investments in offshore entities in tax havens. "Many of the persons have been reported as non-traceable," CBDT said. It added that undisclosed income of around 500 crore has been found and 10 prosecution complaints were filed. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/865f6383-e82a-439b-b5ed-bf72f0874a2f-1||||
+The Central Board of Direct Taxes (CBDT) has informed the Rajya Sabha Secretariat that the Income Tax department has so far identified 546 Indians, including 434 in the country, who invested in offshore entities in tax havens like the British Virgin Islands. According to the CBDT, undisclosed income to the tune of Rs 500 crore has already been detected.
+The information was sought in the wake of an April 2013 investigation by The Indian Express-International Consortium of Investigative Journalists on investments by Indians in offshore entities in tax havens. There were 612 Indians on the list including then MPs Vivekanand Gaddam and Vijay Mallya, industrialists such as Ravikant Ruia, Chetan Burman and Abhey Kumar Oswal, and Gaekwad Radhikaraje Samarjitsinh of the erstwhile royal family of Baroda.
+A CBDT office memorandum dated March 16, 2016, which was sent to the Rajya Sabha Secretariat, stated: “Enquiries were initiated by the Income Tax Department in these cases to collect the relevant information with a view to take appropriate action under the Income Tax Act, 1961. As a result of these enquiries, 546 Indian persons have been traced so far and 434 persons have been found to be ‘Resident’. Many of the persons have been reported as non-traceable.”
+
+
+Share This Article
+
+
+
+Related Article CAG seeks details of undeclared taxes, offshore assets Panama Papers: Mossack Fonseca on Income Tax radar for 9 years in Delhi, details sought Outed in lists, HSBC account holders lining up to declare Govt gets data on investments by Indians in tax havens Undisclosed income of Rs 9,200 cr detectedFinMin probing more than 100 overseas deals for tax evasion
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+“Verification of income tax returns (ITRs) indicates that in a number of cases, the information available in public domain about the entities in such offshore jurisdictions is prima facie not reflected in ITRs. Some persons have admitted their relationship with offshore entities while some others have denied,” the office memorandum stated.
+In August 2013, Trinamool MP Sukhendu Sekhar Roy had asked an unstarred question in the Rajya Sabha on the revelations on Indian entities operating from tax havens. In its reply, the government said the matter was under investigation and further details would be given to the MP at a later date. Roy wrote to the Committee on Public Assurances last year following which the Rajya Sabha Secretariat received this reply.
+The CBDT also stated: “An estimated undisclosed income of about Rs 500 crore has already been detected by the department in these cases. Prosecution complaints have been filed in 10 cases upto 31.0.2016 under section 277 of the IT Act, 1961 (false statement in verification, etc).”
+The letter mentions that the information pertains to the matter that was put out on http://www.icij.org in different stages from April 2013 onward, adding up to almost 700 such cases in some of which the person is not available at the address listed. The information includes name and address of Indian persons; name and address of offshore entities; date of formation of offshore entities; relation of the Indian person to offshore entities.There is no information on financial transactions or bank accounts.
+The reply also stated that further inquiries were underway and could lead to the determination of the actual tax liability. “Such process is subject to appeals at different stages before various authorities including Honourable Supreme Court. In light of the above, Hon’ble Committee on Government Assurances was requested to drop the assurance which was not acceded to by the Committee. Presently, extension for fulfilment of the assurance has been sought upto 31.2.2016.”
+WATCH INDIAN EXPRESS VIDEOS HERE

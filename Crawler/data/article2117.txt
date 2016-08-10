@@ -1,0 +1,30 @@
+Not allowed to use discretion by law: Court ||||
+ A special court in Delhi that deals with cases of child sexual abuse has said that gaps in the law stop the court from using its discretion while sentencing convicts. The court said it is forced to impose the minimum 10-year sentence under the Protection of Children from Sexual Offences (POCSO) Act even under "mitigating circumstances". ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/95207226-5d2e-47aa-96db-762845bbdb10-1||||
+The special court that deals exclusively with cases of child sexual abuse has expressed concern over the “lacuna” in law that doesn’t allow it to use its sense of discretion while sentencing a convict, even when there are “mitigating circumstances”.
+The court pointed out that it was mandated by law to convict a person to no lesser than 10 years in jail, which is the minimum punishment prescribed for those found guilty of charges under the Protection of Children from Sexual Offences (POCSO) Act.
+Additional Sessions Judge Vinod Yadav made the observations while sentencing a 21-year-old man to rigorous imprisonment for 10 years after finding him guilty of rape and charges under sections of POCSO.
+The accused had been convicted of sexually assaulting a 17-year-old, who had maintained that their physical relationship was consensual and she “wanted to marry him”, said the court. The convict had also sought leniency on the grounds that during the trial, he married the girl with the consent of both families and she was four months pregnant.
+
+
+Share This Article
+
+
+
+Related Article Appeal against court martial order: Tribunal's Mumbai bench says court martial can try POCSO case, upholds verdict Draconian and ineffective Man held guilty of sexually assaulting 4-year-old girlSame sentence for different degrees of assault under POCSO not just: Judge750 of 792 child abuse cases pending in courtsSpecial court decides eight cases in nine months under POCSO Act
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+The court said given the “peculiar facts and circumstances of the case”, it was “inclined to award the minimum sentence prescribed under the law to the convict”.
+ASJ Yadav, however, observed that the special court “does not have discretion to award lesser sentence even if there are mitigating circumstances like in this case”.
+He added, “The legislature should have provided discretion to the special court in sentencing a convict like the one in the present case by providing the categories on which different punishment could be awarded.”
+The special court also said that different category of cases —incestuous crimes, runaway marriages, consensual sex where the “victim is of a tender age” — could be drawn up after “deliberations and discussions with various stakeholders dealing with cases under POCSO Act”.
+Highlighting the absence of discretion given to special courts, ASJ Yadav said, “The POCSO Act, 2012, does not authorise the court to have discretion in sentencing a convict for a period lesser than the minimum punishment prescribed for the proved offence. The court does not have discretion to award lesser sentence even if there are mitigating circumstances like in this case. The stand of the child victim throughout had been that she had established physical relations with the convict of her own will as she wanted to marry him.”
+The convict had been found guilty of sexually assaulting the victim, who was 13 at the time of the incident, after promising to marry her. Holding him guilty, the special court said the convict getting married to the victim “during the course of trial shall have no bearing on the commission of offence”.
+The court also said that “even if” the victim has stated that she had given “consent for sexual relations”, the convict “cannot be absolved of criminal liability under the Act”.
+WATCH INDIAN EXPRESS VIDEOS HERE

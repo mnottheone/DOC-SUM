@@ -1,0 +1,14 @@
+Twitter warns users of state-sponsored attacks ||||
+ In a first, Twitter has sent alerts to at least 11 users about their accounts being targets of state-sponsored attacks. The alert warned users about these actors trying to obtain their personal information. People who were notified include security professionals and one privacy organization. Facebook and Google, too, have a system in place for notifying users about state-sponsored attacks. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/12252164-0013-0012-1934-000012345678||||
+After Facebook and Google, now Twitter has alerted its users to falling a victim of a state-sponsored cyberattack, a media report said here.
+“The social network recently alerted some users that they ‘may have been targeted’ by government attackers trying to get email addresses, network connections and phone numbers,” The Verge reported on Saturday.
+At least 11 Twitter users, who are working as mass surveillance researchers, security professionals, and (one) privacy organisation, on Friday received notifications that their accounts might have been targeted by state-sponsored attackers.
+The Twitter noted in its notification letter that it believes only email addresses, IP addresses, and phone numbers would have been exposed.
+Recently, both Facebook and Google issued similar emergency alerts for state-sponsored attacks. Facebook launched alerts in October and immediately recognised attacks on state department employees.
+A story in New York Times had indicated that the federal department found out about those attacks because of the alert system.
+The attacks are a matter of concern because access to social media accounts can be lucrative for determined attackers.
+One account could yield access to dozens of others and open up lines of communication between people in a particular field or network.
+Twitter is offering suggestions like using Tor to anyone who is worried that their personal information is out in the wild.
+Tor is free software for enabling anonymous communication and directs internet traffic through a free, worldwide, volunteer network to conceal a user’s location and usage from anyone conducting network surveillance or traffic analysis.

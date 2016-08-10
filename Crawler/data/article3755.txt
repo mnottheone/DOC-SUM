@@ -1,0 +1,10 @@
+IT Minister calls Project Loon an interference ||||
+ According to Telecom Minister Ravi Shankar Prasad, Googles Project Loon will interfere with Indias cellular transmissions. The project aims at using big floating balloons to transmit internet services from a height of 20 kilometers above Earth surface. Prasad said, The proposed frequency band to be used in the Loon Project of Google is being used for cellular operations in India. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/22577840-0012-0012-1805-000012345678||||
+Google’s Project Loon, through which the online search giant plans to provide internet connectivity using balloons, will interfere with cellular transmissions of mobile operators in India, the government said today.
+“The proposed frequency band to be used in the Loon Project of Google is being used for cellular operations in India and it will lead to interference with cellular transmissions,” Telecom Minister Ravi Shankar Prasad said in a written reply to the Rajya Sabha.
+The statement of the Minister assumes significance in the backdrop of call drop problem faced by consumers due to poor network quality. On a query that whether there are technical glitches in according approval to Project Loon, the Minister replied in affirmative.
+Google’s Project Loon to Facebook Aquila: Everything you need to know about Internet from the skies 
+Google, under its Project Loon, is using big balloons floating at a height of 20 kilometers above earth surface for transmission of Internet services. It has already tested this technology in New Zealand, California (the US) and Brazil. As per Google, each balloon can provide connectivity to a ground area about 40 km in diameter using a wireless communications technology called LTE or 4G.
+To use LTE or 4G, Project Loon partners with telecom companies to share cellular spectrum so that people will be able to access the Internet everywhere directly from their phones and other LTE-enabled devices. Google uses solar panel and wind to power electronic equipment in the balloon throughout the day.

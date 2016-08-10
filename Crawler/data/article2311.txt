@@ -1,0 +1,28 @@
+Govt defers FDI decision on AgustaWestland ||||
+ The government has announced that it had deferred a decision on increase in Foreign Direct Investment (FDI) in AgustaWestland's joint venture with Tata Sons to assemble helicopters in India. This was reportedly based on recommendations from the Foreign Investment Promotion Board (FIPB). This comes after earlier reports that AgustaWestland had FIPB approval to start a joint venture with Tata Sons. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/d39f9ce4-3922-461a-aa5d-ca3c594bd16b-1||||
+On the day the CBI questioned former IAF chief S P Tyagi over his alleged links to middlemen in the Rs 3,600-crore AgustaWestland chopper deal, the government announced it had deferred a decision on increase in FDI in AgustaWestland’s joint venture with Tata Sons to assemble helicopters in India.
+It was one of the five proposals deferred on the recommendations of the Foreign Investment Promotion Board (FIPB) which met on April 8 — no other reason was cited by the government. The Milan court verdict, handing prison terms to former chiefs of Finmeccanica and AgustaWestland, came on April 7.
+
+
+Share This Article
+
+
+
+Related Article AgustaWestland: No evidence linking Indian politicians to bribes, says judge who gave verdict AgustaWestland deal: Ex-IAF chief SP Tyagi ‘admits’ he met Finmeccanica amid chopper talks Within days, Haschke and Khaitan joined board of Emaar-MGF Defence Ministry says all Agusta shops shut but Tata JV got its OK Defence Ministry to protest FIPB clearance for Agusta joint ventureBJP seeks probe into approval for Tata-Agusta
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Last week, The Indian Express reported that AgustaWestland had FIPB approval to start a joint venture facility with Tata Sons, called Indian Rotorcraft Ltd (IRL), for assembly of AW-199Kx helicopters in Hyderabad Aviation SEZ.
+While the JV is yet to begin operations, the assembled helicopters were to be exported to the Italian company for sale to customers. The IRL had also told The Indian Express that this venture had no connection to the IAF purchase of AW101 helicopters, now at the centre of a political row with the deal being probed by Indian agencies following allegations of payoffs.
+Also read: Defence Ministry says all AgustaWestland shops shut, but Tata JV got its ok
+A Finance Ministry statement Monday said the joint venture had sought post facto approval of the FIPB for increased FDI inflow of Rs 19.64 crore as against Rs 17.6 crore approved in September 2011.
+According to the statement, the IRL proposal of “post facto approval for the increased FDI inflow of Rs 19.64 crore as against the approved FDI inflow of Rs 17.6 crore, vide approval letter dated 21.09.2011, and change of the foreign investor from AgustaWestland S.p.A, Italy to Finmeccanica S.p.A by way of merger of M/s AgustaWestland S.p.A, Italy into Finmeccanica S.p.A” had been deferred.
+Until late Monday night, the IRL did not respond to a queries sent by email on the FIPB recommendation.
+Last week, the IRL told The Indian Express that the proposal approved in September 2011 was for AW-119Ke helicopters, but the model was upgraded to AW-199Kx and fresh approval was granted by FIPB on September 19, 2013. The approval for the assembly unit of AW-199Kx at IRL was granted by FIPB in October 2015. The industrial licence for production, which was issued by Department of Industrial Policy & Promotion (DIPP) in 2012 for two years, has expired and the company had already applied for it again.
+WATCH INDIAN EXPRESS VIDEOS HERE

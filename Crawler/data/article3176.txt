@@ -1,0 +1,27 @@
+Return files seized in Delhi raid: Court to CBI ||||
+ A Delhi special court on Wednesday directed the CBI to return some files seized during their December 2015 raid on Delhi CM Arvind Kejriwal's principal secretary Rajendra Kumar's office. The court also termed the probe against Kumar as one that is "being done in haste" adding that such a seizure is in "utter violation of the CBI manual". ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/54087764-0005-0001-7437-000012345678||||
+Stating that the CBI “cannot be clothed with divine powers”, a special court Wednesday directed the probe agency to return the “original” documents seized by it during a raid conducted at the office of Rajendra Kumar, Principal Secretary to Delhi Chief Minister Arvind Kejriwal.
+Special Judge Ajay Kumar Jain said the CBI “cannot retain the documents in the garb of the argument” that “investigation is in progress without whispering…in what manner they are related to the present case”.
+Later in the day, Kejriwal tweeted, “After today’s CBI court order directing release of docs seized from CMO, PMO owes an explanation to the nation since CBI reports to PM.”
+The court also said it seemed like proceedings against Kumar had been initiated “in haste”. “There appears (to be) a deviation in the present case as CBI, without conducting preliminary inquiry, straight away registered the regular case on oral information,” said Jain.
+
+
+Share This Article
+
+
+
+Related Article Delhi HC allows CBI to retain papers seized from Delhi secretariat Raid on CM's Principal Secy office- Probe has nothing to do with state govt: CBI CBI has failed to show relevance of seized documents: AAP to Delhi HC Delhi HC refuses to stay release of documents, seeks response from AAP govt and CBI AAP govt: Right about raid on CM’s office, want apology from PM Modi CBI asks court to restrain AAP govt from holding press meets
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+“In (a) scenario when the public servant, while discharging his official duty, misuses power and when there is no direct allegation of pecuniary advantage, then some sort of preliminary inquiry is required. However, in the present case, the FIR is registered on oral information, thus proceedings initiated by the CBI appear to be in haste.”
+“The acceptance of vague reasons like investigation is still in progress implies the CBI is recognised with unbridled power to investigate even in violation of relevant laws and regulations. The seizure of the present documents in question is in utter violation of the CBI manual,” he added.
+“This court has all the powers to refrain the CBI from abusing its authority during the search. Using of that power by court cannot be held to be interference in the investigation… Any recognition of absolute immunity and unlimited powers will be tantamount to recognition of ‘divine power’ which no authority on earth can enjoy. The CBI cannot be clothed with divine powers,” Jain said.
+The CBI had raided Kumar’s office on December 15 last year. During the raid, entry of officials and staff was banned on the third floor of the Delhi Secretariat, from where Kejriwal runs his government.
+Following the raids, the CM had claimed, “It has become necessary to reveal that why did the CBI come to my office today and which was the file they were looking for. Yeh file hai DDCA ka file jiske andar Arun Jaitley phas rahe hain (This is the DDCA file under which Arun Jaitley is getting trapped).”

@@ -1,0 +1,14 @@
+Technique reconstructs 3D eyes from single photo ||||
+ Disney Research has engineered a new 3D technique that can capture subtle details of the eyes and reconstruct it using a single facial scan or photo. The method employs a parametric model based on a database of 30 eyes which can be used to duplicate the details of an actor's eyes and can be manipulated to accommodate a story line. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/3b4b9e56-c1bc-4207-ba48-5b9008a9b392-1||||
+A new 3D technique developed by Disney Research can capture the crucial yet subtle details of the eyes with just a single facial scan or even a single photo.
+The method requires far less time and hardware than existing eye capture techniques because it employs a parametric model of the eye.
+The model can reproduce the variations in the size and shape of the eyeball, the spots, craters and banding of the coloured iris and even the red veins of the white sclera.
+Watch Video: What’s making news 
+“This new method of eye capture enables us to create highly realistic animations for films, games and medical applications and to do so with as little fuss as possible,” said Markus Gross, vice president at Disney Research.
+The model can be used to automatically duplicate the details of an actor’s eyes and can be manipulated to accommodate a story line, such as changing the dilation of the pupils to match lighting conditions, or increasing the size of veins to make the eyes look fatigued.
+“After decades of research, facial capture technology is now so advanced that it can be difficult to distinguish between digital faces and real ones,” added Thabo Beeler, senior research scientist at Disney Research.
+The parametric model is based in large part on a database of 30 eyes that were captured in high resolution using that exhaustive process.
+The database provides details about the white sclera and the coloured iris, while a separate model was used to represent variations in the size and shape of the eyeball itself.
+The research team will present the findings at the ACM International Conference on Computer Graphics & Interactive Techniques (SIGGRAPH) in California on July 24.

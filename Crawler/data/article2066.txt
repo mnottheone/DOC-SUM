@@ -1,0 +1,32 @@
+'GAAR will override bilateral tax treaties' ||||
+ General Anti Avoidance Rules (GAAR) will override bilateral tax treaties like Double Tax Avoidance Agreement (DTAA), Revenue Secretary Hasmukh Adhia said on Wednesday. GAAR was introduced in the 2012-13 budget but will come into force from April 1, 2017. Earlier on Tuesday, India signed a pact with Mauritius to amend the DTAA to tax capital gains from alienation of assets. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/006125a8-7a77-482d-a320-a723b8553f07-1||||
+The government on Wednesday clarified that there will be no change in tax treatment of Participatory Notes (P-Notes) despite the amendment of tax treaty with Mauritius, which empowers India to tax capital gains arising from sale or transfer of Indian shares. The government will also introduce General Anti-Avoidance Rules (GAAR) next year to check broader issue of tax evasion.
+“There is no change for P-Notes as of now. P-Notes is a separate decision, it is not linked to the treaty. There is no change in decision with regard to taxation of P-Notes because of signing of the Mauritius treaty,” revenue secretary Hasmukh Adhia said.
+Department of Economic Affairs secretary Shaktikanta Das also said that there will be status quo with regard to taxation of P-Notes even as the Double Taxation Avoidance Agreement with Mauritius has been amended.
+P-Notes are instruments issued by registered foreign institutional investors to overseas investors. While the FIIs are registered with the Securities and Exchange Board of India, the overseas investors investing in P-Notes are not registered with the market regulator and thus their identity is not known to the authorities.
+
+
+Share This Article
+
+
+
+Related Article Renegotiation of DTAA: Investments from Cyprus to be taxed from next AprilWon’t allow any transition period in case of GAAR: Govt Mauritius treaty gives India right to tax capital gains on unlisted shares too: Hasmukh Adhia MoS Finance meets foreign investors; discusses GAAR, tax treaties What the changes in the tax treaty with Mauritius mean for India, investors India, Mauritius amend tax treaty, capital gains to come under tax net
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+The economic affairs secretary said the government will also renegotiate the tax treaties with Singapore and Cyprus.
+The 2005 DTAA with Singapore provides that the capital gains exemption would remain in force only till the time Mauritius Tax Treaty provides for capital gains exemption on alienation of shares.
+The government will now have to amend the treaty with Singapore.
+The amendments in the Mauritius treaty follow finance minister Arun Jaitley’s announcement in the Budget for 2016-17 to implement GAAR from April 1, 2017.
+GAAR rules are intended to check tax avoidance for investments by entities based mainly in overseas tax havens.
+Adhia said, “GAAR applies in case of any company which is trying to abuse the treaty. GAAR is an anti-abuse provision. It applies in case of any situation where there is an abuse of treaty for gaining tax benefit unduly.”
+He also said changes in DTAA with Mauritius will not impact inflows and will provide certainty to foreign inflows.
+The government on Tuesday amended its tax treaty with Mauritius, bringing capital gains arising from sale of shares of an Indian resident company acquired after April 1, 2017 under the ambit of taxation in India.
+Existing investors, who acquired shares before April 1, 2017 will not be taxed by the Indian authorities and also a two-year transitional phase has been provided when the capital gains will be taxed at a concessional tax rate. Under the amended treaty, only those Mauritius-based companies that have a total expenditure of more than Rs.27 lakh in the preceding 12 months will be able to benefit from the tax treaty. Interest income arising in India to Mauritian resident banks will also be subject to 7.5 per cent withholding tax in India in respect of debt claims or loans made after March 31, 2017. Capital gains on sale or transfer of shares till March 31, 2017 will be grandfathered and will continue to enjoy benefits of the tax treaty.
+WATCH INDIAN EXPRESS VIDEOS HERE

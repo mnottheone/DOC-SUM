@@ -1,0 +1,29 @@
+Bangladesh Bank heist linked to Sony's 2014 hack ||||
+ Investigators probing the Bangladesh Bank heist of $81 million said on Friday that the cyber attack was similar to the attack on Sony's film studio in 2014. Further, investigators have reportedly uncovered a similar malware attack on a Vietnamese commercial bank. They said, "What initially looked to be an isolated incident...turned out to be part of a wider campaign". ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/c68d1670-f311-4de4-9da5-c3a4a868dfb9-1||||
+NEW YORK/DHAKA Investigators probing the cyber heist of $81 million from the Bangladesh central bank connected it on Friday to the hack at Sony Corp's film studio in 2014, while global financial network SWIFT disclosed a previously unreported attack on a commercial bank.
+SWIFT did not say which commercial bank it was or whether it had lost money, but cyber-security firm BAE Systems said a Vietnamese bank, which it did not name, had been a target. It was not clear if they were referring to the same attack and there was no immediate comment from authorities in Hanoi.
+SWIFT, the linchpin of the global financial system, said  forensic experts believed the second case showed that the Bangladesh heist was not a single occurrence, but part of a wider campaign targeting banks.
+In both cases, SWIFT said, insiders or cyber attackers had succeeded in penetrating the targeted banks' systems, obtaining user credentials and submitting fraudulent SWIFT messages that correspond with transfers of money.
+The cooperative has maintained that its core messaging service has not been compromised. But confirmation of a second attack on a bank will likely increase scrutiny on the security of a network used by 11,000 financial institutions globally.
+In Bangladesh, cyber-security experts hired by the central bank said in a report that hackers were still inside the bank's network, monitoring the investigation into one of the biggest cyber heists in the world. Reuters reviewed parts of the report, but the source who shared the document declined to provide access to its full contents, saying the release of some details could hamper a multinational effort to catch the criminals. 
+Asked about the report, a Bangladesh Bank spokesman said: "We have engaged forensic experts to investigate the whole thing, including this." He did not elaborate.
+Investigators have determined that one team of hackers, dubbed Group Zero in the report, was responsible for the heist and remained inside the network. Group Zero may be seeking to monitor the ongoing cyber investigations or cause other damage, but is unlikely to be able to order fraudulent fund transfers, the investigators wrote. 
+
+"NATION-STATE ACTOR"
+Two other groups are also inside the bank's network, which is linked to the SWIFT international transaction system, the report found. One of the two is a "nation-state actor" engaged in stealing information in attacks that are stealthy but "not known to be destructive", it said.
+A spokeswoman for SWIFT said she was unable to comment.
+The report said investigators knew little about a third group of hackers found inside the network, referred to as Group Two, except that they were using mostly commodity, or off-the-shelf, hacking tools.
+The report, which was submitted earlier this month, did not further identify any of the groups.
+BAE Systems, Europe's largest weapons maker, which also has a large cyber-security business, said it had uncovered evidence linking malicious software used in the Bangladesh heist to the high-profile attack on Sony's Hollywood studio in 2014 and other cases.
+"What initially looked to be an isolated incident at one Asian bank turned out to be part of a wider campaign," BAE's cyber-security team said in a report it released on Friday. 
+BAE also said it uncovered malware that was recently used to target a Vietnamese commercial bank using fraudulent messages on the SWIFT money-transfer network. The malware operated "in a similar fashion" to the Bangladesh Bank hack, BAE said.
+SWIFT also did not name the victim, and neither firm said whether any funds had been stolen.
+Reuters was not able to independently confirm the findings of BAE's determination about similarities between the Bangladesh and Sony attacks. The U.S. government has blamed North Korea for the attack on Sony's film studio, a charge Pyongyang has rejected. 
+BAE's head of threat intelligence, Adrian Nish, told Reuters that the company was only focused on the technical evidence that links the attacks, not determining who was behind them.
+The report said the malware used against Bangladesh Bank exhibits "the same unique characteristics" as software used in "Operation Blockbuster", a campaign documented by a coalition of security firms that dates back to at least 2009 and includes the Sony hack.
+BAE asserted the Operation Blockbuster connection after analyzing tens of millions of malicious file samples, but the report acknowledged there could be alternate explanations for the similarities.
+It is possible that multiple programmers shared the same code, or even that it was painstakingly recreated to confuse investigators, according to BAE.
+
+ (Additional reporting by Serajul Quadir in Dhaka, Nathan Layne in Chicago and Joseph Menn in San Francisco; editing by David Greising and Raju Gopalakrishnan)

@@ -1,0 +1,14 @@
+India ranks 4th in hacked server list: Kaspersky ||||
+ According to a report by software security group Kaspersky, India ranks fourth in the list of hacked servers available for sale on xDedic, an underground marketplace for compromised servers. The report said access to 3,488 hacked Indian servers was being sold on xDedic. The listed servers grant access to government networks, online banking and payment, and telecom networks, among others. ||||
+ Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/3e9c385e-5468-414f-bb96-567ead603116-1||||
+India ranks fourth in the list of hacked servers available for sale via xDedic marketplace. According to Kaspersky, xDedic lists 3488 Indian servers for sale as of May 2016.
+The Kaspersky report futher states that cybercriminals can buy and sell access to these compromised servers for as little as $6 each. The xDedic marketplace is run by a Russian-speaking group and currently has access to some 70,624 hacked Remote Desktop Protocol (RDP) servers.
+The xDedic marketplace is reportedly being used by entry-level cybercriminals as well as APT groups to access legitimate organisational infrastructure to keep their crimes below the radar.
+The Kaspersky report states xDedic listed servers grant to access to following data:
+1. Servers belonging to government networks, corporations and universities
+2. Servers tagged for having access to or hosting certain websites and services, including gaming, betting, dating, online shopping, online banking and payment, cell phone networks, ISPs and browsers
+3. Servers with pre-installed software that could facilitate an attack, including direct mail, financial and PoS software
+4. All supported by a range of hacking and system information tools.
+The top 10 countries affected are Brazil, China, Russia, India, Spain, Italy, France, Australia, South Africa and Malaysia.
+The report claims the listed servers can be used by cybercriminals to target the owners' infrastructures or as a launchpad for an even wider attack. Suprisingly, the report states government entities/corporations/universities are often unaware that their IT infrastructure has been compromised.

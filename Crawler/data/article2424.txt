@@ -1,0 +1,32 @@
+Laser walls activated along Indo-Pak border ||||
+ Eight satellite-monitored 'laser walls' have been activated along the India-Pakistan International Border in Punjab, to guard areas where barbed wire fencing cannot be installed, said a Border Security Force (BSF) official. The BSF took the decision to install the infra-red and laser beam intrusion detection system two years ago. Furthermore, it plans to operationalise four more soon. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/e064226c-71ed-44da-86a0-21ff8d285b2e-1||||
+A dozen “laser walls” have been made operational along the India-Pakistan International Border in Punjab to plug the porous riverine and treacherous terrain and keep an effective vigil against intruders and terrorists exploiting the frontier areas to cross over.
+While eight infra-red and laser beam intrusion detection systems are “up and working” along as many vulnerable and sensitive areas of the international border (IB) in Punjab, four more will be operationalised in the next few days, a senior BSF official said.
+The “laser walls” or fence are being monitored by Border Security Force (BSF) which guards the Indo-Pak IB in Jammu and Kashmir, Punjab, Rajasthan and Gujarat.
+The decision to install these laser walls was taken by BSF two years ago keeping in mind the vulnerability of the border in these areas as barbed wire fencing could not be installed in many infiltration prone areas due to treacherous terrain or marshy riverine topography.
+
+
+Share This Article
+
+
+
+Related Article Pathankot attack: BSF zeroes in on two intrusion theories — a tunnel, Kashmir route Indo-Pak DG-level talks: Mobile, email contact new CBMs to resolve issues faster Indo-Pak DG-level border talks begin in Delhi; ceasefire violation, cross-border infiltration top agenda Gunbattle along border intensifies,Pak sends its army,BSF rushes more forcesHeroin pours through Indo-Pak border,BSF says Pakistan Rangers looking the other way Pak Army facilitating infiltration across LoC: BSF DG
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+After the Pathankot terror attack, where it was suspected that terrorists crossed over from Pakistan by breaching the IB from the Bamiyal area in Punjab, Union Home Ministry and BSF have sped up the deployment and activation of these walls along the long and winding border.
+A total of 45 such laser walls will be installed in these areas along the international border in Punjab and Jammu, according to a blueprint prepared in this regard and accessed by PTI.
+According to the blueprint, BSF along with a team of technical experts will be conducting a pilot project for deploying “technological solutions” for effective border guarding at two “sensitive” riverine stretches in Jammu sector which entails deployment of smart sensors to pick up suspected movements along IB.
+“The laser walls have started working and their functioning is being monitored. Preliminary results in
+detecting illegal movements are encouraging,” the senior BSF official said.
+He said sensors were being monitored through a satellite-based signal command system and armed with night and fog operability tools.
+Apart from these, four other pilot projects of similar kind in stretches of 30-40 kms of IB in Jammu and Gujarat and one in West Bengal along Indo-Bangla border have been approved by Home Ministry to secure Indian borders effectively.
+“Work on them will begin by next month,” he said. After the Pathankot incident, BSF had deployed an
+additional battalion (about 1,000 men) in Punjab sector even as it has increased the number of its ambush operations and patrol in the area.
+BSF is also considering deploying at least four more battalions in Punjab and Jammu border areas as a second-tier of defence after withdrawing these units from the Line of Control.

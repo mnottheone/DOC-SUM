@@ -1,0 +1,37 @@
+Women drivers exempted from Delhi odd-even plan ||||
+ Women drivers, vehicles going to hospitals in medical emergencies and senior officials of central and state governments among others are exempted from the Delhi government's 15-day odd-even plan that starts January 1. However, Delhi CM Arvind Kejriwal's vehicles are not exempted. CM Kejriwal said the formal notification with 20 exemption categories will be issued on Monday. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/41683734-0007-0012-3301-000012345678||||
+From January 1 to January 15, every car entering Delhi will have to follow the odd-even registration number rule as the government sets out to implement an idea to reduce congestion on roads and pollution from vehicle emission. The odd-even rule will also apply to cars with NCR and other states’ registration numbers, official sources told The Indian Express.
+A notification to this effect is being readied. It also lists over 20 categories of vehicles which will be exempted from the rule. Chief Minister Arvind Kejriwal is likely to spell out Thursday his government’s decisions on exemption, inclusion of vehicle categories.
+The rule will be applicable from 8 am to 8 pm on all days except Sunday.
+Proposing a Rs 2,000 fine for every violation of the odd-even rule, the Delhi government, in line with provisions of the Motor Vehicles Act, has sought the Lt Governor’s authorisation for officials to issue challans.
+Watch Delhi Odd-Even Scheme
+
+
+
+Share This Article
+
+
+
+Related Article Odd-even not sustainable as a long-term measure in Beijing: Zeng Jinghai Odd-Even phase 2 begins today, CM Kejriwal asks people to make it a success Happy New Odd, Happy New Even Year Odd-even scheme has received all necessary approvals, says Arvind Kejriwal Delhi's odd-even confusion: Where are the Mohalla committees, Mr Kejriwal? Odd-even policy from 8 am to 8 pm daily, Sundays exempt
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+It has proposed that challans be issued by those in Delhi Police in the rank of head constable and above; those in the rank of head constable and above in the Delhi transport department; and, officers and authorities authorised by the divisional commissioner, revenue department, Delhi. The penalty collected will be deposited in the major head 0041, taxes on vehicles (fees and fine) of the Delhi transport department.
+Sources said the vehicle categories which will be exempted from the odd-even rule include:
+* All two-wheelers.
+* CNG vehicles which will have to display the certificate.
+* Electric vehicles and hybrid vehicles.
+* Women; women drivers with a male child up to the age of 12.
+* Vehicles of the President, Vice President, Prime Minister, Speaker of Lok Sabha, Deputy Chairman of Rajya Sabha, Deputy Speaker of Lok Sabha, Governors of states/ Lt Governor, Chief Justice of India, Union Ministers, Leaders of Opposition in Rajya Sabha and Lok Sabha, Chief Ministers of states except Delhi, judges of Supreme Court and High Court, Lokayukta.
+* Emergency vehicles, ambulance, fire, hospital, prison, hearse, enforcement vehicles.
+* Vehicles of paramilitary forces, Ministry of Defence, pilot and escort.
+* Vehicles of SPG protectees.
+* Vehicles bearing diplomatic corps registration numbers.
+* Those on way to hospital for a medical emergency should carry proof.
+* Vehicles of the physically challenged.

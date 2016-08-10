@@ -1,0 +1,32 @@
+Millions of email accounts hacked in data breach ||||
+ According to information security firm Hold Security, millions of hacked usernames and passwords for email accounts and other websites are being traded in Russia's criminal underworld. Nearly 57 million Mail.ru (Russian email service) accounts are said to have been compromised, in addition to several other Yahoo and Google accounts, and a hacker was offering this data for less than $1. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/c91b6191-b7a0-4d16-967d-ea83663797fa-1||||
+FRANKFURT Hundreds of millions of hacked user names and passwords for email accounts and other websites are being traded in Russia's criminal underworld, a security expert told Reuters.
+The discovery of 272.3 million stolen accounts included a majority of users of Mail.ru (MAILRq.L), Russia's most popular email service, and smaller fractions of Google (GOOGL.O), Yahoo (YHOO.O) and Microsoft (MSFT.O) email users, said Alex Holden, founder and chief information security officer of Hold Security.
+It is one of the biggest stashes of stolen credentials to be uncovered since cyber attacks hit major U.S. banks and retailers two years ago. 
+Holden was previously instrumental in uncovering some of the world's biggest known data breaches, affecting tens of millions of users at Adobe Systems (ADBE.O), JPMorgan (JPM.N) and Target (TGT.N) and exposing them to subsequent cyber crimes.
+The latest discovery came after Hold Security researchers found a young Russian hacker bragging in an online forum that he had collected and was ready to give away a far larger number of stolen credentials that ended up totalling 1.17 billion records.
+After eliminating duplicates, Holden said, the cache contained nearly 57 million Mail.ru accounts - a big chunk of the 64 million monthly active email users Mail.ru said it had at the end of last year. It also included tens of millions of credentials for the world's three big email providers, Gmail, Microsoft and Yahoo, plus hundreds of thousands of accounts at German and Chinese email providers.
+"This information is potent. It is floating around in the underground and this person has shown he's willing to give the data away to people who are nice to him," said Holden, the former chief security officer at U.S. brokerage R.W. Baird. "These credentials can be abused multiple times," he said.
+
+LESS THAN $1
+Mysteriously, the hacker asked just 50 roubles – less than $1 – for the entire trove, but gave up the dataset after Hold researchers agreed to post favourable comments about him in hacker forums, Holden said. He said his company’s policy is to refuse to pay for stolen data.
+Such large-scale data breaches can be used to engineer further break-ins or phishing attacks by reaching the universe of contacts tied to each compromised account, multiplying the risks of financial theft or reputational damage across the web. 
+Hackers know users cling to favourite passwords, resisting admonitions to change credentials regularly and make them more complex. It's why attackers reuse old passwords found on one account to try to break into other accounts of the same user.    
+After being informed of the potential breach of email credentials, Mail.ru said in a statement emailed to Reuters: "We are now checking, whether any combinations of usernames/passwords match users' e-mails and are still active.
+"As soon as we have enough information we will warn the users who might have been affected," Mail.ru said in the email, adding that Mail.ru's initial checks found no live combinations of user names and passwords which match existing emails.
+A Microsoft spokesman said stolen online credentials was an unfortunate reality. "Microsoft has security measures in place to detect account compromise and requires additional information to verify the account owner and help them regain sole access."
+Yahoo and Google did not respond to requests for comment.
+Yahoo Mail credentials numbered 40 million, or 15 percent of the 272 million unique IDs discovered. Meanwhile, 33 million, or 12 percent, were Microsoft Hotmail accounts and 9 percent, or nearly 24 million, were Gmail, according to Holden.
+Thousands of other stolen username/password combinations appear to belong to employees of some of the largest U.S. banking, manufacturing and retail companies, he said.
+Stolen online account credentials are to blame for 22 percent of big data breaches, according to a recent survey of 325 computer professionals by the Cloud Security Alliance.
+In 2014, Holden, a Ukrainian-American who specialises in Eastern European cyber crime threats, uncovered a cache of 1.2 billion unique credentials that marked the world's biggest-ever recovery of stolen accounts.
+His firm studies cyber threats playing out in the forums and chatrooms that make up the criminal underground, speaking to hackers in their native languages while developing profiles of individual criminals.
+Holden said efforts to identify the hacker spreading the current trove of data or the source or sources of the stolen accounts would have exposed the investigative methods of his researchers. Because the hacker vacuumed up data from many sources, researchers have dubbed him "The Collector".
+Ten days ago, Milwaukee-based Hold Security began informing organisations affected by the latest data breaches. The company's policy is to return data it recovers at little or no cost to firms found to have been breached.
+"This is stolen data, which is not ours to sell," said Holden. 
+
+(This version of the story has been refiled to make amends to attribution of comments by Mail.ru in paragraphs 11-12.)
+
+ (Editing by Mark Trevelyan)

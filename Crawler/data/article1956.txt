@@ -1,0 +1,74 @@
+Delhi MCD bypoll: AAP wins 5 out of 13 seats ||||
+ As counting of votes for Municipal Corporation of Delhi (MCD) by-elections took place on Tuesday, AAP won five out of 13 seats while Congress won four and BJP secured three. The remaining seat was won by an independent candidate, Rajender Singh Tanwar, from Bhati ward. This was AAP's debut MCD bypoll and a full-fledged MCD election is due in 2017. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/09495dcc-6421-4ee8-b989-b2ee92b2dd17-1||||
+The Congress Tuesday made a comeback to the political landscape of the national capital by winning five of the 13 municipal wards where bypolls were held Sunday. The party had earlier failed to win any seats in Delhi in the 2014 Lok Sabha election as well as the in the 2015 assembly elections. However, the party made a political mark by winning in wards that have traditionally been held by the BJP.
+AAP, which is aiming to win a majority in the Municipal Corporation of Delhi (MCD) elections next year, managed to secure five seats in the first municipal elections it contested. The BJP, in majority in all three civic bodies, won in only three seats.
+WATCH VIDEO | Breaking Down The MCD Bypoll Results: AAP Wins In 5 Wards, Congress In 5
+
+While the Congress had initially won four seats, former member and rebel candidate from Bhati Rajender Singh Tanwar, who had contested as an independent, came back to the party as soon as he was declared the winner in his ward. Tanwar had earlier rebelled against the party after being denied a ticket to contest the bypoll and decided to fight the election as an independent candidate.
+
+
+Share This Article
+
+
+
+Related Article People will give AAP full control of MCD next year: Party's State convenor Dilip Pandey MCD bypoll: This is the beginning of the end of AAP’s politics of arrogance, says Satish Upadhyay MCD Bypoll Results: AAP Wins In 5 Wards, Congress In 5 Voting begins for MCD bypolls; AAP makes debut Delhi: Bypolls for 13 municipal wards to be held on May 15MCD bypolls: BJP wins 3 of 5 wards
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+After Tanwar’s victory, the Congress revoked his suspension with immediate effect and added another ward to its list, matching the AAP’s tally of five.
+Meanwhile, BJP leaders admitted that they were “slightly disappointed”, as the party, despite having the highest voteshare among the three main parties, could not win too many seats. Delhi BJP chief Satish Upadhyay, however, said the results proved that residents of the capital had “rejected (Chief Minister Arvind) Kejriwal’s politics of rejection and anarchy”.
+Of the 13 wards, BJP finished a close second in eight wards, and managed to get an overall voteshare of 34.1 per cent.
+Congress candidate from Qammruddin Nagar, Ashok Bhardwaj, won with the highest margin of over 7,000 votes.
+The BJP has retained two of its former seats — Shalimar Bagh North and Wazirpur — but has lost two wards to the Congress — Jhilmil and Khichripur. It also lost two seats — Matiala and Nanakpura — to AAP.
+The Congress, on the other hand, emerged victorious in four wards it had never won earlier — Munirka, Qammruddin Nagar, Jhilmil and Khichripur.
+HIGHLIGHTS
+11:30 am: Delhi Congress chief Ajay Maken tells ANI: “Seats where Congress has been traditionally weak, if we’ve been able to win those, its a big achievement. I want to thank Rahul Gandhiji as well for taking an initiative to address problems of people in slums.”
+11:05 am: So Congress technically has won 5 wards as the Independent candidate who won the Bhati ward has reunited with the party.
+11:00 am: Final figures:
+AAP: 5
+Congress: 5 (including Independent who won from Bhati)
+BJP: 3
+Independent: 1
+10:35 am: Congress adds two more wards to its tally – Qamaruddin Nagar and Khichripur.
+10:25 am: The picture so far.
+10 seats declared after counting of votes for the MCD Bypoll so far. @IndianExpress pic.twitter.com/ETFNpTXWFF
+— Naveed Iqbal (@NaveedIqbal) May 17, 2016
+10:22 am: So far, the trends indicate mixed support for all three parties. There is no overwhelming sentiment for any single party so far.
+10:20 am: Another addition to the AAP tally – its candidate Anil Malik has won in Nanakpura. Remember, these are the first wards the party is winning in the MCD.
+10:11 am: Good news for the AAP – it has added two more wards to its winning tally: Matiala and Vikas Nagar.
+10:08 am: Here are pictures of the BJP candidate in Shalimar Bagh ward celebrating.
+#MCD Bypoll results: BJP has won from Shalimar Bagh ward,supporters celebrate. pic.twitter.com/0FPyUaD4CK
+— ANI (@ANI_news) May 17, 2016
+10:03 am: In the Munirka reserved constituency for women, Congress’s Yogita Rathee has won. But her winning margin is low – just 770 votes.
+10:00 am: In the remaining seven seats, the AAP is leading in 4 seats, Congress in 2 and BJP in 1.
+9:57 am: The results are coming in fast now.
+Independent Rajender Singh Tanwar has scored a win in Bhati ward.
+AAP candidate Abhishek Bidhuri has won Tekhand.
+9:54 am: It’s a third win for the BJP now, this time from Wazirpur ward. It seems the ward is staying loyal to the saffron party. Even in the 2015 state elections, the ward had voted for the BJP MLA.
+9:50 am: Meanwhile, have you read about the all-women reserved constituency in Munirka? Read here
+9:44 am: Congress gets its first win. From Jhilmil ward in east Delhi. The winning margin is pretty big – 10,000 votes.
+9:40 am: Now, we have an overall sense of where things stand.
+BJP has won 2 wards and leading in another. AAP and Congress are leading in 4 seats each and an Independent in one ward, reports Naveed Iqbal.
+If these trends continue, it is a very mixed picture with support for all three parties.
+9:35 am: Another win for the BJP in the MCD byelection – this time from Shalimar Bagh ward. Again, this is a ward that had tilted towards the AAP in the state elections.
+9:34 am: In Nawada, it looks like voters have had a change of heart from the 2015 elections. In the state elections, Nawada had voted for the AAP.
+9:30 am: What were the main issues on which the elections were fought this year? Click here to find out
+9:25 am: Aaaaaand, we have the first result in. BJP has won the Nawada ward by 4,843 seats, news agency ANI reports.
+9:18 am: Delhi Congress president Ajay Maken is sure looking confident. He just tweeted this. Of course, we cannot independently confirm these numbers.
+INC ahead of BJP and AAP in MCD ByPolls counting!
+Fingers crossed-
+INC Leading in 5
+AAP in 3 BJP in 2
+Independent 1
+Tally may improve!
+— Ajay Maken (@ajaymaken) May 17, 2016
+9:15 am: Although the bypolls are not going to inherently make any dent in the existing composition of the three corporations, it is considered to be an important election especially for the Congress which was wiped out of the city’s electoral map in the Assembly elections held last year. The Congress, which ruled Delhi for 15 years under the leadership of Sheila Dikshit till 2013, got zero seats last year.
+9:12 am: Also, this is a debut election for the Aam Aadmi Party which is governing Delhi at the moment. But all the three corporations are presently ruled by the BJP.
+9:10 am: Just to give our readers the context for the byelections. The polls were necessitated due to 13 councillors getting elected to the Delhi assembly in 2013 and 2015.
+8:45 am: Counting is underway in the 13 wards to which byelections were held.

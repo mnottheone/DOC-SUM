@@ -1,0 +1,19 @@
+Researchers study small variations in spin bowling ||||
+ Australia-based researchers have used mathematics to highlight the changes in the length and direction of the ball's pitch with small variations introduced in the ball's rotation. The study revealed one such instance where introducing a small amount of top-spin at the expense of off-spin was found to reduce the length of the ball's pitch by as much as 25 centimetres. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/b250a6cd-a35c-4d9d-b84a-56b888ce71d6-1||||
+Scientists have used mathematics to throw light on the secrets of spin-bowling in cricket, which can help newcomers in mastering the variety of deliveries necessary to keep the batsmen guessing.
+The calculations show that small variations in the rotation of the ball applied by slow bowlers can cause batsmen big problems even before deliveries have pitched on the ground.
+Spin bowlers in cricket are masters at making the ball loop slowly through the air to confuse batsmen. Legends of the game know the magic combinations of top-spin, side-spin and off-spin necessary to fool the opposition, researchers said.
+Scientists from Victoria University and University of New South Wales in Australia highlighted the significance of small variations in the proportion of different spin types applied to the ball by slow bowlers.
+To calculate the various flight paths, researchers considered a number of forces acting on the ball.
+These included a gravity force, operating vertically downwards; a drag force, which opposes the motion and is in the opposite direction to the ball’s velocity vector; and finally, when the ball is spinning, a lift or Magnus force.
+Top-spin causes the ball to dip in flight, side-spin causes the ball to move side-ways through the air and off-spin can cause the ball to drift across the pitch towards the end of the delivery, drawing the batsman into a more vulnerable position, researchers said.
+Once their numerical analysis had confirmed some of the more well-known details of the game, they examined spin-bowling at a subtler level.
+“We found that if the total spin is kept constant and a small amount of top-spin is added to the ball at the expense of some off-spin, the length at which the ball pitches can be reduced by as much as 25 centimetres – an amount that batsmen can ignore at their peril – despite little change being observed in the side-ways drift,” said Ian Robinson from Victoria University.
+“On the other hand, a small amount of side-spin introduced to a top-spin delivery does not alter the point of pitching significantly, but can produce 10 centimetres or more of side-ways drift,” he said.
+They also considered other combinations.
+“When a side-spin component is added to the spin of a ball bowled with a mixture of off-spin and top spin in equal proportions, significant movement occurs in both the side-ways direction and in the point of pitching, of the order of a few tens of centimetres,” said Garry Robinson from University New South Wales.
+Researchers hope that their analysis will give newcomers to spin-bowling a helping hand in mastering the variety of deliveries necessary to keep batsmen guessing.
+Tennis players might also benefit from the work, they said.
+The findings were published in the journal Physica Scripta.

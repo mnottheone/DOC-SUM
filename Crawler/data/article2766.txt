@@ -1,0 +1,26 @@
+Oil imports down 39% to $5.02 billion in Jan ||||
+ India's oil imports in January shrank 39% year-on-year to $5.02 billion amid a fall in global oil prices, while coal imports for the month fell by 38.4%. Meanwhile, the export of drugs and pharmaceuticals increased by 12%, however, those of engineering goods and petroleum products shrank by 27.6% and 35.2% respectively. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/07290421-0007-0002-1610-000012345678||||
+The country’s exports fell for the 14th consecutive month by 13.6 per cent in January to $21.07 billion in dollar terms on weakness in global demand and steep fall in shipment of petroleum products and engineering goods. India exported goods worth $24.39 billion in January last year.
+Imports, too, shrank 11 per cent to $28.71 billion for January, leaving a trade deficit of $7.63 billion as against $7.87 billion in the same month last year, the commerce ministry said in data released on Monday. India imported goods worth $32.26 billion in January, 2015. The country’s trade deficit was the lowest in past 11 months, and it was at $6.85 billion in February last year.
+Oil imports for the month of January were valued at $5.02 billion — 39.01 per cent lower than January last year. Non-oil imports also dipped by 1.4 per cent to $23.68 billion. Overseas shipments of petroleum products shrank 35.18 per cent to $1.95 billion in January.
+
+
+Share This Article
+
+
+
+Related Article Exports decline 5.5%; trade deficit narrows to 5-yr low Budget 2016: Government to take measures to support export sector, says Arun Jaitely Exports up 5.86 pc in November,trade deficit narrowsExports jump 81.7% to $29 bn in July Exports in Jan up by 32.5 pctExports jump 11.5 pc in Jan,up for third month in a row
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+However, gold imports increased by 85.16 per cent to $2.91 billion for the January 2015 period as compared with $1.57 billion during January last year. India is the largest importer of gold in the world.
+“The trend of falling exports is in tandem with other major world economies. The growth in exports has fallen for the US (10.51 per cent), European Union (9.48 per cent) and China (7.01 per cent) for November 2015 over the corresponding period previous year as per WTO (World Trade Organisation) statistics,” the commerce ministry said.
+For the first 10 months of the current financial year, cumulative exports declined by 17.65 per cent to $217.67 billion, as against $264.32 billion in April-January period of 2014-15.
+Imports dipped by 15.46 per cent to $324.52 billion for the 10 months, leaving a trade deficit of $106.8 billion. The trade gap was $119.55 billion in April-January 2014-15.
+SC Ralhan, president of Federation of Indian Export Organisations said: “India may end up with exports of around $260 billion in 2015-16. However, looking at the exports globally, India is no exception as even leading exports nations have witnessed more or less the similar trend.”

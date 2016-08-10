@@ -1,0 +1,29 @@
+Fuel demand likely to rise by 7.3% in India ||||
+ According to estimates made by the Oil Ministry, Indias fuel demand is likely to rise by 7.3% in 2016-17 fiscal, led by robust expansion in consumption of petrol and diesel. Petrol consumption is projected to rise 12.4%, diesel by 7.7%, jet fuel by 3.9% and cooking gas LPG is seen rising by 9.3% ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/a0c660c7-ba6f-4a0d-9458-ced5be6f5e78-1||||
+After registering the fastest pace of growth in 15 years, India’s fuel demand is likely to rise by 7.3 per cent in 2016-17 fiscal, led by robust expansion in consumption of petrol and diesel.
+Fuel consumption, which rose 10.9 per cent in 2015-16 to 183.5 million tonnes, is projected to rise to 190.03 million tonnes, according to demand estimates made by Oil Ministry.
+Diesel demand, which soared 7.5 per cent to 74.6 million tonnes last fiscal, is projected to further go up by 7.7 per cent to 78.11 million tonnes.
+The consumption of petrol is projected to rise by 12.4 per cent to 24.14 million tonnes. Petrol consumption was up 14.5 per cent at 21.8 million tonnes in 2015-16, its highest level in two decades as automobile sales grew at their fastest pace in five years on narrowing price differential between petrol
+and diesel.
+Indian Oil Corp (IOC) Director (Finance) A K Sharma said the narrowing price difference between petrol and diesel has led to people preferring petrol driven vehicles. While petrol price was free or made market driven in June 2010, diesel was linked to market only in November 2014. Subsidy on diesel meant it costed about Rs 20 less than petrol.
+
+
+Share This Article
+
+
+
+Related Article UPA govt plan to cut petrol,diesel consumption likely by September 16 RIL plans to raise refining capacityIndia's fuel sales up by 5.5% in may on high consumptionCustoms duty unchanged: Fuel prices may rise Crude imports fall by 41% to $31.6 bnRIL starts selling diesel from Jamnagar refinery to local companies
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+But now, a litre of petrol in Delhi costs Rs 61.13 while diesel is priced at Rs 48.01 per litre. The higher rate for petrol is a result of more taxes on it than diesel.
+Naphtha consumption is projected to rise by 5.5 per cent to 13.6 million tonnes in 2016-17, an indication of greater demand from industry because of economic activity picking up, the ministry’s demand estimate showed.
+ATF or jet fuel sale is projected to rise 3.9 per cent to 6.18 million tonnes. So is cooking gas LPG whose consumption is projected to rise by 9.3 per cent to 21.16 million tonnes. Kerosene sale, however, is projected to fall 10 per cent to six million tonnes as government pushes for use of cleaner LPG in households instead of the heavily subsidised kerosene.
+Kerosene demand fell to 6.82 million tonnes in 2015-16 from 7.02 million tonnes. Also in 2015-16, LPG sales were up 8.6 per cent at 19.5 million tonnes while Naphtha consumption was 20.9 per cent higher at 13.4 million tonnes. ATF or jet fuel consumption was up 8.7 per cent at 6.22 million tonnes in 2015-16, indicating robust growth in air traffic.
+WATCH INDIAN EXPRESS VIDEOS HERE

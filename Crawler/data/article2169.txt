@@ -1,0 +1,28 @@
+Need over 70k judges to clear pending cases: CJI ||||
+ Chief Justice of India TS Thakur on Sunday expressed concern over the low judge-population ratio in India and said that more than 70,000 judges were required to clear pending cases before the judiciary. The figure was based on a 1987 Law Commission of India estimate adjusted to today's population, he said. Notably, the country currently has only 18,000 serving judges. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/7ad6375d-5ab2-4414-b2e2-ba9d34ad7b40-1||||
+A FORTNIGHT after his impassioned appeal to Prime Minister Narendra Modi over shortage of judges, Chief Justice of India T S Thakur on Sunday said courts in the country now require more than 70,000 judges to clear the pending cases.
+“While we (judiciary) remain keen to ensure that judges’ appointments are made quickly, the machinery involved with the appointment of judges continues to grind very slowly. The confidence of people on the judiciary has, over the years, multiplied. Over three crore cases are pending in various courts across the country ,” said CJI Thakur while speaking on the opening day of the centennial celebration of the Odisha High Court at Cuttack.
+He said around 170 proposals for appointment of high court judges were now pending with the government.
+“Access to justice is a fundamental right and the government cannot afford to deny the people their fundamental right,” he said.
+
+
+Share This Article
+
+
+
+Related Article Demand for 40,000 judges not backed by data: Law minister CJI Thakur makes impassioned plea to Modi govt: Need you to act, don’t just criticise Facing huge vacancy hole, judiciary turns to retired judges for relief Judiciary should back dialogue, protect dissent for democracy: Allahabad HC CJ Next CJI: Lack of governance choking Indian justice delivery system Judiciary not too ambitious, but expected to act if there’s governance deficit: next CJI
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+CJI Thakur said shortage of judges was one of the formidable challenges faced now. Of some 900 sanctioned posts of judges in different high courts of the country, there are over 450 vacancies, which need to be filled up immediately.
+He said while the Law Commission of India in 1987 had suggested having 44,000 judges to effectively tackle the then number of pending cases, the country today has only 18,000 judges.
+Last month, at a function in Delhi, the CJI had lamented that the judiciary had been made the scapegoat for the mounting pendency of cases.
+Speaking on the occasion, Chief Minister Naveen Patnaik said Odisha has established 30 first class judicial magistrate courts to ensure speedy trial of offences against women. Another 26 first class additional courts of judicial magistrate have been set up in remote areas of the state.
+At least 10 judges of the Supreme Court and judges of Calcutta, Patna and Jharkhand HCs are participating in the week-long centennial celebrations, which will include seminars, conferences and cultural programmes.
+WATCH INDIAN EXPRESS VIDEOS HERE

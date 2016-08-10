@@ -1,0 +1,30 @@
+E-commerce boom helps India Post report profits ||||
+ India's postal service India Post's revenue due to Cash-on-delivery (COD) orders from e-commerce companies has reportedly doubled to 1,000 crore in nine months of the current fiscal. India Post's COD revenue was 500 crore in 2014-15 and only 100 crore in 2013-14. IT Minister Ravi Shankar Prasad said e-commerce will help revive the fortunes of India's postal service. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/07431747-0010-0001-5882-000012345678||||
+For India Post, the boom in e-commerce deliveries is proving to be a big money spinner, especially the surging cash-on-delivery consignments of the country’s top online sellers — Amazon, Snapdeal and Flipkart-Myntra. The postal department’s revenues by ways of COD consignments from e-commerce majors have more than doubled in the first nine months of this fiscal at Rs 1,000 crore, up from Rs 500 crore during the whole of 2014-15, and just Rs 100 crore in 2013-14.
+The deliveries are primarily directed at tier-II towns, and parts of the rural heartland, where India Post has unparalleled reach. The incremental e-commerce revenue boost, said Minister for Communications and Information Technology, Ravi Shankar Prasad, are at the heart of his plans to revive the fortunes of India’s postal service.
+
+Average monthly consignments from the department’s top six e-commerce customers is up over six-fold in the first nine months of this fiscal, primarily on account of a big surge in Amazon’s deliveries, which have sharply jumped to 3 lakh consignments until December 2015 from an average of 50,000 in 2014-15.
+
+
+Share This Article
+
+
+
+Related Article Patna: Now, postman to deliver Gangajal at our doorsteps Fresh ownership model to run India Post Payments bank professionally: Ravi Shankar Prasad Have put things on the right track: Ravi Shankar Prasad Cash-on-delivery: Postal department sees Rs 1,300 cr in FY16 Govt committed to revive postal department: Ravi Shankar Prasad Modi to review report on Task Force set up to turn around India Post
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Average numbers of consignments from Snapdeal had reached 80,000 until December 2015, as against 35,000 in 2014-15. Flipkart-Myntra have clocked average consignment numbers of about 80,000 so far this year.
+“The new facet is cash-on-delivery. India Post has become the premium courier service for e-commerce, so that is a definite improvement. (India Post’s revenues from) cash-on-delivery is going to be Rs 1,500 crore by the end of this year (fiscal ending March, 2016),” Prasad told The Indian Express.
+With 1.56 lakh post offices, 1.25 lakh of which are in rural areas, India Post is also seeing a sharp uptick in the parcel business, including the e-commerce business of Speed Post. Revenues have risen to over Rs 165 crore till November this fiscal, as against Rs 172 crore in 2014-15, and Rs 80 crore in 2013-14. “… There are local products such as Madhubani paintings of Bihar, so they (India Post) are also going big on these deliveries. They are getting good money for handicrafts and artisans. About 65 per cent of the catchment area is small towns for e-commerce,” Prasad said.
+Over the last 24 months, India Post has entered into tie-ups with online retailers, introducing COD facility, and offering e-commerce companies credible last mile connectivity outside of large cities. India Post has set up 57 modern delivery centers to handle the e-commerce traffic, with a big centre at Parel, Mumbai.
+Prasad said the other key aspect in the postal services’ turnaround plan is for India Post to enter into banking services with the launch of a payment bank that is likely to commence operations by March next year. It would be a “game changer”, Prasad said: “It will be a big platform for delivery of subsidies, third party delivery in banking.”
+He said a total of 62 players had approached India Post for partnership for banking products. The domestic players include NABARD, HSBC, Allahabad Bank, Indian Overseas Bank, Kotak Life Insurance, HDFC, PNB Metlife, ICICI Lombard, ICICI Prudential, and Bajaj Allianz, while the international ones include Deutsche Bank, Barclays, Transport USA for renting solutions, Western Union, ClearSecurity and Japan’s Hitachi.
+These companies have approached the postal department for partnering on banking products, banking solutions, consultancy, banking correspondents, physical security products, ATMs and digital payment services. “I have given them full permission to hire as many as possible so that good competition takes place,” Prasad said.
+In August 2015, the Reserve Bank of India had granted in-principle approval to 11 applicants to set up payments banks, including India Post.

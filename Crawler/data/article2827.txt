@@ -1,0 +1,25 @@
+Second round of Odd-Even from April 15 in Delhi ||||
+ Delhi Chief Minister Arvind Kejriwal on Thursday said that the second phase of the Odd-Even scheme in the capital would be implemented between April 15 and April 30. Female drivers and two wheelers will be exempted from the scheme. The move comes after the AAP government said that public opinion was "overwhelmingly" in favour of the scheme being re-introduced. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/89343052-0011-0002-0944-000012345678||||
+Delhi will observe the second phase of odd-even vehicle operations from April 15-30 after the school board examinations conclude, Chief Minister Arvind Kejriwal announced Thursday. The fortnight-long pollution control measure was first started by the Aam Aadmi Party (AAP) on January 1 as an experiment.
+“We will start the next phase of odd-even from April 15. The reason is that board examinations are largely getting over on April 12. There is an examination on April 22 but that is a minor one,” said Kejriwal.
+The Chief Minister also said the government is seriously debating whether the odd-even scheme should be implemented for 15 days every month. “No decision has been taken on this yet so this should not be viewed as final. If the people of Delhi agree to cooperate and put up with an inconvenience of six days out of 15, it can be seriously considered. But we will think about this after the second phase in April gets over,” said Kejriwal.
+With the return of the vehicle rationing scheme, Kejriwal also said the administration was considering the return of the Bus Rapid Transit (BRT) corridor, this time in an elevated form.
+
+
+Share This Article
+
+
+
+Related Article Next phase of odd-even scheme after committee report: Gopal Rai Considering odd-even for 15 days every month, says Delhi CM Arvind Kejriwal Shoe hurled at CM Arvind Kejriwal at Odd-Even press conference, attacker arrested Delhi: Central ministers exempt from odd-even Govt to take fresh call on odd-even today Arvind Kejriwal call: Mail me at oddevenidea@gmail.com
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+“Until now the BRT corridor was at the road-level that is why it was causing problems. But we are now discussing building an elevated BRT corridor. It will have two levels. One on which only cars will ply and the other on which only buses will run. The way Metro runs at a high level. In the Metro you know that you will reach from Rajiv Chowk to Mandi House in seven or eight minutes. Similarly, on the elevated BRT, there will be bus stations and there will be certainty, accessibility and comfort. With this we hope more and more people will opt for public transport. But until we do that, odd-even cannot be made permanent, although a large number of people had wanted that,” Kejriwal said.
+
+On January 25, Kejriwal had invited citizens to convey their views for the next phase of the odd-even scheme, 10 days after the first phase concluded. Since then, the government gathered feedback through its webpage, emails and other methods.

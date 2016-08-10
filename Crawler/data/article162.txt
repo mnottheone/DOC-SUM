@@ -1,0 +1,10 @@
+Artificial Intelligence used to diagnose leukaemia ||||
+ University of Tokyo has used artificial intelligence (AI) to diagnose a rare type of leukaemia that had gone undetected using conventional methods. Named Watson, the AI was used by the medical team after unsuccessfully treating the patient for an initial diagnosis. Watson compared the patients genetic information with 20 million clinical oncology studies to detect the cancer. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/bd5650c3-f93e-45eb-be05-a67eeb293f04-1||||
+Japanese doctors have for the first time used artificial intelligence (AI) to detect a type of leukemia, which helped to save a patient’s life as the disease had gone undetected using conventional methods.
+The University of Tokyo’s Institute of Medical Science has successfully employed the new method of diagnosis, which includes a computer programme capable of analysing a huge volume of medical data, Arinobu Tojo, a member of the medical team, told Efe news on Friday.
+The system, named Watson and jointly developed by the US’ IBM and other firms, concluded that the patient concerned suffered from a rare type of leukemia after the patient’s genetic information was compared with 20 million clinical oncology studies.
+The patient, a 60-year-old woman, was initially diagnosed with acute myeloid leukemia, which she was unsuccessfully treated for with several different anti-cancer drugs, leaving doctors confounded, Tojo said.
+Consequently, the medical team decided to use the Watson system, which, on analysing the data available, concluded the patient suffered from another form of leukemia and recommended a different treatment which was successful.
+The conventional method of diagnosis for different types of leukemia is based on an evaluation by a team of medical specialists after studying the genetic information of patients as well as the clinical studies available; an enormous task owing to the huge amount of data to be gone through.

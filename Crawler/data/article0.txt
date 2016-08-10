@@ -1,0 +1,17 @@
+IBM unveils mobility platform for iOS in India ||||
+ IBM on Sunday unveiled an enterprise mobility platform, 'IBM MobileFirst', for iOS Garage in Bengaluru. The Garage, part of a network of centers in the US, will help clients achieve mobile-led, digital transformations on the iOS platform. The company also announced Mobile at Scale for iOS, a new offering for clients looking to invest in digital transformation projects. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/95bbe6ca-7d1e-4277-8b4e-2660d7ece0b9-1||||
+IBM today unveiled a new enterprise mobility platform IBM MobileFirst for iOS Garage in India and plans to open satellite centres in many other countries including Brazil, China and Romania.
+IBM MobileFirst is a platform for building mobile apps for the enterprise.
+The Garage is dedicated to enable clients to complete digital mobility projects as quickly as possible and will tap into the world’s largest concentration of Swift developers, IBM design and iOS device expertise and consulting services, Mahmoud Naghshineh, GM, Apple partnership, IBM, told reporters.
+“It will serve as a global development hub for iOS apps and work with existing design locations in Atlanta, Chicago, Cupertino and Toronto,” he said.
+IBM also plans to open satellite centres in Brazil, Romania and many other countries, Naghshineh said, adding the company has already started the work in this regard in China.
+“We already have started in China. For sure, we want to be close to our clients in Latin America. In Europe, we already have many clients and want to build garage capability there.
+You definitely want to see us covering the world map,” he said.
+IBM also announced Mobile at Scale for iOS, a new offering specifically for clients looking to invest in digital transformation projects that include more than three iOS apps over a multi-year period.
+Naghshineh said the partnership with Apple is focused on enterprises and professionals, and at the same time the company delivers solutions for its clients across the board.
+“Of course our partnership here is focused on enterprises and on professionals. At the same time, we deliver solutions for our clients across the board. So, when you get into a specific industry, we have a suite of apps that serves the industry,” he said.
+IBM partnered with Apple in July 2014 to transform enterprise mobility through a new class of ‘made for business’ apps, bringing IBM’s big data and analytics capabilities to Apple devices in the enterprise, Naghshineh said.
+Till date, IBM has developed over 100 apps across 15 industries and delivered nearly 2,000 client engagements, he added.
+The Garage will extend the design, development and delivery skills gained from IBM’s partnership with Apple to serve a broader set of global clients, Naghshineh said.

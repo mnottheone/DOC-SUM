@@ -1,0 +1,29 @@
+Candidates videotaped during JNU entrance exam ||||
+ During the Jawaharlal Nehru University (JNU) MPhil entrance examination on Tuesday, candidates at some centres in Delhi, Kolkata and Jaipur were videotaped and photographed. Several JNU teachers said it was unheard of, but the Director (Admissions) Bhupinder Zutshi said it was a random check to ensure students are not sending proxies and claimed this was done last year as well. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/24c6ea3d-ef29-4a3b-b597-467a2c6a9ea9-1||||
+Candidates at the Jawaharlal Nehru University (JNU) MPhil entrance examination were videotaped and photographed Tuesday at some centres in Jaipur, Kolkata and Delhi while writing the exam.
+Several JNU teachers said this was “unheard of” but university authorities said it was part of a “random check” to ensure “unauthorised” persons were not taking the examination.
+Director (Admissions) Bhupinder Zutshi said the move was part of a “random check”.
+“We had taken a policy decision that at certain randomly selected centres, we will take photos and videos of classrooms, because sometimes some other students sit for the exams. This was done so that, in case we get a complaint, we can crosscheck if the person who applied is the one who sat for the exam,” he said.
+
+
+Share This Article
+
+
+
+Related Article JNU entrance exams for PG courses begin Amid sedition row JNU sees dip in applications for admission JNU, interrupted JNU entrance test could now be in DecemberJNU online admissions a hit,more than 52,000 applyJNU eases admission policy for OBC quota
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+“It is nothing to be worried about. It is just random checking for our safety purpose and fair examination. Since it cannot be done at every centre, we just selected random centres. May be Jaipur was one of them,” Zutshi said.
+He claimed this was done last year as well but several teachers said they had never heard of this. One of the professors said “this is not a normal process at all… if there are concerns about students sending proxies, they can recheck the admit cards which carry photos of candidates”.
+The Jawaharlal Nehru University Teachers’ Association (JNUTA) had no immediate comment, saying they need to find out independently what this was all about.
+A candidate taking the MPhil entrance examination at the centre in Kendriya Vidyalaya No.1 in Jaipur said: “About half-an-hour or 45 minutes into the examination, a person walked in with a very large video camera. He went to each student and said ‘upar dekho, camera me dekho’ (look up, look at the camera). He then asked us to show the front sheet of the exam paper to the camera, it had our names and roll numbers.”
+“I was very startled, I wasn’t expecting such a thing. I have done my post-graduation from JNU. No such thing happened at that time. I have no idea who that person was, or why he was filming us,” the candidate said.
+At the Kendriya Vidyalaya in Andrews Ganj in Delhi, a candidate taking the MPhil Sociology examination said they were photographed, though not individually. “While we were taking the exam, a man entered, took two photographs and left. I thought it was very strange,” the candidate said.
+At a centre in Fort William, Kolkata, a candidate said photographs of her classroom were taken. “I had earlier sat for the JNU MA entrance examination from Kolkata, and for the BA entrance from Thiruvananthapuram. Such a thing never happened,” she said.

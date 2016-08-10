@@ -1,0 +1,12 @@
+Creator of Debian Linux OS dies aged 42 ||||
+ The creator of one of the Linux's open sourced versions called Debian operating system, Ian Murdock died at the age of 42 on Monday. A former employee of Sun Microsystems and former CTO of the Linux Foundation, Ian reportedly committed suicide after he tweeted about taking his life alleging police brutality. His twitter profile has since been deleted. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/66948698-0016-0001-4483-000012345678||||
+Ian Murdock, known for creating the Debian Linus OS, one of Linux’s most popular open-source operating systems, passed away at the age of 42. Debian was started in August 1993 by Ian and he was also an employee at Docker.
+Debian was created by Murdock while he was still a student at Purdue University and was regarded as one of the most successful open-source projects.
+In a blogpost remembering Ian Murdock, Debian’s Ana Guerrero Lopez, Donald Norwood and Paul Tagliamonte wrote about Murdock’s work on the project.
+
+The blogpost says, “Ian’s sharp focus was on creating a Distribution and community culture that did the right thing, be it ethically, or technically. Releases went out when they were ready, and the project’s staunch stance on Software Freedom are the gold standards in the Free and Open Source world. Ian’s devotion to the right thing guided his work, both in Debian and in the subsequent years, always working towards the best possible future.”
+A separate blogpost at Docker also recounts his contributions to the open source community, saying that he “helped pioneer the notion of a truly open project and community, embracing open design and open contribution; in fact the formative document of the open source movement itself (the Open Source Definition) was originally a Debian position statement.” Currently over a 1000 people involved in the Debian OS.
+Ian also worked as CTO of the Linux Foundation, and also worked at Sun Microsystems. While the exact cause of Murdock’s death is not known, his family has requested for privacy.
+According to a reports Murdock possibly committed suicide as he had posted on Twitter threatening to take his life. Murdock had then gone on to describe a tale of alleged police brutality. Ian’s Twitter account has been deleted but screenshots, text of his tweets are being widely shared online. A web archive page of his tweets can be seen here.

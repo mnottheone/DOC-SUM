@@ -1,0 +1,31 @@
+MGNREGA registers 5 year high in July-Sept ||||
+ The MGNREGA welfare scheme promoting rural employment registered a five-year high for 2015's July-September quarter, reaching over 45 crore person-days of employment as per Rural Development Ministry officials. While the data for the October-December quarter is being updated, it is also expected to reach a five-year high. The scheme saw a fall in employment under the Modi government's first year. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/83404458-0012-0001-5189-000012345678||||
+The Mahatma Gandhi National Rural Employment Guarantee Scheme, the flagship welfare programme of the previous UPA government, appears to be staging a revival of sorts. And this turnaround is being attributed mainly to better monitoring by the Centre and timely release of funds.
+The July-September quarter witnessed 45.82 crore person-days of employment generated under MGNREGA. This was the highest for the quarter in the last five years. “It was more than even the 42.40 crore person-days during July-September 2012, which also happened to be a not-so-good monsoon year,” Rural Development Ministry officials told The Indian Express.
+According to officials, the last quarter (October-December), too, posted a similar trend. “In October alone, we provided 14.09 crore person-days employment, a record for the month. The data for the entire quarter is still being uploaded in our MIS (management information system) portal, but our expectation of the total person-days of work during October-December is 47 crore. That will again be a five-year-high for the quarter,” they said.
+The seeming revival over the last two quarters reverses the trend of declining employment under MGNREGA seen during the first year of the Modi government.
+
+
+Share This Article
+
+
+
+Related Article Mgnrega In Drought-Hit States: Work demand rises, but majority wait for additional days Poll-bound states report surge in MGNREGA job numbers Budget 2016: UPA’s flagship MGNREGA receives a fresh lease of life Flagship scheme MGNREGA: Sustainability of a turnaround MGNREGA message Drought factor forces NDA government to rethink on MGNREGA
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+In 2014-15, the programme — which provides 100 days of guaranteed wage employment in a year to every rural household whose adult members volunteer to do unskilled manual work — generated only 166.32 crore person-days employment, compared to 221.15 crore and 230.33 crore in the preceding two fiscals and the peak 283.59 crore achieved in 2009-10 (a drought year).
+Also, the average days of employment provided per household dropped to 40.17 in 2014-15, from 45.98 in 2013-14, 46.19 in 2012-13 and 53.19 days in the best performance year of 2009-10. “This year, we have already done 37.5 days, which should cross 50 by March-end,” the officials claimed.
+They attributed the better numbers this year mainly to better monitoring by the Centre and timely release of funds. “In 2014-15, most states, including those implementing the programme well, ran out of funds by October. When supply of funds dried up, leading to delayed payment of wages, there was less demand from the gram panchayats as well to take up works even in a drought year,” the officials admitted.
+That has changed this year, with the proportion of delayed payments — i.e. beyond 15 days after the closure of muster rolls — falling to 53 per cent from 72 per cent in 2014-15.
+Development economists pointed out that MGNREGA’s apparent turnaround in the last two quarters was a result of political and civil society pressure, forcing the government to release funds.
+“The increased person-days employment numbers dispels the myth of low demand for work. The truth is that MGNREGA had increasingly become supply-driven, though it is in spirit and letter demand-driven. This was even more so after this government took over, with everybody from Rajasthan Chief Minister Vasundhara Raje to Nitin Gadkari (the then Rural Development Minister) and Modi himself sending out signals of downsizing MGNREGA”, said Reetika Khera, associate professor at Indian Institute of Technology, Delhi.
+Incidentally, of the 137 crore person-days MGNREGA employment generated so far in 2015-16 (based on latest uploaded data), more than half has been accounted for by five states: Tamil Nadu (24.9 crore), Andhra Pradesh (14.6 crore), Rajasthan (14.3 crore), West Bengal (13.6 crore) and Uttar Pradesh (10.9 crore).
+On the other hand, the states worst affected by drought — Maharashtra (4.5 crore), Karnataka (2.5 crore) or even Madhya Pradesh (6.6 crore) and Chhattisgarh (3.7 crore) — haven’t registered any significant uptake in MGNREGA works.
+“We have now moved to linking fund releases to performance, measured in terms of both person-days generation and quality of asset creation. The states doing well on these counts will get MGNREGA money, which will otherwise simply be parked for earning interest,” officials said.

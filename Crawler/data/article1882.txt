@@ -1,0 +1,37 @@
+TMC wins Bengal polls with historical margin ||||
+ Mamata Banerjee's Trinamool Congress on Thursday retained power in West Bengal, winning 211 seats in the 294-seat Assembly, the highest number of seats won by a single party in the state's history. TMC, with a vote share of 44.9%, improved upon its 2011 tally of 184 seats. Meanwhile, CPI(M) and Congress won 26 and 44 seats respectively. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/7578ec56-991a-47a2-9330-e9a68199bbb9-1||||
+In a stinging rebuff to rivals Left and Congress who had united against her, Mamata Banerjee scripted history Thursday when she returned to power with a record win in elections to the West Bengal assembly.
+Her Trinamool Congress captured over 210 seats in a House of 294, the landslide for a single party bettering the performance of Siddhartha Shankar Ray of the Congress four decades ago.
+The rout hurt the CPM more because the number of seats it could manage was less than that of partner Congress.
+Banerjee, who is going to be elected chief of the Trinamool Congress legislature party Friday, said she will take oath of office on May 27 and her new government should be in place by May 29.
+READ | After victory high, fiscal worries for LDF, Mamata and Jaya 
+Her party trounced the CPM-Congress alliance even in places where the combined vote share of the rivals was numerically superior. “The intelligent voters of Bengal have exposed and rejected the jhoota alliance,” Banerjee said.
+
+
+Share This Article
+
+
+
+Related Article West Bengal election results: Mamata Banerjee's winning margin, BJP's rise and Left's debacle Votes United, Stand Divided: Mamata polled Muslim votes ‘due to work done, lack of option’ On historic high, Mamata Banerjee recalls ‘historic low’ of Opposition ‘lies’ Mamata storms CPM-Congress bastion in north Bengal, CPM the big loser West Bengal election results: Cong-Left 'jot' suffers a jolt as Mamata shows who's boss West Bengal Elections: If TMC wins, it will face strongest opposition in decades
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Seeking a second term after ending 34 years of Left rule in the state in 2011, she kept the 2016 campaign focus on development and social welfare initiatives of her government, listing among others rice for Rs 2 a kilo, distribution of cycles, healthcare, roads and connectivity.
+Elections 2016: Big Winners & Losers
+
+The extent of her victory also suggested that the Sharada-Narada scandals or the collapse of the Vivekananda flyover in Kolkata, on the eve of the elections, had no impact. The Trinamool Congress took all 11 seats in Kolkata including Jorasanko, the constituency where the flyover collapsed. BJP’s Rahul Sinha, after taking an early lead in Jorasanko, eventually lost to Smita Baxi of Trinamool Congress.
+READ | On historic high, Mamata Banerjee recalls ‘historic low’ of Opposition ‘lies’
+Preliminary reports say the Trinamool Congress vote share is over 47 per cent, up almost 7 per cent from 2011 when it teamed up with Congress to dislodge the Left. The Trinamool Congress had then won 184 seats and the alliance 226 — but that partnership ended when Banerjee walked out of UPA II.
+The vote share of the Congress-CPM alliance is said to be 37 per cent. For the BJP, it is over 10 per cent, down from 17.5 per cent of the 2014 Lok Sabha elections, but up from 6.5 per cent of the 2013 panchayat and local body polls.
+WATCH VIDEO
+The results suggest that CPM cadres may have voted for Congress candidates of the alliance. But the same may not have been the case in seats with CPM candidates. In short, the vote transfer from Congress to CPM did not take place and the Trinamool Congress benefited in several districts in the north.
+READ | Mamata Banerjee retains Bengal, says ‘opposition had spun a web of lies’
+Banerjee’s party registered spectacular wins in several northern districts like Cooch Behar, Jalpaiguri, Murshidabad and Uttar Dinajpur — all strongholds of the Congress and CPM. A large number of Congress supporters were said to have gone for the NOTA option while casting votes.
+Several CPM leaders said Congress workers did not vote for their candidates in many constituencies. Surya Kanta Mishra, one of the chief architects of the Jot, was routed in Narayangarh in West Midnapore. But he put on a brave face: “Defeat does not mean retreat. The fight for restoration of democracy in Bengal will continue.”
+As it celebrates its return to power, the Trinamool Congress too prepares to look inward because there is already talk that 10-12 seats were lost due to “internal sabotage”. In Jadavpur, Manish Gupta, the 2011 giant killer who defeated Buddhadeb Bhattacharya, lost to Sujon Chakravarty of CPM. Banerjee said these defeats would be analysed later and action taken.

@@ -1,0 +1,14 @@
+New biosensor detects muscle fatigue from sweat ||||
+ American scientists have developed a wearable, enzyme-based biosensor that can detect conditions like muscle fatigue, stress and dehydration by monitoring the user's sweat. At one point during heavy exercise, lactate production surpasses its consumption, leading to muscle fatigue and stress, a researcher said. The biosensor helps in monitoring lactate levels and thereby avoid such conditions. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/f5c7e6f2-8f77-47c7-93a6-3dad4d08f6e7-1||||
+Scientists have developed a sustainable, wearable bio-sensor to detect conditions like muscle fatigue, stress and dehydration by taking advantage of trove of medical information present in human sweat.
+“When the human body undergoes strenuous exercise, there’s a point at which aerobic muscle function becomes anaerobic muscle function,” said study co-author Jenny Ulyanova from CFD Research Corporation (CFDRC).
+“At that point, lactate is produce at a faster rate than it is being consumed. When that happens, knowing what those levels are can be an indicator of potentially problematic conditions like muscle fatigue, stress, and dehydration,” he added.
+What separates this study from other researches is the use of purely biological green technology. The team, in collaboration with University of New Mexico, developed an enzyme-based sensor powered by a biofuel cell — providing a safe, renewable power source.
+“The biofuel cell works in this particular case because the sensor is a low-power device,” Ulyanova said.
+“They’re very good at having high energy densities, but power densities are still a work in progress. But for low-power applications like this particular sensor, it works very well,” he added in a paper published in the ECS Journal of Solid State Science and Technology.
+The team powered the biofuel cells with a fuel based on glucose. This same enzymatic technology, where the enzymes oxidise the fuel and generate energy, is used at the working electrode of the sensor which allows for the detection of lactate in human sweat. Another novel aspect of this work is the use of electrochemical processes to very accurately detect a specific compound in a very complex medium like sweat.
+“We’re doing it electrochemically, so we’re looking at applying a constant load to the sensor and generating a current response,” Ulyanova said, “which is directly proportional to the concentration of our target analyte”.
+Although the sensor was designed for a soldier in training, it could also be applied to people that are active and anyone participating in strenuous activity.
+As for commercial applications, the researchers believe the device could be used as a training aid to monitor lactate changes in the same way that athletes use heart rate monitors to see how their heart rate changes during exercise.

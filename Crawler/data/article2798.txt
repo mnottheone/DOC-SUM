@@ -1,0 +1,19 @@
+App to detect earthquake launched on Android ||||
+ The University of California on Friday launched a new Android app 'MyShake', that uses smartphone's sensors to track earthquake tremors and provides the quake's location, magnitude and origin time. The app will eventually provide early warnings prior to shaking. It also gives out safety tips to stay safe during an earthquake. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/79261556-0016-0002-1294-000012345678||||
+NEW YORK (Thomson Reuters Foundation) - Smartphones could become the makeshift quake detectors of the future, thanks to a new app launched Friday designed to track tremors and potentially save the lives of its users.
+MyShake, available on Android, links users to become an all-in-one earthquake warning system; it records quake-type rumblings, ties a critical number of users to a location, and could eventually provide a countdown to the start of shaking.
+Its inventors say the app, released by the University of California, Berkeley, could give early warning of a quake to populations without their own seismological instruments.
+"MyShake cannot replace traditional seismic networks like those run by the U.S. Geological Survey," said Richard Allen, leader of the app project and director of the Berkeley Seismological Laboratory.
+"But we think MyShake can make earthquake early warning faster and more accurate in areas that have a traditional seismic network, and can provide life-saving early warning in countries that have no seismic network."     
+Earthquake-prone countries in the developing world with poor ground-based seismic network or early warning systems include Nepal, Peru, Pakistan, Turkmenistan and Iran, he said.
+The algorithm behind MyShake, developed by a handful of Silicon Valley programmers, relies on the same technology smartphone gamers depend on to sense the phone's orientation, known as the accelerometer, in order to measure movement caused by quakes.
+What smartphones lack in sensitivity - they can only record earthquakes above magnitude 5 within 10 kilometres (6 miles) - they make up for in ubiquity.
+Currently, 300 smartphones equipped with MyShake within a 110-km square area are enough to estimate a quake's location, magnitude and origin time.
+There were some 3.4 billion smartphone subscriptions worldwide in 2015, according to the Ericsson Mobility Report, so the app's creators hope to build a seismic network covering the globe.
+"We want to make this a killer app, where you put it on your phone and allow us to use your accelerometer, and we will deliver earthquake early warning," Allen said.
+Sophisticated early-warning systems can warn of coming quakes as much as a few minutes before they begin, but cannot stop them causing death and destruction on a large scale.
+Nepal is still rebuilding after two separate earthquakes in April and May 2015 that killed 9,000 people, injured more than 22,000 and damaged or destroyed nearly 900,000 houses.    
+
+ (Reporting by Sebastien Malo, editing by Tim Pearce. Please credit the Thomson Reuters Foundation, the charitable arm of Thomson Reuters, that covers humanitarian news, women's rights, trafficking, corruption and climate change. Visit news.trust.org)

@@ -1,0 +1,18 @@
+Hotline calls can help predict dengue outbreak ||||
+ Researchers at the New York University have developed a system that can forecast dengue outbreaks two to three weeks in advance by analyzing the calling behavior of citizens to a public-health hotline. For demonstration, the team applied the system to the 2011 outbreaks data and was able to accurately forecast both the number of patients and their locations. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/1ad2a50c-7264-4797-8dd5-8cdaa867cb49-1||||
+A team of scientists, including one of Indian-origin, has developed a system that can forecast the outbreak of dengue fever as early as three weeks in advance by simply analysing the calling behaviour of patients to a public-health hotline.
+Dengue fever is a mosquito-borne virus that infects up to 400,000 people each year.
+Watch Video: What’s making news 
+“Thousands of lives are lost every year in developing countries for failing to detect epidemics early because of the lack of real-time data on reported cases,” said Lakshminarayanan Subramanian, Professor at New York University (NYU).
+The findings showed that the telephone-based disease surveillance system not only flagged an outbreak, but also made an accurate forecast of both the number of patients and their locations two to three weeks ahead of time.
+“This system is the first to demonstrate, with significant empirical evidence, that an accurate, locality-specific disease forecasting system can be built using call volume data from a public health hotline,” Subramanian added.
+Further, the system measures the number of calls received at a health hotline facility to forecast the number of dengue cases at a block-by-block level.
+“Instead of allocating a large work force to collect block-by-block level data on disease incidences, we crowdsource these data using citizen inquiries and feedbacks,” explained Umar Saif, Vice Chancellor of Information Technology University, Punjab and Chairman of the Punjab Information Technology Board, which implemented the system in Pakistan.
+“This makes health hotlines ideal for resource-constrained environments in developing countries,” Saif noted, adding, “this simple technology can save thousands of lives in the developing world”.
+Collecting disease surveillance data traditionally requires a huge infrastructure to collect and analyse disease incidence data from all healthcare facilities in a country.
+Whereas, the primary appeal for this system is its capability to closely monitor disease activity by merely analysing patient calls on a public-health hotline.
+“Our goal was to develop a system that could pinpoint the location inside a city where disease activity has increased so the government could perform targeted containment of a disease,” stated Nabeel Abdur Rehman, doctoral student at NYU.
+For the study, the team used more than 300,000 calls to the health hotline, set up in the aftermath of the 2011-dengue outbreaks in Pakistan, to forecast the number of dengue cases across the city and at a block-by-block level over a period of two years.
+“We think our technique can be of use to public-health officials in their fight against the spread of crippling diseases,” Subramanian added in the work described in the journal Science Advances.

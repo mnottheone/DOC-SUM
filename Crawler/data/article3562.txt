@@ -1,0 +1,10 @@
+Asus to default ad-blocking on phones from 2016 ||||
+ Computer hardware company Asus reportedly partnered with AdBlock Plus on Friday to embed the ad-blocking services in its smartphone's browser and turning it on by default starting from 2016. With this move, Asus became the first hardware producer to integrate ad-blocking service into its mobile devices. By blocking ads, AdBlock helps the users to avoid potential malware threat. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/59226730-0016-0012-3509-000012345678||||
+Asus has announced that it will start shipping devices with AdBlock Plus ‘baked-in’ to company’s proprietary browser, says a report at Motherboard. With ongoing debate around adblockers, Asus’ call for a bowser with AdBlock activated by default is interesting.
+Lately users have expressed concerns over annoying ads which have also been cause of malware. AdBlock Plus brings down malware based security concerns but media companies who make revenue by showing these ads have expressed objections to ad blocking.
+Also See: Mobile ad-blockers popularity could wipe out billions in ad revenue
+While Asus’s proprietary browser has a market base of around 15 million users, it could set a precedent for other popular browsers like Chrome and Firefox to follow suit.
+During the next few days, it will be interesting to see reaction from online media companies on this move. Also it will be worth noting if Mozilla which has designed an ad blocker for iOS would pitch in by activating AdBlock Plus by default.
+Must Read: Developer pulls leading ad-blocking app from Apple Store

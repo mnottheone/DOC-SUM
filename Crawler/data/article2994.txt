@@ -1,0 +1,14 @@
+Yahoo revamps its website and app ||||
+ Yahoo has revamped both its website and app to offer users a more personalised experience around finding content like news and videos. Users can now read stories in-line instead of having to open multiple browser tabs and post comments directly below them. Further, Yahoo has replaced the plus sign with the heart icon to find related stories below each article. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/92854068-0002-0002-9212-000012345678||||
+Yahoo has updated it app and website and added new features to its Yahoo Mail app for Android and iOS.
+Yahoo’s Simon Khalaf, SVP announced the update to the website and app in a new blogpost, and said that the changes will help users find and consumer news content, video, etc all in one place without having to open multiple tabs on a browser by scrolling through related stories inline.
+They can also see the related stories by clicking the “heart” icon, or clicking through to find additional related stories below each article. Yahoo says over time the stream will tailored to a user’s interests.
+Users can also post comments “directly in-line” on a particular story. The new updates will also let them discover a story as it breaks live, and they can receive instant notifications when a story is updated.
+
+
+Yahoo mail app for iOS and Android also got a reboot with new features like Custom Swipes, Folders, Action notifications, etc. In the iOS app, Yahoo users can now use ‘swipe’ gestures to customise for a particular action like say marking move to folder, archive, etc. Users will find the Swipe option in Settings.
+The iOS app will show all recently received attachments such as photos or documents, so that a user can easily add them to another mail. There’s a search bar was well to help find any older attachments. Yahoo mail on iOS will now let users create folders, sub-folders; a user can rename, delete and create sub-folders by long pressing on any of their existing folders.
+Also on iOS app, if a user selects multiple emails, the bottom toolbar now includes all the actions they can can take, including “star” and “mark as spam.”
+For the Android App, Yahoo Mail also gets the customised swipes feature along with the ability to take action on notifications. Yahoo will let users take action on an incoming email, even before they open the app, and the actions will be same as the ones selected for swipe actions.

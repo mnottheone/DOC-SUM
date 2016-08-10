@@ -1,0 +1,13 @@
+Linux bug allows access to computer by backspace ||||
+ A flaw in the boot entry of the computer operating system Linux reportedly lets anyone access a password-secured computer by hitting the backspace key 28 times. The flaw was first reported by two researchers from the Polytechnic University of Valencia. The flaw persists in the Linux version introduced in December 2008, and will affect loader versions till December 2015. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/06157129-0013-0012-2961-000012345678||||
+Linux has a serious vulnerability in its GRUB bootloader which could allow hackers to access a locked computer by just typing the backspace key 28 times.
+The issue was first reported by two researchers Hector Marco and Ismael Ripoll from the Cybersecurity Group at the Universitat Politècnica de València, according to a report on PCWorld. The researchers have put up the full details of the potential flaw in the Linux system here.
+According to the PCWorld report, GRUB (Grand Unified Bootloader) is used by most Linux distributions, has a password feature that can restrict boot entries. The protection is important especially in organisations that are using Linux.
+Dell admits security issues in its laptops makes them vulnerable to hackers 
+The researchers showed that by pressing the backspace key 28 times, hackers can bypass the need to put in a password or username and gain access.
+According to the researchers, the bug is in the code of Grub since version 1.98 (December, 2009) affecting loader versions till December 2015.
+Hackers who successfully exploit this can get access to a Grub rescue shell, a very powerful shell which can give them “full access to the grub’s console.”
+Researchers also says hackers can load malware from a USB, copy the full disk or even launch a denial of service attack by destroying any data, including the grub. Attackers can overwrite the disk, causing denial of service.
+The researchers have created an emergency patch in order to fix the issue.

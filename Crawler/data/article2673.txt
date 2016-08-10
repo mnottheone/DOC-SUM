@@ -1,0 +1,27 @@
+Euroclear agrees to RBI model to clear debts ||||
+ Belgium-based securities settlement company Euroclear has reportedly agreed to a model suggested by the RBI to settle Indian government debt papers in the overseas market. Under the model, the overseas debts will be cleared in India through Indian brokers. Further, foreign institutional investors using the Euroclear platform to trade in India need not register in India to settle their investments. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/40621421-0011-0002-2531-000012345678||||
+Belgium-based securities settlement company Euroclear has agreed to a model suggested by the Reserve Bank of India (RBI) to settle Indian government debt papers in overseas market, finance ministry sources said. The model will ensure that clearing of the debt happens in India using Indian brokers and custodians.
+The government expects overseas settlement of Indian debt to be operational in the next financial year, according to the sources. Foreign institutional investors using Euroclear platform to trade in Indian debt securities will not have to register in India for clearing and settlement of their investments, they added.
+Finance minister Arun Jaitley in the Union Budget 2014-15 proposed allowing international settlement of Indian debt securities. Euroclear is in final negotiations with the finance ministry and the RBI to make Indian government debt securities Euroclearable in 2016-17, the sources said.
+In response to detailed queries from The Indian Express, Euroclear, the world’s largest securities settlement system, declined comments for the story. The government and the RBI plan to initially permit overseas settlement of Indian debt to only long-term investors such as sovereign wealth funds and pension funds. The government and the regulator had also discussed putting a cap of $3 billion a year on such settlement.
+
+
+Share This Article
+
+
+
+Related Article Financial Reforms: Debt management agency on the backburner, unlikely this fiscal Debate the debt On debt authority, govt yields to Reserve Bank Amid RBI concerns, FinMin gears up for debt management office by next yearInterest rate decision to be purely data driven: Rajan‘Govt halts plan to join global bond indexes, defers Euroclear’
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Overseas settlement is expected to result in a reduction in bond yields and an increase in liquidity in domestic bond markets. The plan is to first start with international settlement of government securities, and depending upon the success, use this platform for corporate bonds as well.
+“International trading and settlement will enable foreign investors to transact in Indian securities but settle in dollars or other international currencies, thereby increasing access and flexibility in order to widen the investor base,” the finance ministry said in its Annual Report for 2014-15.
+Last September, the RBI had announced plans to increase the cap on foreign institutional investment in central government securities to 5 per cent of the outstanding stock in phases by March 2018. The RBI had put in place an overall limit of $30 billion for foreign investments in government bonds.
+“In aggregate terms, this (increase in FII cap) is expected to open up room for additional investment of Rs 1,200 billion (Rs 1.2 trillion) in the limit for Central government securities by March 2018 over and above the existing limit of Rs.1,535 billion (Rs.1.535 trillion) for all government securities (G-secs),” RBI said in its Bi-monthly Monetary Policy Statement on September 29, 2015.
+Even as the RBI has been opening up the government securities market to foreign investors steadily, the government’s debt is largely denominated in rupees. As much as 93.8 per cent of total central government debt of Rs 59 lakh crore at March-end 2015 is denominated in India’s currency, while external debt constituted a low 2.9 per cent. Euroclear has been operating in Asia Pacific for more than 25 years, with client from the region holding Euro 2.3 trillion in assets in custody with the firm.

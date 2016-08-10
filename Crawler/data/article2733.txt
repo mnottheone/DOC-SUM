@@ -1,0 +1,18 @@
+Worlds first bendable phone 'ReFlex' developed ||||
+ Researchers from the Queens University have developed the worlds first flexible display smartphone named ReFlex. The phone senses the force with which a user bends the screen, allowing them to experience physical tactile feedback when interacting with apps through bend gestures. For example, users can play Angry Birds on the smartphone by bending the screen to stretch the slingshot. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/99108861-0012-0002-1962-000012345678||||
+Scientists claim to have developed the world’s first wireless flexible smartphone that allows users to feel the buzz by bending their apps.
+The full-colour, high-resolution smartphone, named ReFlex, combines multitouch with bend input and allows users to experience physical tactile feedback when interacting with their apps through bend gestures.
+Watch: Video of ReFlex flexible smartphone
+“This represents a completely new way of physical interaction with flexible smartphones,” said Roel Vertegaal, director of the Human Media Lab at Queen’s University in Canada.
+“When this smartphone is bent down on the right, pages flip through the fingers from right to left, just like they would in a book. More extreme bends speed up the page flips,” said Vertegaal.
+“Users can feel the sensation of the page moving through their fingertips via a detailed vibration of the phone. This allows eyes-free navigation, making it easier for users to keep track of where they are in a document,” he said.
+Also Read: CES 2016: LG to showcase 18-inch display that can be rolled up like a newspaper
+“When a user plays the “Angry Birds” game with ReFlex, they bend the screen to stretch the sling shot. As the rubber band expands, users experience vibrations that simulate those of a real stretching rubber band,” Vertegaal said.
+“When released, the band snaps, sending a jolt through the phone and sending the bird flying across the screen,” he said.
+“ReFlex is based on a high definition 720p LG Display Flexible OLED touch screen powered by an Android 4.4 “KitKat” board mounted to the side of the display,” researchers said.
+Bend sensors behind the display sense the force with which a user bends the screen, which is made available to apps for use as input.
+ReFlex also features a voice coil that allows the phone to simulate forces and friction through highly detailed vibrations of the display.
+Combined with the passive force feedback felt when bending the display, this allows for a highly realistic simulation of physical forces when interacting with virtual objects.
+“This allows for the most accurate physical simulation of interacting with virtual data possible on a smartphone today,” said Vertegaal.

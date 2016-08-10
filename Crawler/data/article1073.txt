@@ -1,0 +1,10 @@
+TRAI launches app to track mobile data speed ||||
+ The Telecom Regulatory Authority of India (TRAI) on Tuesday launched an app called 'MySpeed' that measures mobile's data speed of the users and sends results to the regulatory body. Available on Android and iOS platforms, it also sends device's location and other network information to TRAI. It does not share any personal information of its users and sends reports anonymously. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/e2e8383b-b300-4e65-8e18-34e58d9052de-1||||
+Launching an app for measuring real time mobile Internet speed that consumers get, telecom regulator TRAI on July 5 said it would start the process within a month to frame new service quality norms for wireless data.
+“We will issue a consultation paper soon to fix quality of service benchmark for wireless data. Through the application (TRAI Myspeed App) we will get real time data from customers. This will be put on TRAI Analytics Portal. It will show mobile data speed of each operator in a given area on real time basis,” TRAI Chairman RS Sharma said in New Delhi.
+When asked if the paper will be issued within a month, Sharma responded in affirmative.
+Watch Video: What’s making news 
+TRAI had issued service quality benchmark for wireless data earlier but Sharma said that telecom operators have complained that “law of physics” does not guarantee minimum speed that they can provide to consumers.
+“Now we are saying that if you cannot provide minimum speed of data then at least average speed can be assured. In the consultation paper we will discuss what can be the average criteria,” Sharma said.

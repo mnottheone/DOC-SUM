@@ -1,0 +1,24 @@
+2016 to be China-India Tourism Year: China ||||
+ The China National Tourism Administration (CNTA) has declared 2016 as the China-India Tourism Year in India. The move was decided upon by PM Narendra Modi and Chinese President Xi Jinping in 2014 with an aim of building ties of cultural exchange, promoting emotional communication between the two countrys peoples. The opening ceremony will be held on January 14 in Delhi. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/83310977-0011-0001-6197-000012345678||||
+The China National Tourism Administration (CNTA) announced the beginning of China-India Tourism Year on Tuesday. Li Yaying, deputy director general, Marketing and International Cooperation Department of CNTA introduced the China-India tourism year and the tourism exchanges between China and India.
+The move follows up on the decision taken jointly in 2014 by Prime Minister Narendra Modi and Chinese President Xi Jinping to observe the “India Tourism Year” in China in 2015, and “China Tourism Year” in India, which begins this year.
+The decision to hold tourism years in both the countries is aimed “at building ties of cultural exchange, promoting emotional communication between the two country’s peoples, reinforcing the foundation of mutual goodwill among the general public, and enriching the connotations of the developmental partnership between China and India,” said Yaying.
+
+
+Share This Article
+
+
+
+Related Article LIVE: Formal talks between PM Narendra Modi, President Jinping underway in Xi'an APEC doors open for India, President Xi, Sushma Swaraj discuss progress in ties Sushma Swaraj proposes six-point template to boost India-China ties India, China to roll out red carpet for tourists Modi ups China stake: If we solve our border dispute, it’s a model for world Narendra Modi raises border dispute, Chinese President Xi invites him for APEC meet 
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								 
+In May 2015, the tourism authorities of the two countries signed an agreement on tourism cooperation between the national tourism administration of China and the Ministry of Tourism of India. CNTA has designed several tourism promotion and exchange activities during this year, which includes promotional films and advertisements through media and web portals in India and tourism promotional activities themed around the Silk Road, among others.
+“We hope the activities will help Indian people better understand China and create a positive atmosphere for the tourism development in both countries,” said Yaying.
+The opening ceremony will be launched on January 14 at Siri Fort Auditorium in Delhi.

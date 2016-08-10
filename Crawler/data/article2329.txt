@@ -1,0 +1,39 @@
+Aussie Craig Wright confirms he created Bitcoin ||||
+ Australian entrepreneur Craig Wright has reportedly confirmed that he created digital payment system bitcoins and provided technical proof for his claims. The creator of bitcoin had earlier developed it under the pseudonym 'Satoshi Nakamoto'. Bitcoin is a virtual currency system in which users exchange bitcoins for transactions and 'mine' bitcoins by sharing their computing power. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/6920af90-7b35-4336-9cbc-c7a0099b313d-1||||
+SYDNEY/LONDON Australian tech entrepreneur Craig Wright identified himself as the creator of controversial digital currency bitcoin on Monday but experts were divided over whether he really was the elusive person who has gone by the name of Satoshi Nakamoto until now.
+Uncovering Nakamoto's real identity would solve a riddle dating back to the publication of the open source software behind the cryptocurrency in 2008, before its launch a year later.
+Bitcoin has since become the world's most commonly used virtual currency, attracting the interest of banks, speculators, criminals and regulators.
+Worth a total of $7 billion at current levels, it fell more than 3 percent on Monday -- a normal intraday move for the volatile currency -- after the news, to below $440 from around $455, before recovering slightly.
+Some online commentators suggested bitcoin's creator could help resolve a bitter row among the currency's software developers that threatens its future.
+But Wright made no reference to the row in a BBC interview identifying himself as Nakamoto, and as the protocol bitcoin runs on is open-source and cannot be controlled by any one person, it is unclear whether he would be able to influence the way it develops.
+"I was the main part of it, other people helped me," Wright, who is now living in London, told the BBC. "Some people will believe, Some people won't, and to tell you the truth, I don't really care," he said.
+Many bitcoiners said Wright had not done enough to definitively prove that he was Nakamoto, who maintained his anonymity throughout his involvement with bitcoin, which he stepped away from in 2011.
+But Gavin Andresen, who Nakamoto chose to succeed him, published a blog post in which he described meeting Wright last month and said he is “convinced beyond a reasonable doubt” that the Australian is Nakamoto.
+Jon Matonis, a founding director of the Bitcoin Foundation now works as a bitcoin consultant, wrote a blog post on Monday which, like Andresen’s, supported Wright’s claims.
+“According to me, the proof is conclusive and I have no doubt that Craig Steven Wright is the person behind the Bitcoin technology, Nakamoto consensus, and the Satoshi Nakamoto name,” Matonis wrote. He and Andresen also confirmed they had been responsible for their respective blog posts to Reuters directly.
+
+LEGACY
+Nakamoto's biggest likely legacy lies well beyond his control. The blockchain technology that underpins the currency could transform the way banks settle transactions, the way that property rights and other vital data are recorded, and provide a way for central banks to issue their own digital currencies.
+The BBC reported on Monday that Wright gave some technical proof demonstrating that he had access to blocks of bitcoins known to have been created by bitcoin's creator.
+Researchers believe Nakamoto may be holding up to one million of the more than 15 million bitcoins currently in circulation, which would make the creator worth around $440 million.
+In a blog post also dated Monday, Wright posted an example of a signature used by Nakamoto and an explanation of how bitcoin transactions are verified and thanked all those who had supported the project from its inception.
+"This incredible community’s passion and intellect and perseverance have taken my small contribution and nurtured it, enhanced it, breathed life into it," he wrote.
+However he did not state directly that he was Nakamoto. "Satoshi is dead," he said. "But this is only the beginning."
+Bitcoin expert Peter Van Valkenburgh, director of research at Washington, D.C.-based advocacy group Coin Center, said a new message cryptographically signed using the private key associated with the so-called Genesis block, the first ever "mined" would have been more convincing.
+The currency's "miners" are incentivized to process transactions every 10 minutes by a possible reward of bitcoins (25 currently), which is how new bitcoins are created.
+Wright also spoke with The Economist, but declined requests from the magazine to provide further proof that he was Nakamoto. His representatives told Reuters he would not be taking part in more media interviews for the time being. 
+"Our conclusion is that Mr Wright could well be Mr Nakamoto, but that important questions remain," The Economist said. "Indeed, it may never be possible to establish beyond reasonable doubt who really created bitcoin.”
+Hopes that bitcoin would become broadly used helped buoy its price to more than $1,000 in December 2013, when its market capitalization was $13 billion compared with today's $7 billion.
+Wright told The Economist he would exchange bitcoin he owns slowly to avoid pushing down its price. 
+
+HOME RAIDED
+In December, police raided Wright's Sydney home and office after Wired magazine named him as the probable creator of bitcoin and holder of hundreds of millions of dollars worth of the cryptocurrency. At the time he made no comment.
+The treatment of bitcoins for tax purposes in Australia has been the subject of considerable debate. The Australian Tax Office (ATO) ruled in December 2014 that cryptocurrency should be considered an asset, rather than a currency, for capital gains tax purposes.
+On Monday, the ATO said it had no comment while police were not immediately available for comment.
+If Wright is Nakamoto he "is now the leader of a movement", said Roberto Capodieci, a Singapore-based entrepreneur working on the blockchain, the technology underlying the currency.
+That movement ranges from libertarian enthusiasts to central banks experimenting with digital currencies, all of which pay homage in some way to Nakamoto's writings.
+
+
+ (Additional reporting by Jeremy Wagstaff in Singapore, Matt Siegel in Sydney and Paul Sandle in London; Editing by Nick Macfie, Raju Gopalakrishnan and Philippa Fletcher)

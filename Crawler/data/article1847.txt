@@ -1,0 +1,23 @@
+IDBI goes from 546 cr profit to 1,736 cr loss ||||
+ State-owned lender IDBI Bank on Friday reported a net loss of 1,736 crore in the quarter ended March compared to a profit of 546 crore in the year-ago period. Further, revenue was down 11.8% year-on-year to 8,274 crore. The loss was attributed to a near doubling of the bank's gross non-performing assets (NPAs) to 3 lakh crore. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/a08100f6-dac7-4697-aec3-fc616229f7d5-1||||
+With bad loans almost doubling, state-owned IDBI Bank has posted a net loss of Rs 1,735.81 crore for the March quarter of 2015-16 as against a net profit of Rs 545.94 crore during the January-March period of 2014-15. Gross non-performing assets as on March 2016 shot up to 10.98 per cent of gross advances at Rs 24,875 crore as compared to 5.88 per cent (Rs 12,685 crore) a year ago.
+
+
+Share This Article
+
+
+
+Related Article PSBs’ quarterly loss almost equals yearly govt capital infusion Canara Bank posts Rs 3,905 crore Q4 loss Bank of India Q4 loss widens to Rs 3,587 cr on rising NPAs Cumulative loss of 20 public sector banks stands at Rs 14,283 crore in Q4, 2015 PNB suffers record loss of Rs 5,367 crore in Q4 on high NPAs Rs 3,342 crore loss: BoB reports biggest loss in banking history
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+This was the bank’s second straight quarter of losses after a net loss of Rs 2,184 crore in the December quarter.
+The cumulative loss of 21 public sector banks (PSBs) that have declared their fourth quarter results has crossed the Rs 16,000 crore mark.
+The main reason behind this negative swing from a total profit of Rs 4,464 crore that they had reported in the same quarter last year is a 151 per cent surge in provisions, necessitated by their gross non-performing assets almost doubling (Y-o-Y) to over Rs 3 lakh crore. IDBI hopes to raise as much as $1 billion during the year to March by selling non-core assets to fund its growth, MD and CEO Kishor Kharat said. “Now at least we can say the storm is gone,” he said.
+IDBI has about Rs 19,000 crore worth of loans where repayments have been delayed beyond 60 days. The Centre has plans to lower its stake in IDBI to below 50 per cent from about 76 per cent currently in a test case for bank reforms. Its total income also decreased to Rs 8,274.58 crore, as against Rs 9,382.37 crore in the year-ago period.

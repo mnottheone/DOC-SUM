@@ -1,0 +1,27 @@
+Fine proposed for wrong depiction of India's map ||||
+ According to the draft Geospatial Information Regulation Bill, 2016, wrong depiction of the topographic information of India could land violators in jail with a maximum term of seven years and fine up to 100 crore. It also proposes to make it mandatory to gain permission from a government authority before acquiring, disseminating, publishing or distributing any geospatial information of India. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/9163fe88-ed0c-4110-a3c9-14e1f8647ea3-1||||
+Wrong depiction of the map of India could soon land violators behind bars, with a maximum term of seven years and a fine up to Rs 100 crore.
+The draft Geospatial Information Regulation Bill, 2016 states: “Whoever depicts, disseminates, publishes or distributes any wrong or false topographic information of India including international boundaries in contravention of section 6, shall be punished with a fine ranging from Rupees ten lac to Rupees one hundred crore and/or imprisonment for a period up to seven years.”
+Recently, some social networking sites wrongly depicted the geographical location of Jammu as being in Pakistan and of Kashmir in China, which was corrected after protests from the Government of India.
+The draft Bill also makes it mandatory to take permission from a government authority before acquiring, disseminating, publishing or distributing any geospatial information of India.
+
+
+Share This Article
+
+
+
+Related Article Geospatial bill finds Parliamentay chief's backing J&K on map: Pakistan objects, India rejects ‘concern’ Pakistan expresses 'concern' to UN over India's proposed map discrepancy law In fact: The Regulator of Maps, and the space it will occupy Journey without maps India asks US to depict boundaries correctly
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+“Whoever acquires any geospatial information of India in contravention of the law shall be punished with a fine ranging from Rs 1 crore to Rs 100 crore and/or imprisonment for a period up to seven years,” according to the draft Bill.
+Geospatial information means geospatial imagery or data acquired through space or aerial platforms such as satellite, aircraft, airships, balloons, unmanned aerial vehicles including value addition or graphical or digital data depicting natural or man-made physical features, phenomenon or boundaries of the earth or any related information including surveys, charts, maps, terrestrial photos referenced to coordinate system and attributes.
+The central government shall constitute a security vetting authority of geospatial information of India in a time-bound manner and as per regulations framed by an apex committee. It shall consist of an officer of the rank of joint secretary to the Government of India or above as chairman and two members, one a technical expert and the other, a national security expert.
+The draft Bill will make it mandatory for online platforms like Google to seek a licence to run Google Maps or Google Earth in India.
+WATCH INDIAN EXPRESS VIDEOS HERE

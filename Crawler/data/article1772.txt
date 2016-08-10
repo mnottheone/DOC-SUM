@@ -1,0 +1,13 @@
+New battery that can work at low temperatures ||||
+ Chemists from Hiroshima University in Japan has developed a technique to synthesize organic rechargeable batteries that are non-metallic and can continue to function at below-freezing temperatures. Such type of batteries have the potential to be cheaper, safer, longer-lasting and can recharge faster than current metal-based batteries, as they carry energy chemically rather than physically. ||||
+ ANI ||||
+ https://full-story.newsinshorts.com/v1/article/ce5a4a71-0a4b-4eda-a0ed-4722810603f0-1||||
+Washington, May 22 (ANI): Cold can wreak havoc on batteries, but now a team of researchers has come up a new re-chargeable, non-metallic "eco battery" from Japan that can power up when the temperature is down.
+Chemists from Hiroshima University developed a new synthesis method for organic radical batteries that are re-chargeable and continue to function at below-freezing temperatures.
+The specific model prototyped by the team has greater voltage than previously reported styles from other research groups around the world. The method used to create this battery is an improvement on a report from the same Hiroshima University laboratory earlier in 2016.
+Most electrical devices use a lithium-ion battery. Lithium-ion batteries are safer than standard lithium metal batteries, but both styles rely on metal, a finite resource that is in decreasing supply. The same problem of decreasing supply exists for copper and cobalt batteries, like the traditional AA batteries in TV remote controls.
+Organic radical re-chargeable batteries have the potential to be cheaper, safer, and longer-lasting than current metal-based batteries, earning them the "eco battery" title. This style of battery can re-charge faster than meal-based batteries, the difference of one minute instead of one hour, because they carry energy chemically rather than physically.
+"The chemicals in the battery make it heavy and the synthesis process makes it expensive, so it won't replace other styles of batteries in the foreseeable future. But our battery could supplement traditional batteries in conditions where traditional Lithium-ion batteries can't work reliably, particularly in cold locations," said Professor Yohsuke Yamamoto.
+Eventually, organic radical batteries could potentially be made in flexible, transparent forms for use in wearable electronics.
+Yamamoto and collaborators are currently adapting the synthesis process further to make the battery lighter weight and ensure it retains its energy output after numerous re-charge cycles.
+The study appears in Bulletin of the Chemical Society of Japan. (ANI)

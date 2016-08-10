@@ -1,0 +1,13 @@
+WhatsApp blocks links of rival company Telegram ||||
+ According to media reports, WhatsApp is disabling links of rival company Telegram on Android devices. Telegram URLs are appearing as plain messages on the chat service instead of hyperlinks, and cant be copy-pasted. Telegram, a cloud-based instant messaging service,  is available on multiple platforms and boasts of 50 million downloads. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/71579724-0015-0012-0550-000012345678||||
+WhatsApp appears to be blocking links to rival-messaging app Telegram on Android smartphones, according to reports.
+In Telegram, users can create a hyperlink to their Telegram id, which reads as telegram.me/username and invite their friends to chat on the app. While the links are working on WhatsApp’s iOS app, on Android the links are disabled, which means that you can’t tap on them to open the Telegram page.
+On Android, the Telegram URLs appear as messages and according to a report in The Verge users were blocked from copying and pasting them as well.  This was also true, in our case as we could not see the copy option when clicking on a message which had a Telegram id or link in it.
+Read more: Telegram introduces 1000 member Supergroups, group admin feature
+The Verge goes on to say that Telegram has confirmed that WhatsApp rolled out a silent update across devices which had initiated the block.
+The block was first spotted on Reddit and an image was posted of the same imgur. Android Police has also put out an article showing a part of the WhatsApp source code for the most recent version of the app, where the link telegram.org is added to bad host.
+WhatsApp has not commented on the issue. Rival Telegram claims to have over 60 million users and recently hit the headlines over propaganda public channels being run by terrorist-group ISIS, which were later shut down.
+Telegram’s latest update also brought some solid features to the app, including Supergroups where users can add 1000 members, double of what WhatsApp currently offers. Additionally Telegram lets users share files of up to 1.5 GB, much more than what WhatsApp currently offers.
+Read more: Simply put: Telegram, Paris attacks and the encryption debate 

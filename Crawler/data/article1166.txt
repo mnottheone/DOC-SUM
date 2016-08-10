@@ -1,0 +1,14 @@
+New $2 saliva test to detect Zika in 40 minutes ||||
+ US-based researchers have designed a portable $2 saliva test which they claim can diagnose Zika in 40 minutes. To make the test highly-selective, researchers identified a stretch of genetic code that is nearly identical for 19 different Zika strains. The system, which only requires the addition of water, contains a dye that turns blue in the presence of Zika virus. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/ed1f25e3-65a1-4c06-86f1-36f84b6761dc-1||||
+With Zika buzz-bombing Brazil’s grandiose Summer Olympics plans, a team of researchers has come up with a new 2 dollar-test that rapidly detects Zika virus in saliva within 40 minutes.
+The World Health Organization (WHO) recently announced that there was no need to postpone or move the Olympics due to Zika’s presence, but concern over the virus’ spread and its link to serious birth defects is far from allayed. Public health experts debate whether WHO made the right call.
+But while the discussion continues, scientists are working on new tools to help manage the outbreak. Current gold-standard tests to detect the virus require expensive lab equipment and trained personnel.
+
+Low-cost diagnostic methods have been reported but can’t detect low levels of the disease or don’t distinguish between Zika and similar viruses such as dengue.
+Changchun Liu and colleagues wanted to design a rapid, low-cost and more reliable point-of-care detection test.
+To ensure their system would be highly selective for Zika without confusing it with similar viruses, the researchers looked for and found a stretch of genetic code that is nearly identical for 19 different strains of the Zika virus infecting people in the Americas but not in other pathogens.
+Then, with materials costing 2 dollars per test, they developed a diagnostic system, which only requires the addition of water to operate.
+If the Zika-specific genetic sequence is in a saliva sample, a dye within the system will turn blue within 40 minutes. The test even works if low levels of the sequence are present.
+The study appears in journal Analytical Chemistry.

@@ -1,0 +1,44 @@
+20 mn accounts of Alibaba Group's site attacked ||||
+ Hackers in China have reportedly attempted to access over 20 million active accounts on Alibaba Group's Taobao shopping website using Alibaba's own cloud computing service.  Hackers have obtained a database of 99 million usernames and passwords from a number of websites and found that 20.59 million of them were also being used for Taobao accounts, a Chinese government website said. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/12033829-0018-0002-9889-000012345678||||
+BEIJING Feb 4 Hackers in China attempted to
+access over 20 million active accounts on Alibaba Group Holding
+Ltd's Taobao e-commerce website using Alibaba's own
+cloud computing service, according to a state media report
+posted on the Internet regulator's website.
+Analysts said the report from The Paper led to the price of
+Alibaba's U.S.-listed shares falling as much as 3.7 percent in
+late Wednesday trade.
+An Alibaba spokesman on Thursday said the company detected
+the attack in "the first instance", reminded users to change
+passwords, and worked closely with the police investigation.
+Chinese companies are grappling a sharp rise in the number
+of cyber attacks, and cyber security experts say firms have a
+long way to go before defences catch up to U.S. counterparts.
+In the latest case, hackers obtained a database of 99
+million usernames and passwords from a number of websites,
+according to a separate report on a website managed by the
+Ministry of Public Security.
+The hackers then used Alibaba's cloud computing platform to
+input the details into Taobao. Of the 99 million usernames, they
+found 20.59 million were also being used for Taobao accounts,
+the ministry website said.
+The hackers started inputting the details into Taobao in
+mid-October and were discovered in November, at which time
+Alibaba immediately reported the case to police, the ministry
+website said. The hackers have since been caught, it said.
+Alibaba's systems discovered and blocked the vast majority
+of log-in attempts, according to the ministry website.
+The hackers used compromised accounts to fake orders on
+Taobao, a practice known as "brushing" in China and used to
+raise sellers' rankings, the newspaper said. The hackers also
+sold accounts to be used for fraud, it said.
+Alibaba's spokesman declined to comment on how the hackers
+were able to use its cloud computing service for the attack. He
+said they could have used any such service, and that the attack
+was not made possible by loopholes in Alibaba's platform.
+"Alibaba's system was never breached," the spokesman said.
+
+ (Reporting by Paul Carsten; Additional reporting by Beijing
+Newsroom; Editing by Christopher Cushing)

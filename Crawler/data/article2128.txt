@@ -1,0 +1,40 @@
+'SWIFT technicians left B'desh bank vulnerable' ||||
+ Technicians from SWIFT, a global network that provides information about financial transactions, left the Bangladesh Central bank vulnerable to hackers, said a senior Bangladesh Police officer on Monday. The technicians left a 'lot of loopholes' while connecting SWIFT to Real Time Gross Settlement System (RTGS). In February, $81 million were lost in an alleged cyber theft from the bank. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/377fb3eb-8496-48fb-a513-a1a58b5451e5-1||||
+DHAKA/BOSTON Bangladesh's central bank became more vulnerable to hackers when technicians from SWIFT, the global financial network, connected a new bank transaction system to SWIFT messaging three months before a $81 million cyber heist, Bangladeshi police and a bank official alleged.
+The technicians introduced the vulnerabilities when they connected SWIFT to Bangladesh's first real-time gross settlement (RTGS) system, said Mohammad Shah Alam, the head of the criminal investigation department of the Bangladesh police who is leading the probe into one of the biggest cyber-heists in the world.
+    "We found a lot of loopholes," Alam said in an interview in Dhaka. "The changes caused much more risk for Bangladesh Bank."
+He and a senior central bank official said the SWIFT employees made missteps in connecting the RTGS to the central bank's messaging platform. 
+The technicians did not appear to have followed their own procedures to ensure the system was secure, according to the Bangladesh Bank official, who said he was not authorised to publicly comment because of the ongoing investigation.
+Because of this, SWIFT messaging at the central bank was widely accessible, including remote access with only a simple password, police said. It had no firewalls and only a rudimentary switch.
+"It was the responsibility of SWIFT to check for weaknesses once they had set up the system. But it does not appear to have been done," said the bank official.
+    SWIFT's chief spokeswoman Natasha de Teran said she had no comment on the allegations by authorities in Bangladesh. She also declined comment on any aspect of the Bangladesh project, including whether the firm had deployed any employees or outside contractors to Bangladesh Bank.
+Reuters was not able to independently verify the allegations by Bangladeshi officials about the SWIFT technicians. If they are validated, however, that could undermine confidence in the cooperative that is the backbone of global financial transactions. 
+The officials in Dhaka discussed their findings with Reuters ahead of a meeting this week in Basel, Switzerland where Bangladesh Bank officials have said their governor and a lawyer appointed by the bank will discuss recovery of about $81 million stolen by the hackers with the head of the Federal Reserve Bank of New York and a senior executive from SWIFT. 
+Bangladesh Bank officials have said they believed SWIFT, and the New York Fed, bear some responsibility for the February cyber heist. SWIFT has declined comment on that claim.
+
+"NO INHERENT RISK"
+The RTGS, which enables domestic banks and the central bank to settle large transfers between themselves, was installed at Bangladesh Bank in October last year and then connected to SWIFT. In February, hackers sent fraudulent messages, ostensibly from the central bank in Dhaka, on the SWIFT system to the New York Fed seeking to transfer nearly $1 billion from Bangladesh Bank's account there.
+Most of the transfers were blocked but about $81 million was sent to a bank in the Philippines and much of that money remains missing.
+A spokesman for Bangladesh Bank declined comment on the investigation into the heist.  
+He said, however, that RTGS continued to work well, noting that a large number of countries use SWIFT messaging for similar systems. "There is no inherent risk in this," he said.
+    According to the Bangladeshi police, the technicians linked the RTGS to SWIFT computers on the same network as about 5,000 central bank computers that are accessible from the open Internet.  
+Instead, they should have set up a separate local area network, or LAN, that could not connect to the rest of the bank or the Internet, police said. 
+The technicians also failed to install a firewall between the RTGS and the SWIFT room so that the bank could block malicious traffic from coming into the facility. 
+    When they installed a networking switch to control access to SWIFT, they chose to use a rudimentary old one they had found unused in the bank, rather than a more sophisticated, managed switch that gave the bank the ability to control access to the network, police said.
+    
+REMOTE ACCESS
+During the job, the technicians set up a wireless connection so they could access computers in the locked SWIFT room from other offices inside the bank. When they finished, they failed to disconnect the remote access, which was only secured with a simple password, police and the bank official said. 
+    They also failed to disable a USB port on the computer attached to the SWIFT system, as is usual for critical networks to prevent malicious software from being installed through a tainted thumb drive, police said.
+Police did not provide any evidence for any of the assertions.
+But another central bank official familiar with the SWIFT room operations confirmed that the port was "active" until the heist came to light. He had no explanation.    
+The hackers used malicious software to modify the SWIFT messaging software to help hide their tracks.
+Bangladeshi police said they have asked SWIFT to facilitate interviews with the SWIFT technicians. "Whether it is intentional or negligence, we are trying to find out," said Alam.
+SWIFT, or the Society for Worldwide Interbank Financial Telecommunication, is used by about 8,000 banks around the world to order funds transfers and other communications. It is connected to RTGS systems installed at scores of banks worldwide, and there have been no reports of problems elsewhere with connections between those two systems.
+The U.S. FBI, which is leading investigations into the case, has made no comment so far.
+New York Fed executive Richard Dzina said at a conference last week that bank workers "acted properly" in releasing the funds. The system was penetrated, he said, because the hackers had acquired valid credentials to order the transfers
+Former central bank governor Mohammed Farashuddin, who is heading an internal probe by Bangladesh Bank into the heist, said SWIFT needed to review its technology in the wake of the heist. 
+"It seems to be a case of extreme carelessness," he told Reuters. He declined to provide more details saying a final report was due in the next few weeks.
+
+ (Additional reporting by Jeremy Wagstaff in SINGAPORE, Editing by Raju Gopalakrishnan)

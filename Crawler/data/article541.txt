@@ -1,0 +1,19 @@
+SoftBank-Honda partner to develop 'talking car' ||||
+ SoftBank on Thursday said it was partnering with automaker Honda to develop 'talking cars' that can read drivers' emotions with the help of SoftBank's humanoid robotic technology. SoftBank described a future where Honda cars could interact with drivers, helping them park or offering company on long trips. The announcement comes after SoftBank agreed to buy British chip designer ARM Holdings. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/7f95c099-f42d-4f7e-8946-eb501b353f30-1||||
+TOKYO On the heels of its $32 billion takeover of chip designer ARM Holdings, SoftBank Corp founder Masayoshi Son is embarking on another "crazy idea": talking cars that can read a driver's emotions.
+The Japanese telecommunications and internet corporation said on Thursday it was teaming up with Honda Motor Co to look at ways of applying SoftBank's humanoid robotic technology to cars so they can communicate with drivers, perhaps helping them park or offering company on long trips.
+The announcement comes after SoftBank on Monday agreed to buy British chip designer ARM Holdings, which Son believes will play a central role in the tech industry's shift to the 'internet of things' (IoT).
+Speaking at an event in Tokyo, Softbank and Honda described a future in which Honda cars could speak and interact with their drivers via cloud-based technology based on SoftBank's "Pepper" robot, a life-sized robot that can read human emotions.
+"Imagine if robots, with their super intelligence, devoted themselves to humans," Son said.
+"And imagine that cars themselves became supercomputers or robots one day. Honda will be the first to adopt this technology."
+The two companies would research ways to assess a driver's speech, along with other data compiled by vehicle sensors and cameras, to gauge the driver's emotions and allow the vehicle to engage in conversation.
+As a result, vehicles would be able to offer advice and support to drivers, such as during challenging driving or parking situations, while also providing company to drivers on long, solitary trips. 
+SoftBank has been making an aggressive push into AI, robotics and the "internet of things (IoT)," a network of devices, vehicles and building sensors that collect, exchange and feed data into AI and robots. 
+Son has repeatedly said that IoT would bring "the biggest paradigm shift ever" in the tech industry.
+The tie-up with Honda comes as automakers compete to develop self-driving cars, which many plan to bring to market in the coming years.
+Japan's No. 3 automaker by vehicle sales has been expanding research into artificial intelligence technology, announcing last month that it would establish a research facility in Tokyo in September. 
+
+
+ (Reporting by Makiko Yamazaki; Editing by Richard Pullin)

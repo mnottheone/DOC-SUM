@@ -1,0 +1,8 @@
+Smart tag launched to track keys, wallets at 1k ||||
+ Bengaluru-based startup Gida has launched 'Yoky Tag', a smart device priced at 1,000 that can be attached to keys or wallets to track them using Bluetooth. Conversely, users can also find their phones by shaking the tag thrice. The tags have a maximum range of 250 feet and beep loudly if the tagged belongings go out of range. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/e8f340b9-85b0-48e6-95e4-cd154aab5975-1||||
+Gida has announced Yoky Tag, that lets users track things using their smartphones. Yoky Tag is a small wireless tag that users can attach to things like keys, wallet or anything else that they need to track. Yoky Tag also allows users to find their smartphones by shaking the tag thrice. Gida Yoky Tag beeps loudly, even before a user is about to leave their things behind.
+Gida Yoky Tag uses Bluetooth to connect to smartphone. Gida claims, Yoky Tag uses just 1 per cent battery in over 24 hours. The device doesn’t need to be charged as it comes with a replaceable battery that lasts for a year. Priced at Rs 999, Yoky Tag is water-resistant.
+Gida Yoky Tag has a built-in fitness tracker that measures steps apart from estimated distance and calories. Users can customise Yoky Tag with their photos or designs.
+Gida Yoky Tag has a maximum range of 150 feet. It is compatible with smartphones having Bluetooth 4 and above, and iOS 8 and above or Android 4.3 and above. It has a built-in 32-bit ARM cortex SoC and a 500mAh replaceable battery. The Yoky Tag app is available for free, and can connect up to 8 tags at a time.

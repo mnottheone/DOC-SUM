@@ -1,0 +1,35 @@
+Telecom project for Lakshadweep, Andaman ||||
+ The inter-ministerial Telecom Commission has approved a proposal to improve communication facilities in Lakshadweep and Andaman & Nicobar Islands (ANI). Under the project, a submarine optic fibre cable will be laid between Chennai and Port Blair, and to five other ANI islands. At least 880.03 crore is expected to be spent from the Universal Service Obligation Fund (USOF) on this. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/2e0be8b1-f9bf-44ac-ac48-b335ecce31f4-1||||
+The inter-ministerial Telecom Commission has given its approval to proposals for improving connectivity to the Union territories of Lakshadweep, and Andaman & Nicobar Islands by spending nearly Rs 1,000 crore from the Universal Service Obligation Fund (USOF).
+Speaking to The Indian Express, Minister of Communications and Information Technology Ravi Shankar Prasad said: “The government is committed to make India a truly digital society and ensure that participative government is put in place. My ministry is carefully ensuring that benefits of digitalisation and communication revolution are realised by people in every corner of the country. Nobody would be left out in the present drive of digitalising India and making it integral part of credible governance.”
+The panel, on Saturday, gave an in-principle approval for laying down of a submarine optic fibre cable between Chennai and Port Blair, and to five other islands in Andaman & Nicobar — Car Nicobar, Little Andaman, Havelock, Kamorta, and Great Nicobar. A capital expenditure of Rs 880.03 crore is expected to be made from the USOF for this purpose.
+“Annual operational expenditure in the form of viability gap funding will be funded by Andaman & Nicobar Union Territory Administration initially for five years,” the document said. “Work has been awarded on nomination basis to Bharat Sanchar Nigam Ltd (BSNL) as the project execution agency for implementation of the project on behalf of USOF,” according to a document reviewed by The Indian Express.
+
+
+Share This Article
+
+
+
+Related Article National Optical Fibre Network Rollout: Centre’s nod to some states going solo, bid to push rollout 55,669 villages in India do not have mobile coverage Mission impossible: Digital India is not doable by 2019 Easier said than done: Centre, states disagree over laying fibre network Reliance Jio inks pact with Bharti Airtel for cable networkAiling BSNL may get helpline in Rs 60,000 cr village Net broadband plan
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+According to a senior official of the Department of Telecommunications (DoT), laying of around 2,164 km of underwater optic fibre cable is likely to be completed by December 2018, and against a demand forecast of 55 gigabits per second (Gbps) of bandwidth, a 100 Gbps will be put in place.
+Further, for the islands in Lakshadweep, the expenditure proposal for augmentation of satellite system for an estimated Rs 46.53 crore was cleared by the Telecom Commission. The augmentation of the satellites will juice up the bandwidth capacity almost three times to 318 megabits per second (Mbps) from the existing 102 Mbps. This project will also be funded by the USOF, but the annual transponder charges will be funded by the Union territory’s administration, The Indian Express learnt.
+The DoT, in January 2014, had written to the Telecom Regulatory Authority of India (Trai) seeking the latter’s suggestions on improving telecom connectivity in the two Union territories. “Lack of high bandwidth communication channels pose a serious challenge in rolling out e-governance solutions apart from the many constraints in communication during both normal operations as well as during any potential emergency,” the DoT had told Trai.
+The Trai, too, recognising the strategic importance of the two island clusters, had submitted its recommendations in July 2014, which were cleared by the DoT’s apex decision making body.
+“The geographical configuration and the location of the ANI (Andaman and Nicobar Islands) chain in the Bay of Bengal and Lakshadweep in the Arabian Sea safeguards India’s eastern and western seaboards, respectively. Provision of secure, reliable, robust, and affordable telecom facilities in these islands is of utmost importance for the people living in these islands and from a strategic point of view to the whole country,” Trai had said.
+Recently, Trai had asked the telecom ministry to roll out comprehensive communications network at Andaman and Nicobar Islands, and Lakshadweep even if the cost was higher than estimated, with the islands assuming “immense strategic importance”. The telecom and media regulator had originally recommended an initial plan costing about Rs 2,400 crore to connect the two Union territories which at present are only dependent on satellites for connectivity.
+The Trai had said that in Andaman and Nicobar Islands, 29 out of 576 islands are inhabited and 90 per cent of the population lives in three islands — North, Middle and South Andaman Islands alone. In Lakshadweep, 11 out of 36 are inhabited and 10 of the inhabited islands have population above 100.
+For Andaman & Nicobar Islands, the regulator suggested connecting the 22 islands, which included 18 islands with population of above 100 and four islands which have presence of police, forest camps and tourists.
+The government had also appointed Telecommunications Consultants India Ltd to prepare a detailed project report on improving connectivity to these islands.
+The Andaman & Nicobar Islands are a part of the West Bengal telecom circle and Lakshadweep is a part of the Kerala circle. In Andaman & Nicobar Islands, four telecom operators — BSNL, Bharti Airtel,
+Vodafone India and Reliance Communications — have launched services, while in Lakshadweep only BSNL and Bharti Airtel have their services.
+“Even the telecom service providers, who have rolled out their network in these islands, are concentrated only around the capital, district headquarter or bigger islands. Even BSNL is not keen to expand its network to all the inhabited islands and villages because these operations are commercially unviable,” Trai had said in its recommendations issued in July 2014.
+WATCH INDIAN EXPRESS VIDEOS HERE

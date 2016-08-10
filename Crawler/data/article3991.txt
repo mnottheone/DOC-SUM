@@ -1,0 +1,10 @@
+OnePlus to refund for faulty USB Type-C cables ||||
+ Chinese smartphone maker, OnePlus on Friday admitted to the flaw in its USB Type-C cables and offered refund to customers who bought the cables separately. A Google engineer claimed that the cable was unfit for charging Googles Chromebook Pixel Notebook and smartphones Nexus 5X and Nexus 6P. However, same cables included with OnePlus 2 smartphones are not eligible for refund. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/20063129-0010-0011-9885-000012345678||||
+OnePlus, the Chinese tech startup behind popular OnePlus One and OnePlus 2 smartphones has admitted the fault in its USB Type-C cables. In a forum post, the company assures to offer refund to those who bought OnePlus’ USB Type-C cables.
+Almost a week back, a Google engineer claimed that USB Type-C cables supplied by OnePlus are not right for charging Google’s Chromebook Pixel Notebook and newly launched Nexus 5X and Nexus 6P smartphones. OnePlus accepts the claim made by Google’s Benson Leung and calls that its USB Type-C cables are good for charging or transfering data on a OnePlus 2 smartphone.
+OnePlus says its USB Type-C cables are good for charging even Nexus 5X and Nexus 6P but won’t support fast charging which draws 3A power. Further it says using a self regulating mechanism based 3A power source will charge Nexus devices and will be safe to use.
+OnePlus says its cables and adapters use a 10k Ohm resistor whereas version 1.1 of the Type-C port standard requires these products to use a 56k Ohm resitor instead. The issue will arise only when they try to draw more power than a power source may allow – resulting in possible damage to the power source.
+OnePlus is offering a refund for these cables to those who intended to use the cables to charge devices other than OnePlus 2 and cables included with OnePlus 2 device won’t be eligible for refund. For now, OnePlus tries to play it safe by calling the cable and adapter being designed for OnePlus 2 and not other devices.
+Watch our video review of OnePlus 2

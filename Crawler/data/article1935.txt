@@ -1,0 +1,22 @@
+Worlds first Zika virus clone developed ||||
+ In a first, US-based researchers have genetically engineered a clone of the Zika virus strain, an advance that may aid the development of vaccine and therapies against the infection. Furthermore, they also engineered a luciferase reporter Zika virus which can be used to track the infection in mosquitoes. Notably, Luciferase is the chemical that causes the signature glow in fireflies. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/3a7e3a3e-0ffa-4c02-9988-db5ceb2aee7e-1||||
+In a world-first, scientists have genetically engineered a clone of the Zika virus strain, an advance that may aid the development of vaccine and therapies against the infection which has been linked to serious birth defects.
+Cloning the virus unlocks scientists’ ability to more quickly develop countermeasures and explore whether or how the Zika virus has evolved to spread more quickly and cause more severe diseases in people.
+For 60 years, the Zika virus remained obscure with few identified cases in people and mild disease symptoms.
+However, since 2007, the virus has sparked frequent epidemics associated with serious diseases such as microcephaly and Guillain-Barre syndrome.
+The researchers from The University of Texas Medical Branch (UTMB) first constructed the Zika virus clone.
+Five fragments spanning the complete viral genome were individually cloned and assembled into the full-length clone of the Zika virus.
+The infectious complementary DNA (cDNA) clone allows researchers to make Zika virus from test tube and cells on petri dishes.
+The researchers then used the UTMB-developed Zika mouse model to demonstrate that the cloned virus infected the mice and gave them neurological disease.
+The team fed Aedes aegypti mosquitoes, one of the types known to transmit Zika, with human blood infected with either the parental Zika virus or the “human-made” Zika virus and found that the number of infected mosquitoes was similar.
+These findings confirm that the cloned virus is highly infectious for Aedes aegypti mosquitoes. In addition, the results demonstrated that Aedes aegypti might be a good mosquito vector for Zika virus transmission.
+Furthermore, the team engineered a luciferase reporter Zika virus. Luciferase is the chemical in fireflies that gives them their signature glow.
+The “glowing” reporter virus could be used for antiviral drug screening and to track Zika virus infection in mosquitoes and small animal models.
+There are a number of possible factors that may account for the current Zika virus epidemic that can now be tested with the UTMB clone.
+For instance, the Zika virus may have evolved in a way that enhances mosquito transmission, leading to it spreading much more quickly.
+This idea could be tested by comparing how infectious the original Zika strains are to mosquitoes with current strains, followed by manipulating the clone to test the effects of recent mutations on mosquito transmission.
+It is possible that the Zika virus has adapted to maintain higher virus concentrations in peoples’ blood, making it easier to cross the placenta and cause microcephaly.
+This possibility could be ruled out or confirmed by engineering mutant Zika viruses and testing out the effects on Zika mice.
+The study was published in the journal Cell Host and Microbe.

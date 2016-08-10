@@ -1,0 +1,30 @@
+UPA responsible for decline of BSNL, MTNL: Govt ||||
+ The NDA government on Wednesday blamed the previous UPA regime for the "decline" in the financial condition of state-owned telecom operators BSNL and MTNL. In 2004, BSNL and MTNL were earning profits of around 10,000 crore and 900 crore respectively, but were incurring a collective loss of about 10,000 crore in 2014, Telecom Minister Ravi Shankar Prasad said. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/70a009b2-8da0-44f5-a803-398cdd9f5dff-1||||
+The NDA-led government on Wednesday blamed the previous UPA regime for the “decline” in financial condition of BSNL and MTNL, saying the two state-run telecom companies were together suffering losses to the tune of Rs 10,000 crore in 2014 when the BJP-led dispensation took over.
+Telecom Minister Ravi Shankar Prasad said in Lok Sabha that in 2004, BSNL was incurring profits of around Rs 10,000 crore and MTNL Rs 900 crore.
+However, when the NDA government took charge in 2014, the BSNL was suffering a loss of Rs 8,000 crore and MTNL Rs 2,000 crore, he said replying to questions. “We are ready for a discussion in the House on the condition of both BSNL and MTNL and how their financial condition declined between 2004 and 2014,” he said.
+Prasad also made it clear that as of now, the government has no plans to merge BSNL and MTNL and both the organisations were trying their best to generate maximum revenues for revival and revitalisation.
+
+
+Share This Article
+
+
+
+Related Article Niti Aayog may consider strategic sale in BSNL, MTNL VRS a requirement to increase BSNL’s profitability: CMD Govt ready for discussion on call drops: Ravi Shankar Prasad Can debate who did what to BSNL: Ravi Shankar Prasad BSNL users to get free national roaming from June 15BSNL employees union seek refund of over Rs 8,300 cr
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+The Minister said due to continuous efforts, BSNL and MTNL have shown positive signs for their revival.
+In BSNL, income from services has increased by 4.16 per cent in 2014-15 as compared to 2013-14. In 2014-15, BSNL’s income was Rs 27,242 crore as compared to Rs 26,153 crore in 2013-14.
+BSNL’s income from services has increased by 2.16 per cent in 2015-16 (first nine months upto December 31, 2015) as compared to same period of previous financial year (Rs 18,508 crore in 2015-16 as compared to Rs 18,117 crore for 2014-15).
+“BSNL has earned an operating profit of Rs 672 crore in 2014-15. The operating profit is likely to be much higher during 2015-16. The net losses for 2015-16 are expected to be reduced by 20 per cent as compared to 2014-15,” he said.
+For the first time, there has been net positive addition of 2,50,666 mobile connections during 2015-16 due to Mobile Number Portability, he said.
+Around 31 lakh net mobile connection increased during 2015-16, Prasad said, adding the data revenue has increased by 50 per cent in 2015-16 as compared to 2014-15.
+Referring to MTNL, Prasad said MTNL’s revenue for the quarter ended December 31, 2015 was Rs 865.52 crore, which was an increase of Rs 25.08 crore as compared to previous quarter.
+MTNL’s total expenditure has decreased by Rs 6.30 crore during the said period and total subscribers of GSM have increased by 1,04,086 during the period April 2015 to December 2015 and revenue has increased by 3.3 per cent in Q3 as compared to Q2.

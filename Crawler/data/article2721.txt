@@ -1,0 +1,26 @@
+E-agri market to be launched on April 14: Modi ||||
+ Prime Minister Narendra Modi on Thursday announced that the 'National Agriculture Market', a digital platform for farmers, will be launched on Ambedkar's birth anniversary on April 14. The government allotted 200 crore to integrate 585 wholesale markets across India under the e-agri platform in phases by 2018. Modi also directed state governments to help double their farmers' incomes by 2022. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/69736030-0008-0002-2068-000012345678||||
+Prime Minister Narendra Modi Thursday unveiled operational guidelines for his government’s flagship crop insurance scheme — the Pradhan Mantri Fasal Bima Yojana — at a farmers’ rally in Sehore, Madhya Pradesh. Asserting that the new scheme will win the trust of farmers, the PM said shortcomings of earlier schemes unveiled by his predecessors had been addressed. “Even those people who are bent on portraying me as ‘anti-farmer’ have not been able to criticise it,’’ he said.
+At the event, Modi also announced the launch of the ‘National Agriculture Market’ — a new digital platform that will be available to farmers across the country from April 14, the birth anniversary of Dr Babasaheb Ambedkar.
+“We are setting up a National Agriculture Market, a virtual and digital platform, in the coming days….On April 14, the birth anniversary of B R Ambedkar, we will launch the online platform,” he said at the rally which was attended by Union ministers Sushma Swaraj, Radha Mohan Singh and Madhya Pradesh CM Shivraj Singh Chouhan.
+Under the e-agri platform, the government is working towards integrating all the 585 wholesale mandis of the country by 2018 in a phased manner, for which Rs 200 crore has been earmarked as of now. In the first phase, 200 mandis will be integrated by this March-end, while another 200 will be connected to the online platform in 2017 and the rest by 2018. The Centre has received proposals from states like Karnataka, Gujarat, Telangana and Maharashtra for developing necessary infrastructure in wholesale markets. A strategic partner for implementing the national agri e-market has also been identified.
+
+
+Share This Article
+
+
+
+Related Article From Plate to Plough: Raising farmers’ income by 2022 Farm solutions PM Modi arrives in MP to unveil Crop Insurance Scheme BJP’s ‘pro-farmer’ plan rolls out today Mann Ki Baat -- PM Modi on crop insurance: ‘Target 50% farmers in 2 yrs’ For the farmer
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+The PM said all state governments should take a vow to increase farmers’ income two-fold by 2022, the 75th anniversary of India’s independence.
+Unlike his previous rallies in Madhya Pradesh, the chant of ‘Modi, Modi’ was heard from the audience only once when he talked about the three-fold increase in the compensation under the new crop insurance scheme. CM Chouhan, however, chanted “Modi, Modi’’ for a much longer period from the stage while describing the PM’s popularity. He also bestowed the title of ‘Kisan Mitra’ on the PM.
+Modi reciprocated by praising Chouhan for winning Krishi Karman Award in wheat production for the fourth consecutive year and for achieving high agriculture growth over the last few years.
+Hardselling the crop insurance scheme, Modi appealed to all farmers to avail its benefits and said technology will be used extensively for early settlement of claims. “Twenty five per cent will be paid immediately and the rest as soon as possible,’’ he said. The PM said that premium to be paid by farmers for kharif crop will be just 2 per cent and for rabi crop just 1.5 per cent.

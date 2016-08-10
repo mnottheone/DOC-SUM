@@ -1,0 +1,16 @@
+NASA detects atomic oxygen in martian atmosphere ||||
+ NASA's Stratospheric Observatory for Infrared Astronomy has detected atomic oxygen in the atmosphere of Mars for the first time since the last observation 40 years ago. However, the amount of oxygen detected was only about half of what was expected. Atomic oxygen has a significant impact on the planets atmosphere as it affects how other gases escape Mars. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/d37de854-7456-459c-bd26-b47687812575-1||||
+Scientists have detected atomic oxygen in the atmosphere of Mars for the first time since the last observation 40 years ago.
+These atoms were found in the upper layers of the Martian atmosphere known as the mesosphere.
+Atomic oxygen affects how other gases escape Mars and therefore has a significant impact on the planet’s atmosphere.
+An instrument onboard the Stratospheric Observatory for Infrared Astronomy (SOFIA) detected only about half the amount of oxygen expected, which may be due to variations in the Martian atmosphere.
+Scientists will continue to use SOFIA to study these variations to help better understand the atmosphere of the Red Planet.
+“Atomic oxygen in the Martian atmosphere is notoriously difficult to measure,” said Pamela Marcum, SOFIA project scientist.
+“To observe the far-infrared wavelengths needed to detect atomic oxygen, researchers must be above the majority of Earth’s atmosphere and use highly sensitive instruments, in this case a spectrometer. SOFIA provides both capabilities,” Marcum said.
+The Viking and Mariner missions of the 1970s made the last measurements of atomic oxygen in the Martian atmosphere.
+These more recent observations were possible due to SOFIA’s airborne location, flying between 37,000-45,000 feet, above most of the infrared-blocking moisture in Earth’s atmosphere.
+The advanced detectors on one of the observatory’s instruments, the German Receiver for Astronomy at Terahertz Frequencies (GREAT), enabled astronomers to distinguish the oxygen in the Martian atmosphere from oxygen in Earth’s atmosphere.
+SOFIA is a Boeing 747SP jetliner modified to carry a 100-inch diameter telescope. It is a joint project of NASA and the German Aerospace Centre.
+The research was published in the journal Astronomy and Astrophysics.

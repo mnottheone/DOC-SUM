@@ -1,0 +1,25 @@
+Call drop penalty around 280 crore: TRAI ||||
+ Telecom Regulatory Authority of India on Thursday told the Supreme Court that  the penalty on call drops will be around 280 crore and not thousands of crores as claimed by telecom companies. TRAI added that some telecom companies make 250 crore a day from outgoing calls but make "minimum investment" to improve the quality of service. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/97195629-0003-0004-1362-000012345678||||
+Sticking to its stand on imposing call drop charges on the telecom companies, the central government Thursday complained in the Supreme Court that telcos were making millions but failed to invest adequately in infrastructure to improve services.
+“There is a cartel of 4-5 telecom companies having billion subscribers, who are making Rs 250 crore a day from outgoing calls. … they are making minimum investment on their network to improve the quality of service on their network to curb call drops,” Attorney General Mukul Rohatgi told a bench led by Justice Kurian Joseph.
+Rohatgi, appearing for Trai, defended the penalty to be imposed by the regulator on the firms, saying it will be around Rs 280 crore and not thousands of crore as was being claimed by the service providers.
+
+
+Share This Article
+
+
+
+Related Article Trai to Supreme Court on call drops: ‘Can reconsider fines, if free calls provided’ Examine whether decision of penalty on call drops should be reviewed: Supreme Court to Trai Telcos should pay for call drops: SC’s initial view Call drops: SC denies interim relief to telecom operators on HC order Call drops: SC agrees to hear telcos' plea against compensating subscribers TRAI will not take coercive steps against telecos till Jan 6 in the call drops issue
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+Rohatgi further said there was growth of 61 per cent in the subscriber base for telecom companies from 2009 to 2015 and they were diverting part of the spectrum to data for making more money. “Data service cost more than the calls. None of these telecom companies are here for charity. They are here with billion subscribers for profit. They charge for everything,” added Rohatgi.
+The telcos often cite shortage of spectrum as a reason for call drops but the radiowave remained unsold during the recent auction in 700 MHz band, contended the AG, adding that the Trai has not issued order for improving the infrastructure because that would be “invasive”.
+Meanwhile, the Telecom Commission will take up for discussion, at its meeting on April 30, the plans for upcoming spectrum auction. According to sources, the meeting will discuss spectrum base price, usage charge and other modalities.
+WATCH INDIAN EXPRESS VIDEOS HERE

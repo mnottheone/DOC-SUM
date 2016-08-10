@@ -1,0 +1,31 @@
+Suicide leading youth death cause in '13: Study ||||
+ According to the Lancet Commission on Adolescent Health and Well-being, suicide was the leading cause of death among Indian youth in the 10-24 age group with 62,960 such deaths in 2013. The commission found that road accidents (41,168 deaths) and tuberculosis (32,171) were the other top causes of deaths. Notably, 30.11% of India's population falls in the 10-24 age group. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/d15ef84c-9de0-4ad7-bdcf-2487d57c1747-1||||
+Suicide was the leading cause of death among youngsters aged 10-24 in the country, with 62,960 such deaths reported in 2013, according to the findings of the Lancet Commission on Adolescent Health and Well-being that is being launched in London on Tuesday. Road accidents (41,168 deaths) and tuberculosis (32,171) were the other big killers, together claiming 73,359 young lives in 2013, said the report. Globally, too, accidents, self-harm (suicides), violence, and tuberculosis accounted for most deaths in this age-group.
+The Commission studied three age groups — 10-14, 15-19 and 20-24 — to find that in India, suicides were the leading cause of death in the second and third age groups and the seventh cause of death in the youngest age group (3,594 deaths). In absolute numbers, in 2013, 3,594 adolescents in the 10-14 age group killed themselves in India, 23,748 did so in the 15-19 age group and 35,618 in the 20-24 age group.
+According to Census 2011, there are 364.66 million youngsters in the 10-24 age group, making up 30.11 per cent of the country’s total population.
+
+
+Share This Article
+
+
+
+Related Article Suicides leading cause of death among young: Why are they at such high risk? 2 in every 5 suicides are of people under 30 Tuberculosis, heart disease top causes of death in India: report Most suicides in India in 15-29 age group: studyCardiovascular diseases led to most deaths in 2008: WHO Violence,accidents are killing world's youth: Study
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+For the youngest group (10-14), intestinal infectious diseases claimed most lives (11,668), followed by diarrhoeal diseases (7,375). Lower respiratory infections, drowning, malaria, TB, encephalitis and ‘animal contact’ were the other top killers in this age group. The fact that suicides were a leading cause of death even in this age group suggests that mental health is a growing epidemic across age groups.
+Road injuries were the second leading cause of death in the 20-24 age group (23,658 deaths) and those between 15 and 19 (13,479 deaths). It was also the sixth leading cause of death in the 10-14 year age group (with 4,031 deaths).
+According to the report, suicides, road injuries, TB and depressive disorders were among the top four risk factors for “health loss” among youngsters in the country. This fits in with the global pattern, where mental health disorders and road injuries are the major contributors to health loss. ‘Health loss’ is measured in \terms of ‘disability adjusted life years’ or the proportion of healthy life lost due to illness.
+In India, 28.65 lakh youngsters (in the age group 10-24) have suffered health loss due to depressive disorders, the report said.
+“Adolescents today face new challenges, including rising levels of obesity, mental health disorders and high unemployment,” Dr Vikram Patel, professor of International Mental Health at London School of Hygiene and Tropical Medicine, UK, and among the expert researchers of the Lancet report, told The Indian Express.
+The Commission’s lead author, George Patton, professor at the University of Melbourne, Australia, said the findings should be a “wake-up call for new investment in the largest generation of adolescents in the world’s history (1.8 billion)”.
+Adolescents aged 10-24 years represent over a quarter of the world population (1.8 billion), 89% of whom live in developing countries. Their number is set to rise to about 2 billion by 2032.
+The report said that most health problems and lifestyle risk factors for disease in later years emerge during these formative years but because adolescence is “generally thought to be the healthiest” phase of life, young people have attracted too few resources. Adolescents aged 10-24 years have the poorest health-care coverage among any age group, the report further said.
+The authors used data from the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD), 2013, to study levels, patterns, and trends in ill-health, disability, and death among young people in 188 countries. The Global Burden of Disease project is an international collaboration involving more than 1,500 researchers in more than 110 countries, coordinated by the Institute for Health Metrics and Evaluation at the University of Washington.
+WATCH INDIAN EXPRESS VIDEOS HERE

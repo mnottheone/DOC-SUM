@@ -1,0 +1,20 @@
+Google appeals order for 'right to be forgotten' ||||
+ Google on Thursday appealed the 'right to be forgotten' order to remove certain web search results globally. The European Court of Justice had earlier ruled that people could request the removal of information from results for name searches. Google claims that extension of the right to international results would set a dangerous precedent on the territorial reach of national laws. ||||
+ Reuters ||||
+ https://full-story.newsinshorts.com/v1/article/96e335e0-c0dc-40b4-972c-a4a2ca5d322b-1||||
+BRUSSELS/PARIS Alphabet Inc's Google appealed on Thursday an order from the French data protection authority to remove certain web search results globally in response to a European privacy ruling, escalating a fight on the extra-territorial reach of EU law.
+In May 2014, the European Court of Justice (ECJ) ruled that people could ask search engines, such as Google and Microsoft's Bing, to remove inadequate or irrelevant information from web results appearing under searches for people's names - dubbed the "right to be forgotten".
+Google complied, but it only scrubbed results across its European websites such as Google.de in Germany and Google.fr in France, arguing that to do otherwise would set a dangerous precedent on the territorial reach of national laws.
+In February it also started delisting results across all its domains - including Google.com - when accessed from the country where the request came from.
+The French regulator, the Commission Nationale de l'Informatique et des Libertes (CNIL), fined Google 100,000 euros ($112,150.00) in March for not delisting more widely, arguing that was the only way to uphold Europeans' right to privacy.
+"As a matter of both law and principle, we disagree with this demand," Kent Walker, Google's Senior Vice President and General Counsel, wrote in a blog post.
+"We comply with the laws of the countries in which we operate. But if French law applies globally, how long will it be until other countries - perhaps less open and democratic - start demanding that their laws regulating information likewise have global reach?"
+The company filed its appeal of the CNIL's order with France's supreme administrative court, the Council of State.
+A spokeswoman for the Council of State said that the court hadn't yet received the formal appeal and that the procedure would take "several months." A spokeswoman for the CNIL wasn't immediately available for comment. 
+The CNIL has argued that the right to privacy should not depend on the location of a third person and that extending the right to be forgotten to all of Google's versions does not curtail the freedom of expression because no content is actually deleted -- it simply does not appear in search results.
+"One nation does not make laws for another," said Dave Price, senior product counsel, Google.
+"Data protection law, in France and around Europe, is explicitly territorial, that is limited to the territory of the country whose law is being applied."
+Google accepts around 40 percent of requests for the removal of links popping up under searches for people's names, according to its Transparency Report.
+
+
+ (Editing by Alastair Macdonald and Alexandra Hudson)

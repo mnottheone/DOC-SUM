@@ -1,0 +1,12 @@
+New 'sand' to cool electronic devices created ||||
+ A US-based researcher has devised sand-like silicon dioxide nanoparticles coated with a high dielectric constant polymer that can inexpensively provide improved cooling for electronic devices. The coated nanoscale material's surface properties allow it to conduct the heat at potentially higher efficiency than existing heat sink materials, thereby improving heat dissipation. ||||
+ The Indian Express ||||
+ https://full-story.newsinshorts.com/v1/article/2929c064-038c-4ba5-920f-a3e4a136ddc8-1||||
+A US-based researcher has devised a new “sand” that can inexpensively provide improved cooling for power-hungry electronic devices.
+Baratunde Cola, associate professor at the Georgia Institute of Technology, devised silicon dioxide nanoparticles coated with a high dielectric constant polymer that could be used potentially for heat dissipation from power electronics, LEDs and other applications with high heat fluxes.
+According to the findings, published in the journal Materials Horizons, the silicon dioxide does not do the cooling itself and the unique surface properties of the coated nanoscale material conduct the heat at potentially higher efficiency than existing heat sink materials.
+Watch Video: What’s making news 
+“We have shown for the first time that you can take a packed nanoparticle bed that would typically act as an insulator and by causing light to couple strongly into the material by engineering a high dielectric constant medium like water or ethylene glycol at the surfaces, you can turn the nanoparticle bed into a conductor,” Cola said.
+“Using the collective surface electromagnetic effect of the nanoparticles, the thermal conductivity can increase 20-fold, allowing it to dissipate heat,” he added.
+The researchers used ethylene glycol, a fluid commonly used in vehicle antifreeze, as a heat dissipation material that at the same time did not conduct electricity.
+Though the ethylene glycol worked well, it eventually evaporated. For that reason, Cola plans to identify polymeric materials that could be adsorbed to the silicon dioxide nanoparticles to provide a more stable coating with a reasonable product lifetime.

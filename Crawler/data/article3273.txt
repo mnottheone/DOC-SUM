@@ -1,0 +1,25 @@
+Govt sacks 11 IRS officials absent for 6 years ||||
+ The government has issued an order sacking 11 Indian Revenue Service (IRS) officials who had been absent from work for at least six years. The officers will not be eligible for retirement benefits. The complete absence of an officer, with or without leave, for over five years is considered a resignation, according to a rule approved by the President. ||||
+ The Indian Express ||||
+ http://full-story.newsinshorts.com/v1/article/81087152-0014-0001-6431-000012345678||||
+It was 18 years ago when Smita Rawat, an assistant commissioner in the Delhi Central Excise, was last seen in her office. Deputy Commissioners N K Prasada and D K Dhawan have been missing since 2000. There are eight more senior customs officers who have not attended office for at least six years. All 11 Group A cadre officers have finally been sacked by the government.
+Acting under the Central Civil Services (Conduct) Rules, the Central Board of Excise and Customs (CBEC) has issued orders sacking all 11 officers at one go, and stipulating that they will not be eligible for any retirement benefits owing to their long unauthorised absence from service.
+Approved by the President, the 11 IRS officers have been proceeded against under pertinent rules that mandate that the officer’s continuous absence, with or without leave, for more than five years shall be treated as his or her deemed resignation. The CBEC circular, issued last week, stated that long absence of all these officers has been considered as their deemed resignation from IRS (Custom and Excise), and the resignation will take effect from the date from which the officer had been absent.
+
+
+Share This Article
+
+
+
+Related ArticleBudget day nears, but key CBEC positions unfilledOutgoing FM clears postings of over 100 income tax officialsGovt raises rewards for unearthing tax evasionPune units petition may provide justice to CBEC employeesCBECs circular may jeopardize tax penalties They scrutinise assets of others,but yet to post own returns online
+								jQuery(document).ready(function(){
+									jQuery('.rel-article').bxSlider({
+									maxSlides: 6,
+									slideMargin: 3
+									});
+								});
+								
+The circular said that the decision has been taken after noting that the officers had been given sufficient opportunity to explain their unauthorised absence.
+The senior officers sacked by the CBEC included Joint Commissioner Meenu G Krishnan, a 1980 batch IRS officer who has been missing since August 2003. Despite being on unauthorised leave for 11 years, CBEC in 2014 listed her name for ‘non-functional upgradation’ by extending her the grade of Principal Commissioner.
+Another Joint Commissioner, Rajesh Kumar Jha, has not been heard about by the CBEC since 2006. Jha was transferred to Bengaluru from Mumbai in 2006. The CBEC says no information is available about the officer, who did not join the new field posting.
+Deputy Commissioner N K Prasada last came to the CBEC officer in December 2000 while Deputy Commissioner Rajyashri Waghray is missing since 2001. Her last posting was with Bengaluru zone. Another Deputy Commissioner Bujimalla Venkata Ramesh with Central Excise Ahmedabad was relieved in 2005 to join a new posting in Mumbai Customs Zone but he did not turn up. Deputy Commissioners D K Dhawan and Ankur Agarwal have been unauthorisedly absent since 2000 and 2007, respectively.
